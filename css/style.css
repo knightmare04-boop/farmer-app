@@ -1,0 +1,873 @@
+/* ==========================================================================
+   HarvestFlow (ហាវេសហ្វ្លូ) - Exact Figma Mobile Design System
+   Matches Untitled.fig Mobile Screens (390px width)
+   ========================================================================== */
+
+:root {
+  --primary-green: #0D631B;
+  --primary-dark-green: #00490E;
+  --accent-green: #087A2E;
+  --secondary-mint: #9CF49C;
+  --mint-bg: #E8F5E9;
+  
+  --dark-text: #121D26;
+  --slate-text: #40493D;
+  --gray-subtext: #64748B;
+  --border-color: #ECEEEC;
+  
+  --alert-red: #FF0207;
+  --alert-red-dark: #BA1A1A;
+  --alert-bg-light: #FEE2E2;
+  --orange-accent: #C2410C;
+  --orange-bg-light: #FFEDD5;
+  --amber-warning: #D97706;
+  
+  --screen-bg: #F7F9FF;
+  --card-bg: #FFFFFF;
+  
+  --font-khmer: 'Noto Sans Khmer', 'Kantumruy Pro', sans-serif;
+  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-khmer), var(--font-sans);
+  background: #0F172A; /* Sleek presentation backdrop */
+  color: var(--dark-text);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Studio Presentation Header Bar */
+.studio-topbar {
+  width: 100%;
+  background: #1E293B;
+  border-bottom: 1px solid #334155;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  color: #F8FAFC;
+  z-index: 50;
+}
+
+.studio-brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.studio-brand img {
+  height: 32px;
+  width: auto;
+  border-radius: 6px;
+}
+
+.studio-brand-title {
+  font-size: 15px;
+  font-weight: 700;
+  color: #FFF;
+}
+
+.studio-brand-badge {
+  background: var(--primary-green);
+  color: #FFF;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 999px;
+}
+
+/* Screen Selector Dropdown & Language Switcher in Studio Bar */
+.studio-controls {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.screen-select-dropdown {
+  background: #0F172A;
+  color: #F8FAFC;
+  border: 1px solid #475569;
+  border-radius: 8px;
+  padding: 7px 12px;
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  outline: none;
+}
+
+.screen-select-dropdown:focus {
+  border-color: var(--secondary-mint);
+}
+
+.studio-lang-btn {
+  background: var(--primary-green);
+  color: #FFFFFF;
+  border: none;
+  padding: 7px 14px;
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  transition: opacity 0.2s ease;
+}
+
+.studio-lang-btn:hover {
+  opacity: 0.9;
+}
+
+/* Studio Canvas Area */
+.studio-canvas {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 24px 16px 40px;
+}
+
+/* Mobile Phone Chassis (Exact 390px Frame) */
+.mobile-device-frame {
+  width: 390px;
+  min-height: 844px;
+  background: var(--screen-bg);
+  border-radius: 40px;
+  box-shadow: 0 25px 60px rgba(0, 0, 0, 0.45), 0 0 0 10px #2D3748, 0 0 0 12px #4A5568;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+/* iOS Style Status Bar */
+.mobile-status-bar {
+  height: 44px;
+  padding: 12px 24px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--dark-text);
+  background: var(--screen-bg);
+  z-index: 10;
+}
+
+.status-bar-icons {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
+}
+
+/* Dynamic Island / Notch */
+.mobile-notch {
+  position: absolute;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 120px;
+  height: 24px;
+  background: #000000;
+  border-radius: 20px;
+  z-index: 20;
+}
+
+/* Mobile Screen Content Scrollable Container */
+.mobile-screen-content {
+  flex: 1;
+  overflow-y: auto;
+  overflow-x: hidden;
+  background: var(--screen-bg);
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  padding-bottom: 90px; /* Space for bottom nav or CTA */
+}
+
+/* Mobile Screen Header */
+.screen-header-bar {
+  padding: 12px 18px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: var(--screen-bg);
+}
+
+.header-action-group {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.header-lang-pill {
+  background: #E4EFFD;
+  color: var(--primary-green);
+  font-size: 13px;
+  font-weight: 700;
+  padding: 6px 12px;
+  border-radius: 999px;
+  border: none;
+  cursor: pointer;
+}
+
+.header-profile-circle {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background: var(--primary-green);
+  color: #FFF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.header-brand-img {
+  height: 38px;
+  width: auto;
+  object-fit: contain;
+}
+
+/* Greeting Section */
+.screen-greeting-box {
+  padding: 8px 20px 14px;
+}
+
+.greeting-sub {
+  font-size: 13px;
+  color: var(--slate-text);
+  margin-bottom: 2px;
+}
+
+.greeting-name {
+  font-size: 20px;
+  font-weight: 800;
+  color: var(--dark-text);
+  line-height: 1.2;
+}
+
+.greeting-location {
+  font-size: 12px;
+  color: var(--gray-subtext);
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  margin-top: 2px;
+}
+
+/* Total Stock Overview Card */
+.stock-summary-card {
+  margin: 0 18px 18px;
+  background: #FFFFFF;
+  border-radius: 16px;
+  padding: 16px 18px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  border: 1px solid var(--border-color);
+}
+
+.stock-card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 4px;
+}
+
+.stock-card-label {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--slate-text);
+}
+
+.stock-card-val-row {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  margin-bottom: 12px;
+}
+
+.stock-card-number {
+  font-size: 32px;
+  font-weight: 800;
+  color: var(--dark-text);
+  font-family: var(--font-sans);
+}
+
+.stock-card-unit {
+  font-size: 13px;
+  color: var(--slate-text);
+}
+
+.stock-pill-row {
+  display: flex;
+  gap: 10px;
+}
+
+.stock-sub-pill {
+  flex: 1;
+  background: #F8FAF8;
+  border: 1px solid #E2E8F0;
+  border-radius: 10px;
+  padding: 8px 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.stock-sub-pill.avail {
+  border-left: 3px solid var(--primary-green);
+}
+
+.stock-sub-pill.expiring {
+  border-left: 3px solid var(--alert-red);
+}
+
+.stock-sub-pill-title {
+  font-size: 11px;
+  color: var(--gray-subtext);
+}
+
+.stock-sub-pill-val {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--dark-text);
+}
+
+/* 2x2 Action Buttons Grid (Exact Figma Buttons) */
+.action-grid-2x2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  padding: 0 18px 20px;
+}
+
+.action-tile-btn {
+  background: #FFFFFF;
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  padding: 16px;
+  min-height: 140px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.03);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  text-align: left;
+}
+
+.action-tile-btn:active {
+  transform: scale(0.98);
+}
+
+.tile-top-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.tile-icon-img {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+}
+
+.tile-badge-orange {
+  background: var(--orange-bg-light);
+  color: var(--orange-accent);
+  font-size: 11px;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: 999px;
+}
+
+.tile-title {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--dark-text);
+  margin-top: 10px;
+  margin-bottom: 2px;
+}
+
+.tile-subtitle {
+  font-size: 11px;
+  color: var(--slate-text);
+}
+
+.tile-action-link {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--primary-green);
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  margin-top: 8px;
+}
+
+.tile-action-link.orange {
+  color: var(--orange-accent);
+}
+
+/* Urgent Shelf-Life Alert Section */
+.urgent-section-container {
+  padding: 0 18px 20px;
+}
+
+.urgent-header-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.urgent-header-left {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.urgent-header-icon {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+
+.urgent-header-title {
+  font-size: 16px;
+  font-weight: 800;
+  color: var(--alert-red);
+}
+
+.urgent-header-badge {
+  background: #FFF;
+  color: var(--alert-red-dark);
+  border: 1px solid #FECACA;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 3px 8px;
+  border-radius: 999px;
+}
+
+.urgent-produce-card {
+  background: #FFFFFF;
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  padding: 16px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.urgent-card-top-tags {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.urgent-tag-red {
+  background: var(--alert-bg-light);
+  color: #991B1B;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: 6px;
+}
+
+.urgent-tag-blue {
+  background: #E4EFFD;
+  color: var(--slate-text);
+  font-size: 11px;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 6px;
+}
+
+.urgent-card-details-row {
+  display: flex;
+  gap: 14px;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.urgent-img-wrapper {
+  position: relative;
+  width: 64px;
+  height: 64px;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.urgent-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.urgent-grade-overlay {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+  color: #FFF;
+  font-size: 10px;
+  font-weight: 800;
+  padding: 2px 6px;
+  border-bottom-left-radius: 6px;
+}
+
+.urgent-card-info h4 {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--dark-text);
+}
+
+.urgent-qty-row {
+  margin: 2px 0;
+}
+
+.urgent-qty-num {
+  font-size: 20px;
+  font-weight: 800;
+  color: var(--primary-green);
+  font-family: var(--font-sans);
+}
+
+.urgent-qty-unit {
+  font-size: 12px;
+  color: var(--slate-text);
+}
+
+.urgent-quality-text {
+  font-size: 12px;
+  color: var(--slate-text);
+}
+
+.btn-urgent-markdown {
+  width: 100%;
+  background: var(--primary-green);
+  color: #FFFFFF;
+  border: none;
+  height: 44px;
+  border-radius: 10px;
+  font-weight: 700;
+  font-size: 14px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}
+
+/* Floating Large Bottom CTA Button */
+.floating-bottom-cta-box {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 12px 18px 24px;
+  background: linear-gradient(180deg, rgba(247, 249, 255, 0) 0%, rgba(247, 249, 255, 0.95) 30%, #F7F9FF 100%);
+  z-index: 30;
+}
+
+.btn-floating-cta {
+  width: 100%;
+  height: 58px;
+  background: var(--primary-green);
+  color: #FFFFFF;
+  border: none;
+  border-radius: 14px;
+  font-size: 15px;
+  font-weight: 800;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  box-shadow: 0 4px 14px rgba(13, 99, 27, 0.35);
+  transition: transform 0.15s ease;
+}
+
+.btn-floating-cta:active {
+  transform: scale(0.98);
+}
+
+/* Bottom Navigation Bar (Exact Figma Nav) */
+.mobile-bottom-nav {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 70px;
+  background: #FFFFFF;
+  border-top: 1px solid var(--border-color);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  z-index: 35;
+  padding-bottom: 8px;
+}
+
+.bottom-nav-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  text-decoration: none;
+  color: #66736A;
+  font-size: 11px;
+  font-weight: 600;
+  cursor: pointer;
+  position: relative;
+  padding: 6px 12px;
+}
+
+.bottom-nav-item.active {
+  color: var(--accent-green);
+}
+
+.bottom-nav-icon {
+  font-size: 20px;
+}
+
+.bottom-nav-badge {
+  position: absolute;
+  top: 2px;
+  right: 12px;
+  background: var(--alert-red-dark);
+  color: #FFF;
+  font-size: 10px;
+  font-weight: 800;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Buyer Home Styles */
+.buyer-search-bar {
+  margin: 0 18px 14px;
+  background: #FFFFFF;
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 10px 14px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.03);
+}
+
+.buyer-search-input {
+  border: none;
+  outline: none;
+  font-family: inherit;
+  font-size: 13px;
+  width: 100%;
+  color: var(--dark-text);
+  background: transparent;
+}
+
+.buyer-category-scroll {
+  display: flex;
+  gap: 12px;
+  padding: 0 18px 16px;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.buyer-category-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.category-chip-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+  min-width: 62px;
+}
+
+.category-chip-img-box {
+  width: 48px;
+  height: 48px;
+  background: #FFFFFF;
+  border-radius: 12px;
+  border: 1px solid var(--border-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+}
+
+.category-chip-img {
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+}
+
+.category-chip-label {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--dark-text);
+  text-align: center;
+}
+
+/* Market Price Ticker Banner */
+.market-ticker-box {
+  margin: 0 18px 16px;
+  background: #E8F5E9;
+  border: 1px solid #C8E6C9;
+  border-radius: 10px;
+  padding: 8px 12px;
+  font-size: 11px;
+  color: #1B5E20;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* Buyer Deal Cards (Horizontal Scroll or Stack) */
+.deals-horizontal-scroll {
+  display: flex;
+  gap: 14px;
+  padding: 0 18px 24px;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.deals-horizontal-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.buyer-deal-card {
+  min-width: 240px;
+  width: 240px;
+  background: #FFFFFF;
+  border-radius: 16px;
+  border: 1px solid var(--border-color);
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  display: flex;
+  flex-direction: column;
+}
+
+.deal-card-img-box {
+  width: 100%;
+  height: 120px;
+  position: relative;
+  background: #F4F7F4;
+}
+
+.deal-card-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.deal-badge-discount {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  background: #B91C1C;
+  color: #FFF;
+  font-size: 10px;
+  font-weight: 800;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+.deal-badge-grade {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background: #143820;
+  color: #FFF;
+  font-size: 10px;
+  font-weight: 700;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+.deal-card-body {
+  padding: 12px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.deal-coop-name {
+  font-size: 10px;
+  font-weight: 700;
+  color: #1B6D24;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+
+.deal-produce-title {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--dark-text);
+  margin: 2px 0 8px;
+}
+
+.deal-price-row {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+}
+
+.deal-price-main {
+  font-size: 16px;
+  font-weight: 800;
+  color: #087A2E;
+  font-family: var(--font-sans);
+}
+
+.deal-price-old {
+  font-size: 12px;
+  color: #64748B;
+  text-decoration: line-through;
+}
+
+.deal-footer-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+  padding-top: 8px;
+  border-top: 1px solid #F1F5F9;
+}
+
+.deal-stock-left {
+  font-size: 11px;
+  color: var(--amber-warning);
+  font-weight: 700;
+}
+
+.btn-deal-add {
+  background: #023616;
+  color: #FFFFFF;
+  border: none;
+  padding: 5px 12px;
+  border-radius: 6px;
+  font-size: 12px;
+  font-weight: 700;
+  cursor: pointer;
+}

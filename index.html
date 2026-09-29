@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="km">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HarvestFlow — Figma Mobile Design</title>
+  <meta name="description" content="Direct replica of Untitled.fig mobile screens for HarvestFlow Cambodia with Khmer and English bilingual support.">
+  
+  <!-- Google Fonts: Plus Jakarta Sans & Noto Sans Khmer -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Khmer:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" type="image/png" href="assets/logo.png">
+</head>
+<body>
+
+  <!-- Studio Top Presentation & Navigation Bar -->
+  <header class="studio-topbar">
+    <div class="studio-brand">
+      <img src="assets/logo.png" alt="HarvestFlow">
+      <span class="studio-brand-title">HarvestFlow (ហាវេសហ្វ្លូ)</span>
+      <span class="studio-brand-badge">Untitled.fig Exact Screens</span>
+    </div>
+
+    <div class="studio-controls">
+      <!-- Screen Navigator Dropdown -->
+      <select class="screen-select-dropdown" id="studioScreenSelect" onchange="App.goToScreen(this.value)">
+        <optgroup label="Cooperative / Seller Portal (សហករណ៍)">
+          <option value="seller-dashboard" selected>2. Main seller dashboard (ផ្ទាំងគ្រប់គ្រងសហករណ៍)</option>
+          <option value="role-selection">១. ជ្រើសរើសតួនាទី (Role Selection & Login)</option>
+          <option value="seller-intake">២. ថ្លឹង និងកត់ត្រាផលដំណាំ (Visual Harvest Intake)</option>
+          <option value="seller-stock">៣. ស្តុកបច្ចុប្បន្ន & អាយុកាល (Live Stock & Shelf Life)</option>
+          <option value="seller-flash">៦. ផ្សាយលក់បន្ទាន់ (Emergency Flash Sale)</option>
+        </optgroup>
+        <optgroup label="Wholesale Buyer Portal (អ្នកទិញ)">
+          <option value="buyer-home">buyer-home (ទំព័រដើមអ្នកទិញ)</option>
+          <option value="buyer-browse">buyer-browse (ស្វែងរកកសិផល)</option>
+          <option value="buyer-details">buyer-vegetable-details (ព័ត៌មានលម្អិតកសិផល)</option>
+          <option value="buyer-cart">buyer-cart (កន្ត្រកទំនិញ)</option>
+          <option value="buyer-checkout">buyer-checkout (ការទូទាត់ & ទីតាំង)</option>
+          <option value="buyer-track">buyer-track-order (តាមដានការដឹកជញ្ជូន)</option>
+          <option value="buyer-receive">buyer-receive-order (ផ្ទៀងផ្ទាត់ទទួលទំនិញ)</option>
+        </optgroup>
+      </select>
+
+      <!-- Language Switcher -->
+      <button class="studio-lang-btn" id="studioLangBtn" onclick="App.toggleLanguage()">
+        🇰🇭 ភាសាខ្មែរ (KM)
+      </button>
+    </div>
+  </header>
+
+  <!-- Presentation Canvas Area -->
+  <main class="studio-canvas">
+    <!-- iPhone Device Frame (390px) -->
+    <div class="mobile-device-frame">
+      <!-- Notch -->
+      <div class="mobile-notch"></div>
+
+      <!-- iOS Status Bar -->
+      <div class="mobile-status-bar">
+        <span>9:41</span>
+        <div class="status-bar-icons">
+          <span>📶</span>
+          <span>🛜</span>
+          <span>🔋</span>
+        </div>
+      </div>
+
+      <!-- Active Screen View Container -->
+      <div id="mobileAppContainer" style="flex: 1; display: flex; flex-direction: column; overflow: hidden; position: relative;">
+        <!-- Injected dynamically by App.renderScreen() -->
+      </div>
+    </div>
+  </main>
+
+  <!-- Scripts -->
+  <script src="js/translations.js"></script>
+  <script src="js/state.js"></script>
+  <script src="js/views.js"></script>
+  <script src="js/app.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      App.init();
+    });
+  </script>
+</body>
+</html>

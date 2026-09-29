@@ -1,0 +1,3552 @@
+[
+  {
+    "canvas": "Page 1",
+    "id": "4:1513",
+    "name": "១. ជ្រើសរើសតួនាទី និងចូលប្រើប្រាស់ (Role Selection & Login)",
+    "size": "390x1413",
+    "textCount": 37,
+    "sampleTexts": [
+      "HarvestFlow",
+      "From harvest to buyer",
+      "ខ្មែរ",
+      "EN",
+      "From harvest to buyer — before it's too\nlate. ស្រស់ៗពីចម្ការជូនដល់ទីផ្សារ!",
+      "ជំហានទី ១ : កំណត់អត្តសញ្ញាណ",
+      "សូមជ្រើសរើសប្រភេទ\nអ្នកប្រើ",
+      "ជ្រើសរើសតួនាទីរបស់អ្នកដើម្បី\nរៀបចំផ្ទាំងគ្រប់គ្រងសមស្រប",
+      "👩‍🌾",
+      "អ្នកលក់ / សហករណ៍\nកសិកម្ម",
+      "សហករណ៍សាមគ្គី",
+      "គ្រប់គ្រងស្តុកកសិផល ទទួល\nការបញ្ជាទិញ និងពិនិត្យ\nតម្លៃទីផ្សារ",
+      "🛒",
+      "អ្នកទិញ (Buyer /\nBusiness)",
+      "សម្រាប់អ្នកទិញ"
+    ],
+    "imagesCount": 1,
+    "sampleImages": [
+      {
+        "name": "HarvestFlow Logo",
+        "hash": "95e9d8b557291853d7aa7dc178d11ece1fbcd9c8"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:1686",
+    "name": "2. Main seller dashboard",
+    "size": "390x1098",
+    "textCount": 40,
+    "sampleTexts": [
+      "សួស្តី",
+      "សហករខេត្តបាត់ដំបង",
+      "ស្រុកបាណន់ ខេត្តបាត់ដំបង",
+      "ស្តុកសរុបទាំងអស់",
+      "1,250",
+      "គីឡូក្រាម (kg)",
+      "មានស្រាប់",
+      "980",
+      "kg",
+      "ជិតផុត",
+      "120",
+      "kg",
+      "បញ្ជាទិញ",
+      "150",
+      "kg"
+    ],
+    "imagesCount": 8,
+    "sampleImages": [
+      {
+        "name": "image 2",
+        "hash": "a67446524d28500bdb13977b0371c4158d4d9b9c"
+      },
+      {
+        "name": "vegetable-2 1",
+        "hash": "a17bf188f27ebbce89c51bfa63d9695e94f9ec6e"
+      },
+      {
+        "name": "vegetable 1",
+        "hash": "dc1031157afd5caa2a75816e7c721c2cf73f9b6f"
+      },
+      {
+        "name": "vegetable-3 1",
+        "hash": "f5f02b4d51a79d6d0f425a0bf873eaf05a7bba49"
+      },
+      {
+        "name": "order 1",
+        "hash": "b4907f55076aea10bc0a124fb42a72bbb2b8f43f"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:1953",
+    "name": "៣. ស្តុកបច្ចុប្បន្ន & អាយុកាល (Live Stock & Shelf Life)",
+    "size": "390x2015",
+    "textCount": 84,
+    "sampleTexts": [
+      "ផ្សាយផ្ទាល់ពីឃ្លាំង\n(Live Warehouse)",
+      "ទើបធ្វើ\nបច្ចុប្បន្ន\nភាព",
+      "ស្តុកដែលមានស្រាប់ជាក់ស្តែង\nសរុប",
+      "980",
+      "គីឡូក្រាម (kg)",
+      "ចំណុះផ្ទុកឃ្លាំងសរុប (សមត្ថភាព 1,200 kg)",
+      "81.6%",
+      "ទាំងអស់ (All)",
+      "980kg",
+      "🥬 បន្លែស្លឹក",
+      "(350kg)",
+      "🍅 បន្លែផ្លែ",
+      "(280kg)",
+      "🥕 មើម",
+      "(350kg)"
+    ],
+    "imagesCount": 5,
+    "sampleImages": [
+      {
+        "name": "AB6AXuCyQ4o2rEIYgLKx_dS1zN5VRqhJNmytjumRkAyOa3TONfV2v-0nzPFHo_IKLRYm-g47T6NfPCIwaoBqJJTDm4LMdURLnvGAOq5Hu1pr4bZne5EuWHmcJioxrKJMpK3-aaOns8Swacy9NGeX2L7EW4HQW--JBlucSdh0d4Bxy61dbXB310cucF9OasTOluRPXU6FBL4IPyGafjJr8nk24nBJku8g_j47RgEMgqxQcbb3O4fab1RY-yIVIw",
+        "hash": "5d520f10daf22e84fad67448403e2ceb18806deb"
+      },
+      {
+        "name": "AB6AXuAcWsHrOCQsd5MQVBv_1ZZzytaTMf5pWFnPdmSUwnktPA-whoODT0Zrslsvob2VEokkyZro6JZS6No-05GfO7JyEzEoEKtUevoFwCRvRiJamBWQzXjb3Yhodwz65UGJwCBhCbOFFh014dX6h8yRqZ0P7C4ukXmCVhbNxTkj-JXLKkTAT0Vn-n5CK0KmrrtztZ1rv0a0VdjEHqXDZ9IvKl0tGWiLc8zyPKLmUieEAZh2PU8VLU8OK_Ca9g",
+        "hash": "21a3ed92ef7d9e2b5abc0a5e381069f489d0358e"
+      },
+      {
+        "name": "AB6AXuCHDmYwSr_W4OpwNGe6SJ3twBb-_VkDgV6J2JlMURTVEWYV3ZqRS7kkBicUSbED5OwWY_vWGIheTpQYQhQ0oCVzAqZMkKsL0FTZoLfFdOKoBBDmYITuWJ1DOpF8UGOZf4W7QLFo6dkdZNMeUAH5n_7RqwBYAVCBkmPn8aB-QC_ginQtOtR6WMHzXnlumeIFp56Ub1YdxekXpEdtoeTBMiTQ7SYHVMg-i9wV5KKopLKkLWep__Z_naLz_w",
+        "hash": "f16732213921b92d7ce9982a80cc1b8cc3bae420"
+      },
+      {
+        "name": "AB6AXuCMhC7jucYYDhRsLKMk0UmxrZVV9qecotCw_CH4FkR4wqgU-VY3rGUfuQ0-v1WfKrk5FUjR1ZuJ80LoooPX9TSaRm7x-Er9Aq-ioiqvv9UHpciYDbwh5b48jz3dAJtCtVK1qbJUiun9zgvemBa4as9n19-FlwnjaG6gZk6Yl9JXIXIfhe3PJQb6Pl2KBkRV62w9_HBmAdKbqrwqtLhXCeyxusU_M6ueJbsQnod5akui000SInBy-JapwA",
+        "hash": "4b4db4b89a4966526a5b81dfbe60ef9f42df0231"
+      },
+      {
+        "name": "HarvestFlow Logo",
+        "hash": "95e9d8b557291853d7aa7dc178d11ece1fbcd9c8"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:2271",
+    "name": "៤. បញ្ចូលផលដំណាំពីកសិករ (Add Harvest Intake)",
+    "size": "390x1916",
+    "textCount": 64,
+    "sampleTexts": [
+      "ដំណាំ",
+      "កសិករ",
+      "3",
+      "បរិមាណ",
+      "4",
+      "បញ្ជាក់",
+      "ជំហានទី ៣ នៃ\n៤:",
+      "ថ្លឹងទម្ងន់ & កំណត់កម្រិតគុណ\nភាព",
+      "A GRADE",
+      "លេខកូដ: #LOT-2809-TM",
+      "ប៉េងប៉ោះ (Tomatoes)",
+      "ប្រភេទពូជ: ផ្កាឈូកក្រហមស្រស់",
+      "ប្រភពកសិករចូល\nរួម",
+      "បានផ្គូផ្គង និងថ្លឹងជាក់ស្តែង",
+      "3\nនាក់"
+    ],
+    "imagesCount": 5,
+    "sampleImages": [
+      {
+        "name": "AB6AXuDMAdAtCUyzHv5MESmHA6pUlG247nE-dOH4WH9SbP7mLeBSk0Ic0bRbTmPxMW5j_AgE51M38XNgMLk4xoFzj73yXnPRseseCWsKRYM4rAR-nzpmWL5p456ZeeLRVnYaFeh4d6n-oEQxv0QcXajjPMWmXggzchHq7f3vwzT0dBtduHcEO0glmvYn8i1M06IBUgpglngtpRxZYaEHXjsKxIO7g7Z5IYQMOj989LOcv1qI9JQCa6wyMvivNQ",
+        "hash": "05fb21dd3a0ccc40dd60285048a117aa9ca98aea"
+      },
+      {
+        "name": "AB6AXuBG8z27bpLJlgfPsCYUNks1ETiEuMm-udEZIFKYTYNCg4kErTFlrS1BI2XNdHYt0wE13SAOq322-dOlUntZTAF6g8MxA-FiDDqOQtYRxVwl-iyNZ82XqAAz7TJNfkPKT8wbV0wawn5dg-q2nHNcdfsuQnjdNUMhV0BjPHO4uWxqR4us9mi7PaJvZU1tPWnb-fqgddlwx9fK2Z9tWUezc7rljT4Ak-YRoWZ3VeTv3qwkwXKh_K02ChuqHA",
+        "hash": "2eff21aa4855562286812e5d4b9eac2d4d47897c"
+      },
+      {
+        "name": "AB6AXuD_e7efQB2rpXBplJS3OYGXLjbVj7msh9lli1-B3gzX1JyugcFpvCuUntI7ZxGjnkCDPIx6IUpZbTaSF3Batt_eZhwcWl-vibK_VklIKEM_RFQ4uy6AesHDCPrlGbe3P0Wem2KfJCnwj1w0rGr3DByUqV4vYF3Hy20iewZ1hrMDevSOml9I-zAx_DkHQA_gmO8RreFgEoJMKZeaGQDUz45FXokWZhr8Pgk1xRMibw1gKjzwBw_VF9iOgA",
+        "hash": "8416c29eee3252914a201c0df9a527238ca210d0"
+      },
+      {
+        "name": "AB6AXuBzoOEo7-v71pN7eUEKoZB28IIhejdMMH-0yls-kPpDivXPuNbI_Z_TDOPd9FOVi1I0JhX3V3pz0IM0UqqjGhE1gx12H9uzBVgP-3_VZFWYiUWU1PMChjY22UffNl7CP0b4e7YIFWEbLdt8Hos9uY7Hgm58TyzLkju_1US2tyHxkF1lpwUAfYFaaw0RjHheat_24lyw0z_FIK_RRPEse430Pi42yPhoqpHWZv35rkhG-oFCERiGYAV9DA",
+        "hash": "510343f9b2d3a70274f468a77bb088fbe1f150e9"
+      },
+      {
+        "name": "HarvestFlow Logo",
+        "hash": "95e9d8b557291853d7aa7dc178d11ece1fbcd9c8"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:2532",
+    "name": "៥. ព័ត៌មានបញ្ជាទិញ & កាត់ស្តុក (Order & Auto Deduction)",
+    "size": "390x1737",
+    "textCount": 56,
+    "sampleTexts": [
+      "រង់ចាំ\nបញ្ជាក់",
+      "#ORD-2026-\n089",
+      "១០ នាទី\nមុន",
+      "ដំណើរការបញ្ជាទិញ",
+      "ជំហានទី ២ / ៥",
+      "បានបញ្ជា",
+      "បញ្ជាក់",
+      "រៀបចំ",
+      "ដឹកជញ្ជូន",
+      "ទទួលរួច",
+      "ភោជនីយដ្ឋាន Green\nGarden",
+      "Green Garden Restaurant",
+      "ដៃគូ\nVIP",
+      "លេខទូរស័ព្ទ",
+      "012 345 678"
+    ],
+    "imagesCount": 2,
+    "sampleImages": [
+      {
+        "name": "AB6AXuB4AJsO1NCXK-Eram4G4A9qWDe_jAombjVt5alebwxfl8k-Gc2N1Fb4YiZWbiG4OPHJdveMCcX5-SCWrbRJZKQ3JLo0j5pMcuKPZzBnuj_RDNnw5oinE7FtOt6WaaAa6hTDL7-pnlPM1mT4GPpOO-3zAmqqD4afcM9q1XuFxXCe-slXB415ZDBCwF_j0U3yY0WHHuKrpJ1V_6EYq0WjVYCsuhPkwBsOu4fleHGqS4bXpiLYlFWnKDFuaw",
+        "hash": "e595b94450173f6e919d6b79c58c2458bdbb49fe"
+      },
+      {
+        "name": "HarvestFlow Logo",
+        "hash": "95e9d8b557291853d7aa7dc178d11ece1fbcd9c8"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:2782",
+    "name": "៦. តម្លៃទីផ្សារយោង & កសិករ (Market Prices & Farmers)",
+    "size": "390x1498",
+    "textCount": 58,
+    "sampleTexts": [
+      "តម្លៃទីផ្សារ",
+      "បញ្ជីកសិករ",
+      "ភ្នំពេញ (Phnom\nPenh)",
+      "ថ្ងៃនេះ\n(28/09/2026)",
+      "សេចក្តីជូនដំណឹងអំពីតម្លៃយោង",
+      "តម្លៃនេះជាតម្លៃយោងសម្រាប់ការលក់\nនិងអាចប្រែប្រួលតាមទីផ្សារជាក់ស្តែង\nនៃការប្រមូលផល។",
+      "ទំនិញកសិកម្ម\nសំខាន់ៗ",
+      "ធ្វើ\nបច្ចុប្បន្ន\nភាព",
+      "ប៉េងប៉ោះ",
+      "(Tomato)",
+      "កម្រិតគុណភាព A •\nស្រស់",
+      "$1.20",
+      "4,900 ៛ / គីឡូ",
+      "ចន្លោះតម្លៃទីផ្សារ",
+      "$1.00 – $1.40"
+    ],
+    "imagesCount": 4,
+    "sampleImages": [
+      {
+        "name": "AB6AXuB5F4fexosZ2yHU7GS4Eon3A_MJb-s8_Q0XZw9pNorVrDavKtEvRsz0TOyVBwjteR9atvk5DzJd_WtBv0DSoOSjh59FONhFz5oG5z2R9hSA0rQDWRWTEIlxzyfyPJm3CwKUeoibh1Qnhefxk28vB08EDjOLZknB2PSMuVm_guAzdtl_dxycFW6mCw8gAPYz_N9anO5AH64B0foWDpIR-YlGJ4B69-lv2G4b9u87k63761kBtrevqTUHww",
+        "hash": "ae82510ab3ad77afdbc49699eb344b111fbacf04"
+      },
+      {
+        "name": "AB6AXuBTh6HovCYr5UKE5LKcIlnwGAhFsV3jPDXza34jju0mJLq4mQDVDYKhWyCXH9PoE9AlRFX3X84Mhg3a3iWTY-h90xAjE5J_-WVGtNteFlSG0KSU05Xz5t4hHb957lvgm8ygpMs5gpBhsMGg8AQQKyfdGkpo9jWbWp-3NsZzaUg7uQ6p67TApETLFJZGYZrqLRhaN55hv6Zffvtbk6392gJP1laVGA8xCpTV31pzCQil61aTihYHQdIZbw",
+        "hash": "52ca2a4d8467a870bf630c2666b82298d9368e7d"
+      },
+      {
+        "name": "AB6AXuAJI4zbR6_GZhb-LOENdN1pGmsHEhXb7_NfNoX3FwlzpQ8hsicTmLA6qAEUc0KQEydLlRKPCRmNWeqp6gsj3Kv-wrZ2gD50JXjy7WLGna7Uho9iPP9AyTWOJd1wlaQxEGEe8uIA2MTCI3gE2koNJ3AGkiyjwLSWnf8v8cY8LAxVrQMTLPiaNhMDj_5D94Xj4eLti7djp66mLXGzNwl4Tc3Nm_S7sJuX8RzTCcwZsB9rae5Kmyv_Dsj2yA",
+        "hash": "84f1b014a9f9cb069fcdc37fd76ae0f42751582b"
+      },
+      {
+        "name": "HarvestFlow Logo",
+        "hash": "95e9d8b557291853d7aa7dc178d11ece1fbcd9c8"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:5799",
+    "name": "១. ផ្ទាំងដើមសម្រួលកិច្ចការ (Visual Seller Dashboard)",
+    "size": "390x1403",
+    "textCount": 56,
+    "sampleTexts": [
+      "សហករណ៍សាមគ្គី",
+      "Samaki Agri Cooperative • បាត់ដំបង",
+      "ខ្មែរ",
+      "EN",
+      "ស្តុកសរុបក្នុងឃ្លាំង • TOTAL STOCK",
+      "បច្ចុប្បន្នភាព",
+      "១,២៥០",
+      "គ.ក្រ (kg)",
+      "ទម្ងន់សុទ្ធសរុបមានក្នុងឃ្លាំង ៤ បន្ទប់",
+      "មានស្រាប់",
+      "980",
+      "kg",
+      "ត្រូវលក់ឆាប់",
+      "120",
+      "kg"
+    ],
+    "imagesCount": 4,
+    "sampleImages": [
+      {
+        "name": "HarvestFlow Leaf",
+        "hash": "3345013f8eff1830bb82a36ffe6d9a14b8350900"
+      },
+      {
+        "name": "AB6AXuAKMdCnfZj_1iSV7ihtGtdxlatYebtHfO6TmlO-tVYLjNQ9vbwf_S4M5zOEs0NzwMLHrT4EEpQlra8VviYGhsXR38RbOskeWFbmzB3QWVqjzA61cvsUOpgkTWg4nLmhk2OPvvspvllXM8RKsmw0lil9hHSbYFaAaq39errSffUrhHrW_tmPhubuVn9-lsDwvJRnEjvNX0FYCAD7hFvChx0RFjz-erUBHUr9zsVgpy81ZGN7ULA2LEXNgg",
+        "hash": "09366695057cc89809b3e0ec94d3b4881c7a8ee9"
+      },
+      {
+        "name": "AB6AXuAkYtCyrnA7Ycoc4j9TbQNbW7dqXKV0EYoIa1E1oV12K5i0rPLIy65t63sSKISeDVkm08ke9Tn29mNVx-Hlu7xxgeFj3Sb7UzNeRP-dA5HS4EXB6g1cspaWSFLYI5sHt9hHc9rnwN6F6QelO8TUK3drnEBI6Pj8ORF4E-QxReHeOqwsj2loGOrckYDPQitIxrPm5R-VeLK6M9aA-fXLWu7-S4sxpXbrq1ArJFu0xj3F8UQHAa78kKNypg",
+        "hash": "278d56127fd880cc335a97064d22719d94659353"
+      },
+      {
+        "name": "Profile",
+        "hash": "4c2d7ed47c00752113cf03c7e891eb1bd57c4597"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:6047",
+    "name": "៣. ស្តុកបច្ចុប្បន្ន & កាត់ស្តុកស្វ័យប្រវត្តិ (Live Stock & Shelf Life)",
+    "size": "390x1432",
+    "textCount": 73,
+    "sampleTexts": [
+      "សមត្ថភាពផ្ទុកឃ្លាំង",
+      "(Storage Capacity)",
+      "ឃ្លាំងត្រជាក់ A & B",
+      "៨១%",
+      "ជិតពេញ",
+      "៩៨០",
+      "/ ១,២០០ គ.ក្រ",
+      "នៅសល់ ២២០ kg",
+      "សីតុណ្ហភាព",
+      "12°C",
+      "ធម្មតា",
+      "សំណើមខ្យល់",
+      "88%",
+      "ល្អប្រសើរ",
+      "ទាំងអស់ (All)"
+    ],
+    "imagesCount": 4,
+    "sampleImages": [
+      {
+        "name": "AB6AXuAJVDIGiia9pOWyuSdawweM2bMll7FVq8oikDPqSn9BOwNdtPxHu9bROfVCtHkYSrh-d0wwutuYUHKvYB-C0tVWp-kzwjdmY972IS8Q2Yg86Qj0j0gCeu5SRc7Hei-yL3PKZpDaLpVfABYi1dgCDzvxFfkdNDuEstY_o8R5TFCERm62fYBfp_hdj9MgceyqeHQ9hV0XjDXs5hmzY2FbAfT3tUihI0Ouhm82hrBvmON95Dxu_nS3Kxkxgg",
+        "hash": "4ddcd37d178b13dc41abf25c21b3db77dee5ebdc"
+      },
+      {
+        "name": "AB6AXuAaBKQPpnZUHVwWnnoC3zl0qm9JIgXH4FaViKC_10ZEuTMpIIhGrRJSioRyGKEYO2XyYTbdNjSuxa1xyrPF6t-ysBVbU6VZdlo-zpUNYGWi7o8bY7RnRTuF1mHjjZat0iCtI_7dFGPFNLu5EIRHaeCnE45-nJ6VCigkhfw0ZbiaHuCuOwG1Ird7Zima29LSzvVx-e5hrbAiIHzwUOtaOfTE_tjsJLWn2aZ-g1TcvMQlzH7n9CUv2WzzyQ",
+        "hash": "27a34cbd1717f430d622a253cdbdeead253cffa7"
+      },
+      {
+        "name": "AB6AXuAeA0ynGp8Uot-ngOUfiPGn_ejhfmYEauBd6RBPTL2ShHDPbxbZ-rL7FYDvAS1u5i8Uy3xzT2A_L1MdoYv9VDAKXJ_GOarAgE1EICC_drhTMACPzklDYj2P3rFwlwqHIVHqFFnwwyowy5yBw0ZJQuApRlo3kpXH6PmFFw7hSJB9xx082f87x5C0H_5Qp0n2DO4mHYZuxcBUERPNDJMdmIrDjJce0HwigXundTGpLAEuLjzaIeDseETfvQ",
+        "hash": "2f531a9b1e84965868d9708e99e13b7031a45e93"
+      },
+      {
+        "name": "Profile",
+        "hash": "4c2d7ed47c00752113cf03c7e891eb1bd57c4597"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:6345",
+    "name": "៥. ព័ត៌មានលម្អិតបាច់ & ប័ណ្ណទទួលផល (Batch Detail & Receipt)",
+    "size": "390x1184",
+    "textCount": 45,
+    "sampleTexts": [
+      "កត់ត្រា និងបញ្ចូលស្តុក\nជោគជ័យ!",
+      "Intake & Inspection Saved Successfully",
+      "#LOT-TOM-\n884",
+      "និទ្ទេស A\n(Grade A)",
+      "ប៉េងប៉ោះធម្មជាតិ",
+      "Organic Vine Tomato • កម្រិតស្តង់ដារសហករណ៍",
+      "ទម្ងន់សរុប\n(Net)",
+      "300.00",
+      "kg",
+      "ទីតាំងផ្ទុក\n(Location)",
+      "ឃ្លាំងត្រជាក់ A",
+      "12°C Controlled",
+      "កម្រិតភាពស្រស់ (Freshness Index)",
+      "90%",
+      "កាលបរិច្ឆេទចូល៖"
+    ],
+    "imagesCount": 5,
+    "sampleImages": [
+      {
+        "name": "AB6AXuBOtjCrfVXMFdxYC7_P-tsYEdzBWqa1RFp5Ahn3bY2NrMvuHE4pRiIxoxMd3Rk-m2_3cIF3teuKdMZyzfQ-mzj7-oiY5kNykIiP-pxiEwvn0A3pDzA91vsMYbnem-SQwhy8wsTPisF3-efo_taGIE5q6rzX_k0UhERGjVnSbyeZu1t824chPvGR4llfmW1i8rI1eVfxpDfwURsKWhnP7Ed7tkxKI_57GME3rpw7KEwbiz3li5sU3NXvpA",
+        "hash": "4cd36a94790f45a95bd97cb66578fda37aa2bd56"
+      },
+      {
+        "name": "AB6AXuDhQgXeHjM5vuxlBshskjRv7RGcIBmPS-3zDE0T1_p0hzWzT9f9PSfgwOxNA62X3aiTho6K3aPhPOQ5Ys2NcVoIIvklMkAuOloZcpHgMxtB9VJYxNF3heLRRNM5wOAKtykM16vjLo9h-z8NcUwW0Epk1dqaeqzAmI7iINv0CX4wR798mCxMXBQMMATCU72htNQC2Hc6VDQnxREqrBTkH6f1cbYtFqDYCOL7gEpaVR78QLProgc6SB2qOg",
+        "hash": "b944109e7f66b682548dde2ba7ea34ecd39049e0"
+      },
+      {
+        "name": "AB6AXuBMMBEWohye69idLPKbFGP7Khdxs-H6BbCBiIVJprVmh-pQs9UM39QG0bwSAiprUeEOE7Y8kkErc8U-MZ68QvzN99HlEJWMs2UHJJDSeTPKVZMYC1klKwHSBaAWRKvGr87R5Lb3EYOxYkxDrTxFdwh4iMxzPxnH-vAHfJ5G9gPlyMjq3qXjZ3McRjG6fwUxOhQHdN9EEkS8mBhBm31ESodxpuJtl9lX87JdjjS53xYe24xRCZ4y1XRrPw",
+        "hash": "b2040820e21c86c5d2827c002b16fd2325eb2c2b"
+      },
+      {
+        "name": "AB6AXuDesAaNsHUrBOp06Q5bm8Mc4QK_yimxhR8vkHuXqCKBOXO1TKjxBtBtaBDuctfEjVzts31LHzSURtFEfBHKjTEZHEfcsLOjbNLPMHFlbilDMAhTNcO42kGI8k7ncO1ZfJRCLbQWEy92UlgDcWKCmOVV3GHMqgRid7UIaaVKF37n_oYtyvKNh8LN_dhQtMEGy5pVDAC__OT0_45CDpH8dGsNWmyZKuApKBfiXKMNSgOcXrBwbFhZomGatw",
+        "hash": "e464ae5aab8457cc15b6222bdb4e1babb8b3245a"
+      },
+      {
+        "name": "Profile",
+        "hash": "4c2d7ed47c00752113cf03c7e891eb1bd57c4597"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:6525",
+    "name": "៦. ផ្សាយលក់បន្ទាន់ការពារការខូចខាត (Emergency Flash Sale Broadcast)",
+    "size": "390x1581",
+    "textCount": 52,
+    "sampleTexts": [
+      "នៅសល់ ២៤ ម៉ោង",
+      "ប្រញាប់បំផុត!",
+      "ដំណាំជិតផុតអាយុកាល — លក់\nបន្ទាន់មុនខូចគុណភាព!",
+      "បញ្ចុះតម្លៃរហ័សដើម្បីជម្រះស្តុក\nនិងបញ្ចៀសការខាតបង់ថវិកា។",
+      "កសិផលខ្មែរ",
+      "ស្តុកប្រឈម",
+      "កូដ: #CK-902",
+      "ត្រសក់ស្រែខ្មែរ",
+      "តម្លៃដើម\nបោះដុំ:",
+      "$0.80",
+      "(3,280\n៛/kg)",
+      "បរិមាណ\nត្រូវលក់",
+      "80",
+      "គីឡូក្រាម",
+      "អាយុកាល\nនៅសល់"
+    ],
+    "imagesCount": 2,
+    "sampleImages": [
+      {
+        "name": "AB6AXuDdZ5Gf54miaSMi0848mDNqn1u6HTCWQ1B1n1sPaS45UZcQObMQBQ4L4CvnwKCCRaakFj0K1hc0dRgikxxRtaCNeP40BUKrVk0dCikWk3BhwawcwllDvHmKZd46NoxHibSlLSZxJ2Rp0Vf6zik6W5o2pu4nrUmylPff_y8rh5jbl4Zwkui8YJ6vyo7oBYl_GqSBhboA9wEmDrBxJySR3HdFYMfN3l1pdfAf9kvH24Bq_QsTnfuIrD3dCQ",
+        "hash": "7817041a5db4fedd3111eeb13c903ad55103c907"
+      },
+      {
+        "name": "Profile",
+        "hash": "4c2d7ed47c00752113cf03c7e891eb1bd57c4597"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:6721",
+    "name": "៧. រៀបចំវេចខ្ចប់ & ចេញដឹកជញ្ជូន (Order Packing & Dispatch)",
+    "size": "390x1568",
+    "textCount": 50,
+    "sampleTexts": [
+      "#ORD-2026-\n089",
+      "កសិផល\nស្រស់",
+      "ភោជនីយដ្ឋាន Green Garden",
+      "Green Garden Restaurant • ទីតាំងបឹងកេងកង",
+      "ទម្ងន់សរុប",
+      "100 kg",
+      "បាន\nបញ្ជា",
+      "បញ្ជាក់",
+      "កំពុង\nរៀបចំ",
+      "4",
+      "ដឹក\nជញ្ជូន",
+      "5",
+      "ទទួល",
+      "ត្រួតពិនិត្យ\nការវេចខ្ចប់",
+      "រួចរាល់ 5/5\nកន្ត្រក"
+    ],
+    "imagesCount": 3,
+    "sampleImages": [
+      {
+        "name": "AB6AXuCHoyMaRo51IMb-fq0W2i20HC0xfTKsBiWCMRRoTH4gRXQbNEndlL6Io_ifYJNEBCU-_fZXBqToxN5jJSkoQHerE-s7rha8dIuXWIXnTPV-2b2swRZuqWKGDBuf4-NiIF6s9UIFhNM85YaRdSmpoWOGeg1AK_JCV1ttK0y2IG3dPtxWW-ZwRE1E8HAaIL_ZHHEXoSggJ1klbA2nSWbSBaRvopXD1dEaD4nMNzzRcUXSLKcHPhycS_n15Q",
+        "hash": "2a51bf1e9490cec9243f44c165a8b85d9d372075"
+      },
+      {
+        "name": "AB6AXuAyOlEnL4E2LbbpW8oLOU1DIIFMy4YXUnUdqsO-NAlUHw7x8FEj-F8UL_vbi2Cl86F-U0_VCxqkS9SotYgH4Izhjbp9hsZX-LaHURddW_6fgKdNf6nSq9-BX-467OwcsXHnSIMovT0LDG5hrJbl9HIAsPXKJ4hmcIhtQ4zt6YEgVmjg91tG2VGqLbAfBTtl6Lj7U5CKZhVnajOKt5ls2tQfMdgrz5kS6tn-otQ4BBg_eSFg7lpL92FPWA",
+        "hash": "b5cef4d8344432d162d7e8cd3e9bc4dfd265eafa"
+      },
+      {
+        "name": "Profile",
+        "hash": "4c2d7ed47c00752113cf03c7e891eb1bd57c4597"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:6954",
+    "name": "២. ថ្លឹង និងកត់ត្រាផលដំណាំ (Visual Harvest Intake)",
+    "size": "390x1406",
+    "textCount": 63,
+    "sampleTexts": [
+      "ដំណាំ",
+      "កសិករ & ទម្ងន់",
+      "3",
+      "រក្សាទុក",
+      "ជ្រើសរើសដំណាំ",
+      "បានរើស 1",
+      "ប៉េងប៉ោះ",
+      "Tomato",
+      "ត្រសក់",
+      "Cucumber",
+      "ស្ពៃក្តោប",
+      "Cabbage",
+      "🥕",
+      "ការ៉ុត",
+      "Carrot"
+    ],
+    "imagesCount": 7,
+    "sampleImages": [
+      {
+        "name": "AB6AXuDAESgFrYPw-dk-t4Fbl02Y_fbSEmDptxynfF-YgdbiDM6xohXNyqbaG_biqHGyOBj3CUOUiDRIkH1j7D7Ts-pBWJoQFkewEv7d5Ok7w3CArp2qnwXuTUKV6-WbVnAWqTI-aVLjIvC7upQLhBcrLq-iaU7AJPvdbZKxYi8gkTIKbq5bRIiCNeJxcuSWglGFcmnky_BYN3fignEgtboJPr9EaOjrgb6Cy-s3Y2BbU3UtQFqFE9VVbSD7yg",
+        "hash": "772f77a9641eb409599530283e275c6107a5e3bd"
+      },
+      {
+        "name": "AB6AXuDdUtZwDncSC4j_I_QA3UreQaFXuWv3urH1coeDi-w6o5AG1533fRz9sYRjAKb-1uFK7Li8BJTDnX19mgXRqbFt9UySsA3W96O7SURXLZJbJ0cCHImIqWkm_q_pzttT_3HDo560MSkKhTdHbSe6-_M9PvfvRnTeYo7WmcZ8vORS52NCo1o0862ljBNV3dchD4ITsx_b6RCSWip8ayw8-uDlnB_MXHDk1DzaocCqWpzSP5sZtC4cdrMEjw",
+        "hash": "a8bceb886c20bdeb0d3983beb33c02454d0dc80a"
+      },
+      {
+        "name": "AB6AXuARVB_AbRg4Wi9StZIuRYMC8m1zBhh8SL7DcTUgbGMOoRKAorvUYGqDqUjLCOfbP4_F1FQId--XPutDBN4QdlVCVur0Jyzqgh2pL5wiQqQOLpYls0PH0hmCazrXdgvFl4aHuS1qPE7pibxSY_el1lO87KKIyWeHfqhYrcb8fB0i0iavFVURzSeeESzg0krJT-DdJ2PSUSLqhmuiAO6r2d-DRVpa7e4THvPWynPcmVp2uJ1Oa5xVDChTHQ",
+        "hash": "3a7c2d1193222402afa4bfd17eb8c5a1e5f408b3"
+      },
+      {
+        "name": "AB6AXuDeTFiLdplyh_16ATqb5SjMRKUwGwsQyMLebU91X8Uqs8BkAsY1GGKov15ZvQYnmQK6VVjEADi8QiPnOeYEV3KjWp6sS3SlF8Tn48nw4D3PPv0FPLlwhewEZPKGexen1un9TsZ03lvIEA3U1BI4MeM5Z0AA-D6gVwNi-j1-h8Au5RPjoh6u8hGe7sFRxPoNQ1xxo8MKrsQUK6ecgotC6HpskoPNgKn0AkgfuTRU8QhzRjUQhZyZIgUzFQ",
+        "hash": "2d685b2b0ba9aa59616c2f925bcac11b4facd8bc"
+      },
+      {
+        "name": "AB6AXuBllisYj3_VVDYEiYHq5PrNtS0PxvwgthnVOgMrIeMVBa3yvRPMH7DTfn97yd-zRpYCFQKSQjfP908kklm0H9YmukL8iIHbWTA0E8n2BHPR8e5vH_iGrt8S_y7ptWY4VcGv928H1fdvP4NXkO3FAtpYj_JaM9g-YefQNCxYMDY_XVKDSEangBPcvaEnMkOAE4Vp1e2CE1cwXVoRYN35YeM-oj6jXWLioOvWDX4cM4ky8bM-2eD2L4SXAA",
+        "hash": "f1f4f10d167c99334b6391b0a81fe29a47e79b45"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:7220",
+    "name": "៤. ការបញ្ជាទិញ & កាត់ស្តុកជាក់ស្តែង (Order & Auto-Deduction)",
+    "size": "390x1561",
+    "textCount": 54,
+    "sampleTexts": [
+      "លេខបញ្ជាទិញ",
+      "#ORD-2026-089",
+      "រង់ចាំបញ្ជាក់",
+      "ដំណាក់កាលបញ្ជាទិញ (Order Flow)",
+      "ជំហាន ២ នៃ ៥",
+      "បានបញ្ជា",
+      "បញ្ជាក់",
+      "រៀបចំ",
+      "ដឹកជញ្ជូន",
+      "ទទួល",
+      "ភោជនីយដ្ឋាន Green Garden",
+      "Green Garden Restaurant • សមាជិកទិញដុំ",
+      "ទូរស័ព្ទ",
+      "012 345 678",
+      "ទីតាំង"
+    ],
+    "imagesCount": 2,
+    "sampleImages": [
+      {
+        "name": "AB6AXuCIXWWUfbdLAT9tZG6KtbljPYluIV4RuP0jhz0i8oI6vlxge482LY2OQrar3wLgIxwOMEJcysRPjPXCU13KKLNt14aoVhc-NXQ-UZFADobdosIw78HGIVx5ZRfUenJ8HT9TVUoUZwwyOxfK9oVwvwEP-1GAhmPO8UUSHSRq9zaEvPv55Nx7PU02IacVoJHLjdYTIPlSCifJlThECLAaelzm60LpfJTNrViBBKcXMrHVFDbjoZJjl1cTMg",
+        "hash": "99628fbae946e9ff1d685e10aeb0cdf9543ccb2d"
+      },
+      {
+        "name": "Profile",
+        "hash": "4c2d7ed47c00752113cf03c7e891eb1bd57c4597"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:7454",
+    "name": "៨. គណនីកសិករ & ទូទាត់ប្រាក់ (Farmer Members & Payouts)",
+    "size": "390x1501",
+    "textCount": 73,
+    "sampleTexts": [
+      "ទាំងអស់",
+      "48",
+      "ជំពាក់កសិករ",
+      "12",
+      "បានទូទាត់រួច",
+      "36",
+      "សង្ខេបសហករណ៍\nប្រចាំខែ",
+      "សកម្ម",
+      "ទឹកប្រាក់ទូទាត់សរុប (Payout Due / Done)",
+      "$17,820",
+      "USD",
+      "~ 73,062,000 រៀល (KHR)",
+      "សមាជិក",
+      "48",
+      "នាក់"
+    ],
+    "imagesCount": 4,
+    "sampleImages": [
+      {
+        "name": "AB6AXuBCHPqRvnWMBSQqxdubVQXcLljZum7czCZ5mSJcbmp-oAgZGcp5xJXxhKDGcuAdouNtUd56NIdciJwhW3SHYWVYd_6AE38xKuzEqd8WniXXUjAfCmyVVcG91wAFteTRriRBwNl8BL0e3vsv2ylfAcbZq3qpB5-V8UryAyz4jsQdWhH8Sl3xa-yXojJplmD9Ntb07RVk3G04yN1JlFt8yzVgUW6OGga-Mbddq4JB5jGb_3SAh6niuCtG0g",
+        "hash": "394fea9e66cbbbaa8b5966c31ac84eec2da5d397"
+      },
+      {
+        "name": "AB6AXuBkjp1wbgdxe9q_NQK6QRXveXEO7rAe2SFuSnWHPfgdmpmlQXT0L_dn1gECwrOA3IxfvXvx9f5HMB5FgtEQv9Fj_OLSPXC2nr6yBlDl4_k71viRMco8piqoA5TwaTSGyj4lAvFC6TykrC97vUvX02EApBqPmj_LqUZB_kxhMT3jqxkf0oFpHkzveXve7yiFiYRgYMWZCFtv0ri1W7_CJk7SRUwSj2wMXhr8JQEpak3yaQuJZ5UlXEMH-w",
+        "hash": "0ef8de0735cfe2ec95ee48ee9b8df7cfb24f2914"
+      },
+      {
+        "name": "AB6AXuBWT8m8_FJA99VfXErMKppTOQ7M4eWgcCaxTP9NXeiWLa2LEbgTt1Vad8gdkkPYCy1R50SP_hBep7y684wQn3g0EKTH3fsvH3dsYYlv-MA6V5bSzCN3F8Pt7ATpnDe2nkhQelQIR5tjyWBUOJZYrHjbdIMRL5Gq6dB4t7c7mbgMEdC5_5KoSUANm-NXUTYZgzUiFRuqvoi0dSm6jG5WAeqvMTIddVsGoEa3JaZILcXPycstRrXxkqbjNg",
+        "hash": "744b5c09746603346421b662ed7ec8d4c8479bef"
+      },
+      {
+        "name": "Profile",
+        "hash": "4c2d7ed47c00752113cf03c7e891eb1bd57c4597"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:7721",
+    "name": "១០. តម្លៃទីផ្សារ & ផ្គូផ្គងអ្នកទិញ (Market Intel & Direct Match)",
+    "size": "390x1683",
+    "textCount": 66,
+    "sampleTexts": [
+      "ភ្នំពេញ (ដើមគ / នាគមាស)",
+      "៥ នាទីមុន",
+      "ថ្ងៃនេះ ២៨ កញ្ញា ២០២៦ • ព័ត៌មានតម្លៃទី\nផ្សារដុំ",
+      "ផ្ទុកឡើង\nវិញ",
+      "យោបល់ឆ្លាតវៃសហករណ៍ (Smart Advice)",
+      "តម្លៃប៉េងប៉ោះកំពុងឡើងថ្លៃខ្ពស់!\nសហករណ៍គួរប្រមូលទិញបន្ថែមពីកសិករ\nក្នុងសប្តាហ៍នេះ ដើម្បីបំពេញកិច្ច\nសន្យាភោជនីយដ្ឋាន។",
+      "ទំនិញពេញនិយមថ្ងៃ\nនេះ",
+      "មើលទាំងអស់\n(១៤)",
+      "លេខ ១",
+      "ប៉េងប៉ោះធម្មជាតិ (Tomato)",
+      "+$0.15",
+      "$1.20",
+      "/ គីឡូក្រាម (kg)",
+      "តម្រូវការទិញកំពុងកើន\nឡើងខ្លាំង",
+      "ថ្លៃ\nដើមសហករណ៍"
+    ],
+    "imagesCount": 4,
+    "sampleImages": [
+      {
+        "name": "AB6AXuCzihCdZhgs3hlLqQp0qL8te-IT4azPRP69Bp00_VDU3axQ_3EgbKOXQXkMkz1FqpAnI_E65NjwmTsfIA1ZAYFQGbKbFFkTkKRtsz6hV_GAp0BcMsKCfVJEi6oBMJ4AHby78_Kk3DLmzMFblItKre6vDiqZN3qY17IUbKSZPR6jwYxafrrTVc1nz4BlXmoy-1wDDX7c4fKvLGg-s0a6iJulcRcuOoVInhSrJmKbtOFKQ0cVodfDwezo4g",
+        "hash": "77a4ad83a30139557ae050c93213619bd3645055"
+      },
+      {
+        "name": "AB6AXuBEWxjPyqe5Ss_7v2Y793KZSJIjSv8N-Yo2K4qJJG_O3-ZiYNM6eJeQtU-Elsw8oc7ZdLNwvS7dlBTvB58UxlF8ZuKpUQ-rll1BkupZZ7O0ZYpeTk6dfPPRe3Hyz8k9cN2esR1BNNA_H4nBtDQypCT_EpUh9kj6PACQG1Z4DWc9iXhTDNvAd004H-Bvl5Y-AwuZShNXH6qvJ5Mzbt90J4pKuo7JheoVZmNvjkdS1Fxld5IGB8km2H9QwA",
+        "hash": "550e502993903ab1361274cf1616f36d54183b8b"
+      },
+      {
+        "name": "AB6AXuBpGLVs4wuy4M43t5eRAW01zWjkdDVt0cqyz0gte1WHmA3DVHkA1Zg-mSeeoQH8b4QJBBw6n01bDrZUJliKkl7n0FV9RYeYfoD2WXRQYyFNXGHXJczdN86vXeLEOckH5q3BOiTiQcf6asKK1TFmvNSC66F0FIVEE-68aLtl5sXi04YhuOigiYC4ujimQI5zKcJfBJxEW225aoFNjk4oDeF2c9eXZR2ATbWtmoc0tYz7wsM3AbMV5Di2SA",
+        "hash": "ddbdd72fa8834438ce850e50f3473d0ab8ee4eaf"
+      },
+      {
+        "name": "Profile",
+        "hash": "4c2d7ed47c00752113cf03c7e891eb1bd57c4597"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:8015",
+    "name": "១២. ភ្ជាប់ជញ្ជីងឌីជីថល & ក្រិតទម្ងន់ (Digital Scale Calibration)",
+    "size": "390x1317",
+    "textCount": 35,
+    "sampleTexts": [
+      "បញ្ជា និងក្រិតជញ្ជីងរហ័ស (Field Controls)",
+      "កាត់ទម្ងន់កន្ត្រក (Tare /\nZero)",
+      "កាត់ទម្ងន់សំបកកន្ត្រកស្តង់ដារ\n(-2.50 kg)",
+      "ក្រិតជញ្ជីងឡើងវិញ\n(Calibrate)",
+      "ផ្ទៀងផ្ទាត់ដោយដុំដែកទម្ងន់\nស្តង់ដារ 20 kg",
+      "ស្វែងរកជញ្ជីងផ្សេង (Scan\nNearby)",
+      "ប្តូរទៅជញ្ជីងវេទិកាធំ ឬក្បាលថ្លឹង\nរថយន្ត",
+      "កំណត់ត្រាតេស្ត\nក្រិតចុងក្រោយ",
+      "08:15\nព្រឹក",
+      "កន្ត្រកប៉េងប៉ោះ\nគំរូតេស្ត #01",
+      "ទម្ងន់តេស្តជាក់\nស្តែង: 20.00 kg",
+      "100% ត្រឹម\nត្រូវ",
+      "សូមជូតកម្រាលថ្លឹងឱ្យស្អាតគ្មានដី\nកកស្ទះ និងដាក់កន្ត្រកចំកណ្តាល ដើម្បី\nទទួលបានទិន្នន័យជាក់លាក់បំផុត។",
+      "បានភ្ជាប់ជោគជ័យ",
+      "SmartScale Pro-500"
+    ],
+    "imagesCount": 2,
+    "sampleImages": [
+      {
+        "name": "AB6AXuDTdhwwbOtvbzFDmLMqo04em17iGMh3Fc4k3ShyU0Y6XnFBec69eIbrPXas2XCyFOxEKq3o_5nCEMpix145lzsDmIEaUsShjNvJTmdtSVeTrw9x2KwKTDZeHKaUVl_GpoHLt2R4KmPaUBBO3YOKzqrXHUdItd1Q714iEGSWHR0qWlKdU4aYRXf5sJTGPlgnFK6AcySWvysgW5zOYmtnf4L7s5PbPE0e46BM4LbDgKZzBseMAA1NPPct4A",
+        "hash": "170bd1ab088dd425b343eaa791ef3a280aa2de92"
+      },
+      {
+        "name": "Profile",
+        "hash": "4c2d7ed47c00752113cf03c7e891eb1bd57c4597"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:8185",
+    "name": "១១. បញ្ជាក់ការទទួល & ប័ណ្ណអេឡិចត្រូនិក (Proof of Delivery & POD)",
+    "size": "390x1446",
+    "textCount": 38,
+    "sampleTexts": [
+      "ជោគជ័យ ១០០%",
+      "#ORD-2026-089",
+      "អ្នកទិញបានទទួល\nទំនិញរួចរាល់",
+      "ភោជនីយដ្ឋាន Green Garden",
+      "ព័ត៌មានលម្អិត\nទំនិញ",
+      "Grade A គុណភាព\nខ្ពស់",
+      "ប៉េងប៉ោះធម្មជាតិ (Organic Tomatoes)",
+      "100 kg",
+      "(៥ កន្ត្រកស្តង់ដារ)",
+      "ពេលវេលាដឹក\nជញ្ជូន",
+      "ម៉ោង 4:15 រសៀល",
+      "ថ្ងៃទី 30/09/2026",
+      "ទឹកប្រាក់\nសរុប",
+      "$120.00 USD",
+      "Bakong KHQR\nរួចរាល់"
+    ],
+    "imagesCount": 4,
+    "sampleImages": [
+      {
+        "name": "AB6AXuAsF8yTpJd3JMPIozKDf6Y-pbSu-F1G6pYz8WAihj09HStbyalPLzfZJdn9xel76STBVjTPoPSeOlgRWY7i8fZAT1cYmMFvLUI80JeaaSwgHKHgjZY7dvILzEcTCZiJ8e4i5ZqCT5-1Pdkjz5N27QGMihBoa8vARwdSeibESkBAEmIzq9aIkmRWaI_CHaQW6XxlSyU9j9JAGIg0rNUeYnmRb66kh0tIjcuUv1ukTsNSdyRhUJpkTbnYGw",
+        "hash": "948dc3352dc7dbf160c1aa7b41fff5fbb5fc60ad"
+      },
+      {
+        "name": "AB6AXuA9dl0InkAuiP_xEUcLBddDBk5LKNxHiIDtjLkJWOqOXhxzve_BlR8eGAcdYgdiJqy0UmbBsv4UAAGtdjN2W06FRcaGAs93dF6d4oYdEm3EXYMl1D3Eijr938pUfQGvQ8tVdn8FQFtCQSImgYD_DZDgEFwrJ7ivda5EQJ2R4E0Z2nJLau0ekvHZyRTphQrEqJeXws75CfZLwvk_Wcgahooems68xIZSiQP8dVOYEQ3opNWEZ_wfi5YI4g",
+        "hash": "553ead48851734e138fa3358baf7fa9bd05eb84f"
+      },
+      {
+        "name": "AB6AXuApwxqOHz4w8yPuUZG5TnRqjlqNTnpp3UPk7W4_T_nPhmNW_vvc-wx0n7BONz4S5xiqnyrc2lPz_m9Mv0JlHo1XZFdPZfpkIRpeDqzm0N45pAYIuLRujYCWL1dHFbWqEpR2hCm03jGtsj1U5o8Nixw6PKshUFelDIsBkqxfGjSyYEtxfFu4jt6h9dIp1240IovCkkTTXJKerzYN55vX4Bvi9bP-PrXL8LBFaBbCh10jJS0jVUtOmHPcPQ",
+        "hash": "4c5fea3037e9d0014fe751f3e00c7ec090dfc968"
+      },
+      {
+        "name": "Profile",
+        "hash": "4c2d7ed47c00752113cf03c7e891eb1bd57c4597"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:8375",
+    "name": "៩. ទូទាត់ប្រាក់តាម Bakong KHQR (Farmer KHQR Payout)",
+    "size": "390x1440",
+    "textCount": 35,
+    "sampleTexts": [
+      "ពិនិត្យទម្ងន់",
+      "ស្កេន KHQR",
+      "បង្កាន់ដៃ",
+      "លោក វ៉ាន់ សុខា",
+      "#HF-019",
+      "ភូមិត្រពាំងព្រីង ឃុំត្រពាំងធំ",
+      "សមាជិកពេញសិទ្ធិ",
+      "គណនី Bakong រួចរាល់",
+      "ប៉េងប៉ោះកសិ\nសរីរាង្គ",
+      "Grade\nA",
+      "កូដទំនិញ: #LOT-TOM-2025-08",
+      "ទម្ងន់\nសុទ្ធ",
+      "320.00",
+      "គ.ក្រ",
+      "គណនា: 320 គ.ក្រ × $1.20 /\nគ.ក្រ"
+    ],
+    "imagesCount": 3,
+    "sampleImages": [
+      {
+        "name": "AB6AXuDJatEeJqTVVI-2otA3Zx9EpHPGbm0Ddfs0xHqJAUDF5Qr_FxPQvDRmtOpuPNZMOGrmYE9leoakuaZL_6Wep3rKywBu7ZQx9Fb3n6ug44dFx8DxmMVtgUwLtc6CuFe6EjpIha0TqHxnm5VBL4UiU1T7ff0sSsnZjvGwl-oB9tMC8m9Fh7GVnQPby9Ljic0P0BLyDANrxhQqUt0KFxv_lvqQ5Ri0oWsuF15WCX78M-MenxoMR95kSzjTEg",
+        "hash": "0f1d3d65397a3122b07144d7a43ee930d8714c4f"
+      },
+      {
+        "name": "AB6AXuCF0Z2WJY9MuNJ2Yt5_zuojJiefO2evajDj7xtvnobPxAA5CZhSHRvctzeq2BWHasTaQVumlf3qwUqkWcItzxHHm8SFNYjZeJnaDDLc3l415ymm6W6dtVbD4SKQJOFwghkLqS8dqFxySgqvYa_SKu61To4dxAapJ9lGborTBGwrX1po3cf3vHDWXjcda9a672g3XkZOJZyPTeQQG8fT3u9NxLBps8ik-93LXGU-WfxI-NwOWIx2ruL92w",
+        "hash": "feb148c8a0e108d11d1d9e2f00f2a95bdbe08fdb"
+      },
+      {
+        "name": "Profile",
+        "hash": "4c2d7ed47c00752113cf03c7e891eb1bd57c4597"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:8574",
+    "name": "១. ជ្រើសរើសតួនាទី (Visual Role Selection)",
+    "size": "390x1040",
+    "textCount": 25,
+    "sampleTexts": [
+      "🇰🇭",
+      "ខ្មែរ",
+      "|",
+      "EN",
+      "ជំហានទី ១ : ជ្រើសរើសតួនាទី",
+      "២",
+      "៣",
+      "សូមស្វាគមន៍មកកាន់\nHarvestFlow",
+      "ជ្រើសរើសតួនាទីរបស់អ្នកដើម្បីចាប់\nផ្តើម",
+      "ការណែនាំ (Recommended)",
+      "👨‍🌾 អ្នកលក់ / សហករណ៍",
+      "សហករណ៍កសិកម្ម & កសិករ",
+      "គ្រប់គ្រងស្តុក",
+      "ថ្លឹងផលដំណាំ",
+      "ទទួលប្រាក់លក់"
+    ],
+    "imagesCount": 3,
+    "sampleImages": [
+      {
+        "name": "HarvestFlow Logo",
+        "hash": "3345013f8eff1830bb82a36ffe6d9a14b8350900"
+      },
+      {
+        "name": "AB6AXuDkxr8DN_mD9AZ1eI3Mjs8uVD879sA4BDPqvQq3kPKTFVbzcVWfWDoyA2xGoTeRsYOHVBkk8QEGa8VmLEV3Pg77Y8LAc8lVZSdIxFWTFcefAcydSC82qL25JOUjRNby5OUZ7BO72x8SJsXejUbPTS6EmuUXTi3DivGiiIss1gIboZlBJRZRg1WKwRVaYX1zbA1QMsml_TtINX1Nn0YwzuTrZelgEI6Th_txYYr7NOZSYLPXTLyWvvUZLg",
+        "hash": "b9660c8292b247776a0b8104144dfd1f8f9cd16d"
+      },
+      {
+        "name": "AB6AXuBcdrOUMDHFi8RBuFxLt0ieN3pZI-q0Vn4Mg3grjs-EvKUWPbagI9QbnLYmeRj0brTcVWsENZEwTxvVsWTxMhrToY0hBvt2bwpHfACH2jROYUNj51dH9RVnYwwrkuK8wGA9xUS1QpbOlrIbr--nm6bdERADdCBsTWgoVAjwyz6FN0m6_-Oj805_6ARL_8kM2TTdExaAt0kC6PQlNJK-SyONu1SdWDZ4KJ43scrrF3nwMABl9nBJoSV96w",
+        "hash": "3bde169456835389f47103a1df9315397a668154"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:8703",
+    "name": "២. បញ្ចូលលេខទូរស័ព្ទ (Phone Keypad Entry)",
+    "size": "390x1079",
+    "textCount": 27,
+    "sampleTexts": [
+      "ត្រឡប់ក្រោយ",
+      "ជំនួយសំឡេង",
+      "2",
+      "3",
+      "ជំហានទី ២ : បញ្ចូលលេខទូរស័ព្ទ",
+      "បញ្ចូលលេខទូរស័ព្ទ\nរបស់អ្នក",
+      "លេខនេះសម្រាប់ទទួលលេខកូដសម្ងាត់\nតាមសារ ឬការហៅទូរស័ព្ទភ្លាមៗ។",
+      "លេខទូរស័ព្ទសម្រាប់\nផ្ទៀងផ្ទាត់",
+      "លេខ\nCellcard 🟢",
+      "🇰🇭",
+      "+855",
+      "012 889 900",
+      "1",
+      "2",
+      "3"
+    ],
+    "imagesCount": 2,
+    "sampleImages": [
+      {
+        "name": "HarvestFlow Logo",
+        "hash": "b0b2ade49b70748bcfdc3ae5625c902331faa851"
+      },
+      {
+        "name": "Profile",
+        "hash": "4c2d7ed47c00752113cf03c7e891eb1bd57c4597"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:8829",
+    "name": "៤. ស្វាគមន៍ & ផ្ទៀងផ្ទាត់គណនី (Welcome & Quick Access)",
+    "size": "390x1166",
+    "textCount": 23,
+    "sampleTexts": [
+      "HARVESTFLOW",
+      "សូមស្វាគមន៍!",
+      "ជំហានចុងក្រោយ",
+      "🎉",
+      "ចូលប្រើប្រាស់ជោគជ័យ!",
+      "គណនីរបស់អ្នកត្រូវបាន\nផ្ទៀងផ្ទាត់ត្រឹមត្រូវ",
+      "សហករណ៍ស្រុក",
+      "សហករណ៍កសិកម្មសាមគ្គី",
+      "ស្រុកបាទី ខេត្តតាកែវ",
+      "តួនាទីទទួលខុសត្រូវ",
+      "អ្នកគ្រប់គ្រងឃ្លាំង និងសម្របសម្រួល",
+      "បណ្តាញសមាជិក",
+      "៤៨\nគ្រួសារ",
+      "បានចុះឈ្មោះ\nក្នុងប្រព័ន្ធ",
+      "ស្កេនមេដៃចូល\nប្រើភ្លាម"
+    ],
+    "imagesCount": 2,
+    "sampleImages": [
+      {
+        "name": "HarvestFlow Logo",
+        "hash": "3345013f8eff1830bb82a36ffe6d9a14b8350900"
+      },
+      {
+        "name": "Profile",
+        "hash": "4c2d7ed47c00752113cf03c7e891eb1bd57c4597"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:8962",
+    "name": "១. ផ្ទាំងគ្រប់គ្រងសហករណ៍ (Visual Seller Dashboard)",
+    "size": "390x1733",
+    "textCount": 53,
+    "sampleTexts": [
+      "ឃ្លាំង\nកណ្តាល\nខេត្តតាកែវ",
+      "សួស្តី មេឃ្លាំង សុខា",
+      "បានភ្ជាប់",
+      "ធ្វើសមកាលកម្ម",
+      "ទិន្នផលសរុប\nក្នុងឃ្លាំង",
+      "ថ្ងៃ\nនេះ",
+      "១,២៥០",
+      "គីឡូក្រាម (kg)",
+      "៩៨០",
+      "អាចលក់\nបាន",
+      "១២០",
+      "ជិតផុត\nកំណត់",
+      "១៥០",
+      "បានកក់\nទុក",
+      "សកម្មភាព\nរហ័ស"
+    ],
+    "imagesCount": 4,
+    "sampleImages": [
+      {
+        "name": "AB6AXuA9z3XHhmTD7St3GD90qmIjxoToofuEeK7hAmoQ5BoE9MIJKieCSsna0YxOLgqX6i0ofeLkxpmwYh570gjieg32AKVR9QzD48urNvBogMvEzbaW5zVOUqs-zKc7-uJ42eR11hE-f-gp20asMvZ9n-U64zI7rPPlU0qWIsT2ztjX0xey0QvQXWKfsrmifpeGDgQOdelz7s2bIblKUpdQEa8mruEaWEzx_FHpn8J1KCdGqn46F2vylsDUsw",
+        "hash": "f3d9b03be97abf6ebe71364ec74f9ecbd1608931"
+      },
+      {
+        "name": "AB6AXuA7tMZMiiRtYgZ-xMWDokpHpvOeA4sLJLj7ttGlXOqhz7THP7VUconIzMP35FDe9_j4C85uIzyy33dnGb_4I9NZWejmhljCtmcHiDPSITyuDrvmRiZAnt7ge4jrZhcrYnDl97ZTfFjfgdtVI_cvduS6pARNjFzXAUiAgCsn7nblJ5G7wHt8ot1CFV3sH5uzUVPpHJ2aP89-LTBhDV5j82bM4z2TV-GCSkcub8AVjXlY9ByfrvlNO66ttA",
+        "hash": "718c8e5ba9b16af326fe97a53d3832961a581cad"
+      },
+      {
+        "name": "AB6AXuC-gyTvgxhCcx_h8POHFv4DcuSr-lP6MSurnzrckE056kOxu6SRYAu7C4lmwuq-zE13902cmga8YFaGrI_CQ1bv9E1K-Qbf3cZ95X8NTEy_TJBYl1-WcfQ14jDXCmo1njZ7sR6EJAVTbmk-ZqoFUpocpGfe5WnswksKrx0_5Km1KrwX1Ga_SGs1nhqBmKVoiR4cJqAql97ymyAFWpiek_lxs0nuNYpDAhP-xg1fpg6sSa6AVJ0BEwEduA",
+        "hash": "a012e13a285cca153ffbbe476010088deae21090"
+      },
+      {
+        "name": "Profile",
+        "hash": "4c2d7ed47c00752113cf03c7e891eb1bd57c4597"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:9217",
+    "name": "២. ស្តុកបន្លែបច្ចុប្បន្ន & អាយុកាល (Live Produce Stock & Shelf-Life)",
+    "size": "390x1619",
+    "textCount": 70,
+    "sampleTexts": [
+      "ឃ្លាំងត្រជាក់ A\n& B",
+      "Cold Storage Capacity &\nQuality",
+      "ដំណើរការ\nល្អ",
+      "សីតុណ្ហភាព",
+      "12°C\nធម្មតា",
+      "សំណើមខ្យល់",
+      "88% ល្អ\nប្រសើរ",
+      "ទំហំផ្ទុកសរុប (Capacity)",
+      "980 kg / 1,200 kg (81%)",
+      "ទាំងអស់ (24)",
+      "🍅",
+      "បន្លែផ្លែ (11)",
+      "🥬",
+      "បន្លែស្លឹក (8)",
+      "🥕"
+    ],
+    "imagesCount": 4,
+    "sampleImages": [
+      {
+        "name": "AB6AXuAQIsEXqp0pWRFsSt9YREyyURiXSvBuNjMl-VkH8asYQkZy1I6KFsBbZzKRWXRc1sQHHXuxamQWIRg9CgIrCwGQZZnrmykjrtiAxHZg4w76UnEZNiAIOyFfe3qEU2w_sOlFc361KSg20ao-klRq14yJd27EAaCxM2YTuHZK4Vye5rnTWw_3VlDrts1eedwsqVw1TMXbdvMb1PUGQR9XIMQSYJOdos5gfGXR-6ZLbm8pf325swql27ke5A",
+        "hash": "ccaa74eec74984535e7b88fe3597f116739a4353"
+      },
+      {
+        "name": "AB6AXuBQqpkkXERjGddXdlzXVDpYbRmA8zG22J0OFjrI3wZkaSBk8-3PW_lmOUQnh-fYt43dgV_uTgaeN4QgsTdQ5RiPyZ70Rgu19KmJcUtN4jd7-x2K33f6-yC1-94nnQj0UG1e-Pu68v1QqzhvLJZnMEpsKsn2_cd_G1BolLEe3rcGZDsBemDLueVg70dlq05BqQ5opNlD2ytNNUom19AcrZELvSF12YN3zgELURmHC-F9yNq7Z0JGggMX-w",
+        "hash": "c2e8de822419775be376186642242121fd0f335a"
+      },
+      {
+        "name": "AB6AXuD9p6sEDDBiHgtSVOOD2GlveY5upDf8rZVH4V2le_9V9NZyPwc_zjmeLcW7GFka4FBIvSQKAJsw9TkrOepTKwAZVJE6aGV_bVotA2klKkK_QLh_68l1YH0d7gmQGpWue1U1QXU5Zp2SULOamoWiBHgiCue3vQgTh9YohH8_R0OFv0UE4lV64e10Hnt93wGVydUovjAp6Mn-qGrjuUnzOtG-bputvGD9RPbfa83Nox8rkVQBU6PPLCG-Iw",
+        "hash": "59fef52520d2e4660a1ce5a71d9c7d38bd7b7336"
+      },
+      {
+        "name": "Profile",
+        "hash": "4c2d7ed47c00752113cf03c7e891eb1bd57c4597"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:9472",
+    "name": "៣. ព័ត៌មានលម្អិតបាច់ដំណាំ (Produce Batch Detail & Ledger)",
+    "size": "390x1489",
+    "textCount": 40,
+    "sampleTexts": [
+      "បាច់ដំណាំបានផ្ទៀងផ្ទាត់ និងកត់ត្រាត្រឹមត្រូវ",
+      "#LOT-TOM-884",
+      "ស្តុកសហគមន៍",
+      "និទ្ទេស A (Grade A)",
+      "ប៉េងប៉ោះធម្មជាតិ",
+      "Organic Vine Tomatoes • ចំការ\nសរីរាង្គកោះក្របី",
+      "ទម្ងន់សរុប\n(Net)",
+      "300.00",
+      "kg",
+      "ទីតាំង\nរក្សាទុក",
+      "ឃ្លាំង\nត្រជាក់ A",
+      "12°C Controlled",
+      "កម្រិតគុណភាព &\nស្រស់",
+      "90% ស្រស់\nល្អ",
+      "ថ្ងៃទទួលផល\nចូល"
+    ],
+    "imagesCount": 5,
+    "sampleImages": [
+      {
+        "name": "AB6AXuAxuzQXybOXM_mbOdMqX5ndMUxXg12g19CB_CJVWghzNsBEE8mgnmmHVbpvEjanTAo3vdJb7Cqec9ebxX1g32IKicpE-Uo6CYMPuCgDDAEgA2s2sk0JhsNh_47wF90JdNSAq1GzHU2iGojvLQ8ZCyNlywSrkl7C6RpqQIZqlO-vP-rz99VgvX1XqgHGVJK_BvKmts0nmBBR9wPHccgrO3WuALK3IosK_Lfg_Avi38Uf6gTNZm2mN7X4ow",
+        "hash": "35a2fbcf3e18d3a084f33e56f44f53a9bd6f2913"
+      },
+      {
+        "name": "AB6AXuDAZ9qmU5lcyFaLLLn9wTDeHW3PpZaE0dzzpbR4xaBC-eWl6YH0b0_R0VDOGKvQc9vbooxHof-nJyu7uhs7cn3OMD_bKjjeVtqi85qMtTr6Qio2O1QnXEkSxntC2-Q2OczmZMUECwV3U7nJtOvSK-9f-upUPMUxDeyxQ0f3vpbfem2yj03jnnwyxuQOA51saoX6KYT_FoOlVF9PLPQXdK2nq0q3GsI-mBLF1nD9V-zPBGTGuJoz1wq1gw",
+        "hash": "4c7b9dc60da900a95d9ea3c3dfda1f35611e1973"
+      },
+      {
+        "name": "AB6AXuA3Zf9mGtDzuJvROwMJ2vxdBJGYfVuS1h9pofQYFJz8b10G-N4_yRzBWkdAnijoRFCPFChPzT9QyjeJEfkny6KQaIc4kxX4Ufl3RznadNIQwl_O615bPsYgd_Cu31VfHhCogIwz48hEydu1w7g0GNre_LwaQcS6qZ6uWEpgc6suFZDL4OMN8qoNJkkC5bqB184afR49gkXRZsDmSu4FzNeUwRlOJLYdUxmiHyIgPl76BposU2RHvvU77Q",
+        "hash": "a90ab1fc09fd347083e9cc68e0da7ee391e1eb2b"
+      },
+      {
+        "name": "AB6AXuCWNRl14P7TUcy9Zb5bqwu2SZnoFJAfexkQVtP9AnEVkGM0RgTu_-vhGnY8EqQIztUs70luUIpMjwwwYZbnPVilOs_hQwUvjv8hQcOVZeQJtwvlQfruHzK5sLvdUxFNInf0EjgS9XybDUYD-gpssPaSswy7FZkAO1qrwNQzxbFUSgCMLKcgnAdp2t_UQ1LROP_vGP65NIp5yLYK06Rk5y_PmLVI9Wr2qX7QkGXCbud2DJ8Rmwy8yy3vyA",
+        "hash": "dd70269cd24d93994c15dc7a711d5f3fd7b8ffb1"
+      },
+      {
+        "name": "Profile",
+        "hash": "4c2d7ed47c00752113cf03c7e891eb1bd57c4597"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:9670",
+    "name": "៣. ផ្ទៀងផ្ទាត់លេខកូដ (OTP Voice & Code)",
+    "size": "390x1325",
+    "textCount": 36,
+    "sampleTexts": [
+      "HarvestFlow",
+      "ច្រកចូលកសិករ",
+      "ខ្មែរ",
+      "EN",
+      "ជំហានទី ៣ ៖ ផ្ទៀងផ្ទាត់លេខកូដ OTP",
+      "៣ នៃ ៣",
+      "ផ្ទៀងផ្ទាត់លេខកូដ ៤\nខ្ទង់",
+      "សូមពិនិត្យសារ SMS ដែលបានផ្ញើទៅកាន់\nលេខទូរស័ព្ទរបស់អ្នក",
+      "🇰🇭",
+      "012 889 900",
+      "កែប្រែ",
+      "បានទទួលលេខកូដស្វ័យប្រវត្តិ\nតាមសារ SMS",
+      "បំពេញ\n(8492)",
+      "8",
+      "4"
+    ],
+    "imagesCount": 2,
+    "sampleImages": [
+      {
+        "name": "HarvestFlow Logo",
+        "hash": "b0b2ade49b70748bcfdc3ae5625c902331faa851"
+      },
+      {
+        "name": "Profile",
+        "hash": "4c2d7ed47c00752113cf03c7e891eb1bd57c4597"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:9824",
+    "name": "៤. ផ្សាយលក់បន្ទាន់ការពារការខូចខាត (Emergency Spoilage Flash Sale)",
+    "size": "390x1450",
+    "textCount": 53,
+    "sampleTexts": [
+      "នៅសល់តែ ២៤ ម៉ោងប៉ុណ្ណោះ!",
+      "លក់បន្ទាន់មុនខូចគុណភាព ដើម្បីកាត់\nបន្ថយការខាតបង់ថវិកាសហគមន៍",
+      "ត្រឹមម៉ោង ៥:០០ ល្ងាចស្អែក",
+      "សល់ ២៨%",
+      "#LOT-102",
+      "ត្រសក់ស្រែខ្មែរ",
+      "ប្រញាប់",
+      "កសិដ្ឋានបៃតងធម្មជាតិ • បាត់\nដំបង",
+      "$0.80",
+      "$0.64",
+      "/ គីឡូក្រាម",
+      "ទម្ងន់ត្រូវជម្រះ",
+      "80",
+      "គ.ក្រ",
+      "អាយុកាលសល់"
+    ],
+    "imagesCount": 2,
+    "sampleImages": [
+      {
+        "name": "AB6AXuDrqwkWZlrOuAdaWFX-YEeBLwSKmyreqjYEOhalnyJaTxe-brRqVKUypdFRAMlGIWedvSQsWJ1s70zQ7LSsDBGmoBgaNlU9Fo0mqSgg_obISTr8xDrRBRJsJ_cspQrbG_VuP47zzLyRDTZxGQS6-pv2deL_hRkAwAIRVVtOqnT-eIo-obYrE4gCJymBg8fbw5KaBWaFQqMrLtLfoFvVR9d6A1N1eYaobfKNFpG9zfBIAn_Z87XupcaQdA",
+        "hash": "699566fcefdcb2807b4b553d9a0af1fc919a20f2"
+      },
+      {
+        "name": "Profile",
+        "hash": "4c2d7ed47c00752113cf03c7e891eb1bd57c4597"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:10026",
+    "name": "២. ជ្រើសរើសបន្លែ & គុណភាព (Select Produce & Grade)",
+    "size": "390x1484",
+    "textCount": 51,
+    "sampleTexts": [
+      "1",
+      "ជំហានទី ១ : ជ្រើសរើស\nប្រភេទបន្លែ",
+      "១ នៃ\n៣",
+      "១. ប្រភេទបន្លែ",
+      "២. ថ្លឹងទម្ងន់",
+      "៣. បោះពុម្ពប័ណ្ណ",
+      "ទាំងអស់ (All)",
+      "បន្លែផ្លែ (Fruits)",
+      "បន្លែស្លឹក (Leafy)",
+      "មើម (Roots)",
+      "ជ្រើសរើសដំណាំ (Select Crop)",
+      "៤ មុខសកម្ម",
+      "ធម្មជាតិ",
+      "ប៉េងប៉ោះ",
+      "Tomatoes"
+    ],
+    "imagesCount": 5,
+    "sampleImages": [
+      {
+        "name": "AB6AXuBlcSa0VdNAsqXVX3TYGzMfsMEYNb7WNoPSEfVg-B7gxZKHtXbzqNHZ52lDaNQ59Cbh_FkURGOx7obIoYBbxt-y3VeD2e5o6LCJXu4LPGd7uei-B0Z7swUy3lD2KNDhu5rzx2J6GPQaeLkNaTYnBPDC-5BBwVcWCnApoZLUGZfgjtqsaCrIV5j17d0oOE8byyx4dYCABWfKOk4E9mU5Mbzd-vSpn8_d7WuHuUmKhaqMsszYUa9gAqC-4Q",
+        "hash": "c12af0fb12b6e8b8267f4d72e8b664bbb2200c10"
+      },
+      {
+        "name": "AB6AXuCFJJAY_XYm9dXV57BPbse7WFjtG-69LsjMcJNCOKMh-qZPFsmx-WiW1uh801szTdEdB15P2aI0cXUF7l-pQLY6oQ6IX6tKrS5v678tgt9zeT7lkgnhrj13QslMoACST10r7NstVmw7wdHacH7KCYfgjyZyM2IIMSPQpJZiocGHrHr4XqdhfSFNBEqm9XQmpHshX4H7y28yuIWGaqVQuwhSHnV5cOJHFDNE2DKoYIV4KMSy_UeZcHI2pQ",
+        "hash": "75f9faf3303df1b5ec4dbce4612347c697ed2ddc"
+      },
+      {
+        "name": "AB6AXuDFBaBRo4jZG_MlUbZ8JLFlYKcrHxIOm86WgSDqnr3FF6wywJRZc2R7NbA_9sWReuXLiXDm7E6RoE0_KgrgV24oBDicBhhWeBnJhlyOt5-d-x8OgSEB_MUHl1SXdcaoNyy0qNr8A1oEwu7LoMaedeX4Gg5w5cnkHtxghX3RXUdQ1f3ynZCefDGsA5dZOMLNFS4hcwEHBfop9IvTtkIc5NBBYuHxLj14eh1XEAmWlv8Tt2ZS1U8093vpEg",
+        "hash": "7ae971bab93f1bd20bc7725850e11efcf5501015"
+      },
+      {
+        "name": "AB6AXuBn49iGjy_ugghhtMx_ki7Evficth6QXRCc7ys-vtDNkfgMD0rIKcqRHnuatoR2kYtaQ5JSYBnDdyk1YnuYD_AN1xTWeLuKCs9BQ9I3mhPOxebhlA2TIKHel_xSBdqUdevaCwIrloswBrpFuP9FplM_X1iaQbdy_oxvuetdDt1uZnK1TGxK2uGbSie89_pOHoy7OELpTI5dooUqN-NQN0hYGKDGE8q1AtUgKH-cWv2_MK7RxAjPueI1Sw",
+        "hash": "4238568cc31b39fc635ead4f9f17e00210138c7a"
+      },
+      {
+        "name": "Profile",
+        "hash": "4c2d7ed47c00752113cf03c7e891eb1bd57c4597"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:10256",
+    "name": "១. ភ្ជាប់ជញ្ជីង & ក្រិតទម្ងន់ (Scale Pairing & Zero-Tare)",
+    "size": "390x1174",
+    "textCount": 32,
+    "sampleTexts": [
+      "បានភ្ជាប់ជញ្ជីងឌីជីថលរួចរាល់",
+      "SmartScale Pro-500 (BT-992)",
+      "92%",
+      "BT LIVE STREAM",
+      "ទម្ងន់នឹងនរ (STABLE)",
+      "0.00",
+      "kg",
+      "ទម្ងន់ជាក់ស្តែងលើជញ្ជីង (Current Active Load)",
+      "សរុប (Gross)",
+      "0.00",
+      "kg",
+      "កាត់សំបក\n(Tare)",
+      "-0.00",
+      "kg",
+      "សុទ្ធ (Net)"
+    ],
+    "imagesCount": 3,
+    "sampleImages": [
+      {
+        "name": "AB6AXuCAUvDOm8cVNNIKlnHQarjXeXv7VXwau1dxCDRo8d95ah5CMDk0cb75Z_0EdlMOelXSszonU8a2p2jRaQNiJuV0Fa1Rs_Cw-SLiOMXKtzySuHPvHw1QiDoRb0na5auGl5r-F-UWtSFjlT1f9_JVQ7oSvH_bpt4QHOpqaHVaXPF2dwQXnkZXH2C_B9Raolf9KCJiIOBSmN6moVd5xYutzUKvCMnmDGnc1Vjp2QkczQMyH3Y2Sz13mWM3MQ",
+        "hash": "282bbd8a72f874f7c3ac05ed7ce63656df84c35f"
+      },
+      {
+        "name": "AB6AXuDv_9TRbDzViDACCCFWXD6A9P-8m6MZzabQPMjZ9loGxFMltFlKBQaHxCjAu0HKIrARmL8JioUrosLqxmZYw4Ez6Oa5yMDbMd12JhDq0PBp6LJSIhIY43Yx0XQco9SWJQGpt0lXgWHNZlBxIdyrprrcZEynYzcsQFtkniSxwaPwkmwckzsQWg9XcggdPtX18VyG6TUQk1TLvn1z8XQcXl_SVaPRF-zDo0FKLKf8_l8LqA8_0PTIBN5i8g",
+        "hash": "6e07049d70820a8217d026a99ffaa969e3bf4ca1"
+      },
+      {
+        "name": "Profile",
+        "hash": "4c2d7ed47c00752113cf03c7e891eb1bd57c4597"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:10417",
+    "name": "៤. ប័ណ្ណថ្លឹងទម្ងន់ & បញ្ចប់ (Intake Slip & Receipt)",
+    "size": "390x1619",
+    "textCount": 41,
+    "sampleTexts": [
+      "កត់ត្រាចូលស្តុកជោគជ័យ!",
+      "Intake Recorded Successfully",
+      "#LOT-TOM-2026-08",
+      "ជំហាន",
+      "៣/៣",
+      "កសិផលធម្មជាតិ",
+      "ប៉េងប៉ោះ (Grade A)",
+      "កសិករ៖ លោក វ៉ាន់ សុខា (#HF-019)",
+      "A+",
+      "GRADE",
+      "សហករណ៍កសិកម្ម HarvestFlow",
+      "OFFICIAL SCALE & INTAKE SLIP",
+      "28 កញ្ញា 2026 · ម៉ោង 08:35 ព្រឹក",
+      "ទម្ងន់សុទ្ធជាក់ស្តែង (Net Certified\nWeight)",
+      "320.00"
+    ],
+    "imagesCount": 2,
+    "sampleImages": [
+      {
+        "name": "AB6AXuBhG3XU3HmdeoVqg4ShOY1Q0VQ4ykMxIbRayx9VNSBCezR24QQHTSXvUnUzVCm0jHLapei48RO6qCpBJvnGiKuPgjH-obAl8bTQNx3ezaJv7hqQrZHt4ouyQBdQqhPMIvTjNWOLAMXKNSEA4r83GSAD-nCYz3odWmJqNqDdxY_FY9oBqA_BFvzlYdUoIkE8C5YfhLaXz590FTAld2Ztm--oa8GKHDhqCPBoosaZ80zCacQiFAlo5JxkkA",
+        "hash": "34a66a08c1991b15b2018edd971e3fab2c506e10"
+      },
+      {
+        "name": "Profile",
+        "hash": "4c2d7ed47c00752113cf03c7e891eb1bd57c4597"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:10607",
+    "name": "៣. ថ្លឹងទម្ងន់ & ផ្គូផ្គងកសិករ (Live Weigh-In & Farmer)",
+    "size": "390x1354",
+    "textCount": 45,
+    "sampleTexts": [
+      "2",
+      "ជំហានទី ២ : ថ្លឹងទម្ងន់ &\nជ្រើសរើសកសិករ",
+      "2 /\n3",
+      "🍅",
+      "ប៉េងប៉ោះធម្មជាតិ",
+      "Grade A",
+      "ឡូត៍លេខ: #LOT-2025-0418",
+      "ប្តូរ",
+      "នឹងនរ (STABLE)",
+      "Avery Weigh-Tronix",
+      "320.00",
+      "kg",
+      "ទម្ងន់សរុប\n(Gross)",
+      "324.50 kg",
+      "កន្ត្រក (Tare)"
+    ],
+    "imagesCount": 3,
+    "sampleImages": [
+      {
+        "name": "AB6AXuB_czzr4dhl9BSFZhBifxPszehzBJb7sjlF9AORpodn5_4fhRiLoSwUt89R7aI4JnaPKAHljhMFCrZRAqx-kzRkcGxPVoBneoOOoxjVYSkudR-tI6wQKr5v1EqgikpZ86AJvf5qqgz08-Du6v1MpQTnN0tSFd1uVwN6aZbBFhUHqAByNBKW212Jp3UtINFS1T1JgrQxjPXo16tttK7sQsyUmt_lKELSedMSIaV0MHnDzTrjkE__rTl0Iw",
+        "hash": "8b12ca03bb73ff4329683947ee4e49fb9aad51e5"
+      },
+      {
+        "name": "AB6AXuAGL8oxcdbhNqkJ_0fAgNPs2Sax54mtkLlOVrs4oR7YILrd2buW_Zp7eWNXaq-V1q4rE5QCJGaVrer16wFuTyRNQg__M6OIjMS7DwA093QnQ5blqIP6NpJjm62FZhXGbJHvmfptXuWfgTcSDFFSD2rH0QYqtL3_2IcoGXzQDYQWn9itO7I_WQvuwlXD7qGS_jMShdNk59-Oc17AQAGYPc9fGqeKD6Ne_xUzlc-EL2cqZK6ZhtDBNuSSXQ",
+        "hash": "dcd8e7a333e5a7d345cf27ecf22378cec7eb505f"
+      },
+      {
+        "name": "Profile",
+        "hash": "4c2d7ed47c00752113cf03c7e891eb1bd57c4597"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:10816",
+    "name": "១. បញ្ជាទិញ & កាត់ស្តុក (Active Orders & Deduction)",
+    "size": "390x1485",
+    "textCount": 62,
+    "sampleTexts": [
+      "ការបញ្ជាទិញចូល",
+      "Active Buyer Orders",
+      "២ ថ្មី (2 New)",
+      "ត្រូវដឹក\nថ្ងៃនេះ",
+      "Due Today",
+      "200",
+      "kg",
+      "កាត់ស្តុក",
+      "Deducted",
+      "-200",
+      "kg",
+      "ទឹកប្រាក់\nសរុប",
+      "Total Value",
+      "$280",
+      "បញ្ជីរៀបចំទំនិញ (Dispatch\nQueue)"
+    ],
+    "imagesCount": 3,
+    "sampleImages": [
+      {
+        "name": "AB6AXuBDdonf8ZxWNxqF-ZU3bZhzImRvSIr0fYHJAc3CdF_h1TIIH-z_dszgimhwjIQSldfKzblupx2M3Of6T5KrqubvcdfRnuu-EeBVaJWRe1qJ2A36gOJZjQ5s7aXR7t8VGK5NxllA99gNPkWLeDEpEQHNNAnOOSkEBPXfypNVqZcJ915YwfHmMN9zyGGPueH4yJoyezllBtLDMjAciCIX1vNV8x0oUMEidCwrZpb6grcy5uIOpo6VYqgthQ",
+        "hash": "dcdb5482daed4c292f6e6903797882209734e2d0"
+      },
+      {
+        "name": "AB6AXuClOfGkP3RW_3VOhXehXFmHYHUhbP3p5o4E89IReni61ubIol4cm9ZdK9azTphmqLgBgDTtWI1VJNlSDi5UNgoUSNfGkRE3ZBtHU99icQu398SxgE8jaAW8mOXZ9GVj8d3fKPKJpEY9K3G_iRErgAi6uax2smOPl0_mHK0rcjNdj4AhdCH3fJ4FrZA3AMXKJC3oHZEEZGKrd8LTcRgnDOmHCOyP70i4lCVGkLDVlSrLomaI3otEtdNGig",
+        "hash": "f78bf9f998828b05def4cf123f768a1bf67ccbce"
+      },
+      {
+        "name": "Profile",
+        "hash": "4c2d7ed47c00752113cf03c7e891eb1bd57c4597"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:11085",
+    "name": "៣. បញ្ជាក់ការទទួល & ហត្ថលេខា (Proof of Delivery & Signature)",
+    "size": "390x1629",
+    "textCount": 44,
+    "sampleTexts": [
+      "ជំហានទី ២ / ៣ (Step 2 of 3)",
+      "#ORD-882",
+      "កសិដ្ឋាន\n(Farm)",
+      "ទទួលទំនិញ\n(Delivered)",
+      "ទូទាត់\n(Payout)",
+      "ទំនិញបានដឹកដល់គោលដៅ!",
+      "Delivered to",
+      "Green Garden",
+      "Restaurant",
+      "· បញ្ជាក់ការទទួល",
+      "ទំនិញរួចរាល់",
+      "រូបថតភស្តុតាង\n(Photo Proof)",
+      "GPS 100% ត្រឹម\nត្រូវ",
+      "ម៉ោង 4:15 រសៀល · ថ្ងៃនេះ",
+      "Green Garden, សង្កាត់បឹងកក់, រាជធានីភ្នំពេញ"
+    ],
+    "imagesCount": 3,
+    "sampleImages": [
+      {
+        "name": "AB6AXuCMnorjbgf-LGa_sjGqKt-aZdKi5iUr6IP0kw30ku1o6hwLaLg-lKJV8BX5Di0YF_Yt6jffBRDgVvVXqsQD6HBHL1xZAlu98IGHrXlF-13Gpb9WIwLFfC_vrK-6lN8hpRWwrgvAFjmOf-Jo7tnW9R22EaAt-PFgyLZSJW5UF1VWM8nuhs6ihm-PHYz7fbzZ9UtswLnV5Ajkdae6hDh1uc4p8tTrjypNM9gJFTl0Uep5qNEKp5ubom1fRw",
+        "hash": "3d7c7ec1e3acf9d847de7fda76171004f631c097"
+      },
+      {
+        "name": "AB6AXuCwEHOG-tnYhr_4PpU-x0fQ7LizhW4nqKkajsJsy8DCKEoI3ur4RX18FVz5xnYTufaWwwg-4B-Y4rJpigi01p0rQmDNa5JJXsoromIkvc-Z0kdGo8pCS39zONu451l2Q_hHWma-x4u68P9m3YxJdxX7PiRF-9fMnk9sN7KmPgdic4phJIkb8SvTJbbkpgssOUffCWF3mcvf__YsG1w8Z7M4cdQQjfLJ59JD3JzhyJoa8KwYP0-63U3GOw",
+        "hash": "6a5d35610ef478a51e17ad83f0884051a9c0b093"
+      },
+      {
+        "name": "Profile",
+        "hash": "4c2d7ed47c00752113cf03c7e891eb1bd57c4597"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:11272",
+    "name": "៤. ទូទាត់ប្រាក់តាម Bakong KHQR (Farmer KHQR Payout & Slip)",
+    "size": "390x1444",
+    "textCount": 34,
+    "sampleTexts": [
+      "ជំហានទី ៣ / ៣",
+      "#LOT-TOM-884",
+      "ទូទាត់ប្រាក់ជូនកសិករ (Instant\nSettlement)",
+      "ផ្គត់ផ្គង់ដោយ\nសមាជិក",
+      "BAKONG KHQR",
+      "KHQR National",
+      "គណនី: លោក វ៉ាន់ សុខា",
+      "ធនាគារអភិវឌ្ឍន៍ជនបទ និងកសិកម្ម (ARDB\nBank)",
+      "Acc: 088-291-004-USD",
+      "បានទទួលការទូទាត់ជោគជ័យ!",
+      "លេខប្រតិបត្តិការ (Txn\nID):",
+      "#TXN-BAKONG-2026-\n9912",
+      "ការទូទាត់មានសុវត្ថិភាព\nកម្រិតជាតិ",
+      "បញ្ជាក់ដោយប្រព័ន្ធធនាគារជាតិនៃ\nកម្ពុជា (NBC Bakong Network)",
+      "លោក វ៉ាន់ សុខា"
+    ],
+    "imagesCount": 2,
+    "sampleImages": [
+      {
+        "name": "AB6AXuDexkgv_S8oDCgKT43m5_K52RhZJ1hzwiAUIufT-LuERPbl6V3qRM9C3J18wt1YNzwzCAOOEmOeNx_yhLTcQAeGzXSqYcDXuMQVfUvvIcIpAcQgJeRfdNrUjqBMVh8TdQW1el6SCEXKWRRMLsSkoZqojv1DZEYyDbJFMKc6YwwyBq600g0ruxE4R-dufz5aahvXexYA8F4fALYyXGOiqD-e3bvppmEjQGLYbi2wBT0n9GLXZnccqepRtA",
+        "hash": "d06578cdaaa5af8938220d0a02d4a0a06ae632ad"
+      },
+      {
+        "name": "Profile",
+        "hash": "4c2d7ed47c00752113cf03c7e891eb1bd57c4597"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 1",
+    "id": "4:11468",
+    "name": "២. រៀបចំវេចខ្ចប់ & បញ្ជូនចេញ (Order Packing & Dispatch)",
+    "size": "390x1326",
+    "textCount": 41,
+    "sampleTexts": [
+      "ដំណើរការវេចខ្ចប់",
+      "1/3 រួចរាល់",
+      "ជំហានទី ១ : ពិនិត្យ និងរៀបចំ\nកន្ត្រក",
+      "Step 1 of 3: Crate Packing & Verification",
+      "ភោជនីយដ្ឋាន Green Garden",
+      "លេខកូដកម្មង់: #ORD-882",
+      "ទាន់ពេល (Urgent)",
+      "ផ្លូវ ១៨៤, សង្កាត់ជ័យជំនះ, ភ្នំពេញ",
+      "GPS: Green Garden Restaurant, Daun Penh",
+      "បញ្ជីផ្ទៀង\nផ្ទាត់កន្ត្រក\nទំនិញ",
+      "ចុចលើប្រអប់\nដើម្បីកត់ត្រា",
+      "កម្រិត A (Grade A)",
+      "ឃ្លាំងត្រជាក់ A",
+      "ប៉េងប៉ោះធម្មជាតិ",
+      "កូដបាច់: #LOT-TOM-884"
+    ],
+    "imagesCount": 4,
+    "sampleImages": [
+      {
+        "name": "AB6AXuCOhUqCwoWdDwmEnqV2C8Gkx_QcM7zrk7i2krEOkSuV8kz2xQ5OTZuPDfrNdnCc-ruwaDxbbUSHHXvR9x45sbZpo4Iq5ielaAi_pet81Ymvv81KUL4ho4BWHnYVfxa47-C-hHflXSH_XwRIPKmmkS7zGdOF8eEkaHrAK25fI-eeNVXPeGtkxAflj5IAwKEYt2NeLy753Of7U-ePA1DkWdHMMmo39AALt9G5ms7u7iuNOnL_NCQcM47G7g",
+        "hash": "6f30e09bf5ad9f3914675b0d7fda0b933ab16dad"
+      },
+      {
+        "name": "AB6AXuAHDm-V2rmFvyWEstHcltZ4hvB4Mn18SkqLk2QB8IUSVD3jtv7sHNo6vEOJpVe2NPCE6kpvD7S3jfFzSL4V6oulWuxdcoa4QjmwU5JNpaL7hDJQtwawIgOa3mFHtxAqDgvk9q3QyqHjyeFW3rRJI9oTr6xpBurEajNyJlRXcnb6xGD58zzqFqPPBUAUtkdGXF_dpKgLde4ez_Q6Dm9QEgm-dby-Tvz_CF14gI8SdVBMSQ1RKzi6Xipx3w",
+        "hash": "457338d9cc442a3404834a3cbfd58a2ab8c1505d"
+      },
+      {
+        "name": "AB6AXuA08AmdPLN6V3ZXxqUZhX_9VHJkbHiidUsMCRQLva1O2eNcWoPAKFe0eSQf36ds6UgpRXvUYJLPuUuswkweGM2Vqxv-CMCGEB6okvP2Y3mmr7phrMZHocb1ZvfsLwPehtas_smAJ6EpfY02cimqsS6ni0AnJgzjNIRBat5JStsqTrzocm5eVrf2otM7i3eH47cuwpzvfgWN-1ryWaf8vlAoc71jHJvgkXRkdrCwXwc4ctNqzJWQ7R7Vgg",
+        "hash": "65c10f804a786e93f3bcafa21a243c228a7cb46c"
+      },
+      {
+        "name": "Profile",
+        "hash": "4c2d7ed47c00752113cf03c7e891eb1bd57c4597"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "13:10",
+    "name": "buyer-home",
+    "size": "390x1102",
+    "textCount": 68,
+    "sampleTexts": [
+      "ស្វែងរកបន្លែស្រស់ៗ (Search fresh vegetables...)",
+      "ប្រភេទបន្លែ (Categories)",
+      "បន្លែស្លឹក",
+      "បន្លែឫស",
+      "រុក្ខជាតិក្រអូប",
+      "បន្លែផ្កា",
+      "ផ្សិត",
+      "សន្ទស្សន៍តម្លៃទីផ្សារថ្ងៃនេះ (Market Prices)",
+      "តម្លៃប៉េងប៉ោះកើនឡើង +$0.15/kg • ស្ពៃក្តោបចុះថោកល្មមទិញស្តុក",
+      "បន្លែស្រស់ថ្ងៃនេះ (Available Today)",
+      "View all (14)",
+      "Grade A",
+      "ត្រកួនធម្មជាតិ",
+      "Morning Glory",
+      "$0.80/kg"
+    ],
+    "imagesCount": 12,
+    "sampleImages": [
+      {
+        "name": "leafy-green 1",
+        "hash": "c40a00adef31b4c1a8b4fb78f14d4cb789fbbd51"
+      },
+      {
+        "name": "ginger 1",
+        "hash": "e3774efafd27bd157eb5f4cdcc4b81d441ef3488"
+      },
+      {
+        "name": "anise 1",
+        "hash": "e066f67a31792eba975cb5732c44e8d5aa2fc10e"
+      },
+      {
+        "name": "image 3",
+        "hash": "62d27455a909ac4e170f90f158f8eb810c41610e"
+      },
+      {
+        "name": "image 4",
+        "hash": "f72c100dc3ba5756c9eeb6a273957955f9ad8060"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "13:153",
+    "name": "buyer-browse",
+    "size": "390x1068",
+    "textCount": 50,
+    "sampleTexts": [
+      "បង្ហាញផលដំណាំ ៦ មុខ",
+      "តម្លៃទាបមុន",
+      "បន្លែឫស",
+      "រុក្ខជាតិក្រអូប",
+      "បន្លែផ្កា",
+      "ផ្សិត",
+      "បន្លែស្លឹក",
+      "Grade A",
+      "ត្រកួនធម្មជាតិ",
+      "Morning Glory",
+      "by Battambang Organic Co-op",
+      "$0.80/kg",
+      "សល់ 300kg",
+      "+",
+      "Grade A"
+    ],
+    "imagesCount": 12,
+    "sampleImages": [
+      {
+        "name": "ginger 1",
+        "hash": "e3774efafd27bd157eb5f4cdcc4b81d441ef3488"
+      },
+      {
+        "name": "anise 1",
+        "hash": "e066f67a31792eba975cb5732c44e8d5aa2fc10e"
+      },
+      {
+        "name": "image 3",
+        "hash": "62d27455a909ac4e170f90f158f8eb810c41610e"
+      },
+      {
+        "name": "image 4",
+        "hash": "f72c100dc3ba5756c9eeb6a273957955f9ad8060"
+      },
+      {
+        "name": "leafy-green 1",
+        "hash": "c40a00adef31b4c1a8b4fb78f14d4cb789fbbd51"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "13:319",
+    "name": "buyer-vegetable-details",
+    "size": "390x989",
+    "textCount": 33,
+    "sampleTexts": [
+      "ត្រកួនធម្មជាតិ",
+      "Organic Morning Glory",
+      "Grade A",
+      "តម្លៃលក់ដុំ (B2B Price)",
+      "$0.80",
+      "/ គីឡូក្រាម",
+      "បរិមាណមានលក់",
+      "៣០០ kg",
+      "ប្រភព និងការផលិត (Cooperative & Origin)",
+      "សហករណ៍ផ្គត់ផ្គង់",
+      "សហករណ៍សរីរាង្គបាត់ដំបង",
+      "ទីតាំងដាំដុះ",
+      "ខេត្តបាត់ដំបង, កម្ពុជា",
+      "កាលបរិច្ឆេទប្រមូលផល",
+      "២៨ កញ្ញា ២០២៦ (ម្សិលមិញ)"
+    ],
+    "imagesCount": 2,
+    "sampleImages": [
+      {
+        "name": "Rectangle",
+        "hash": "7a137222873fdcdc4cd49234354437f0dd7e9af5"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "fe7a58a9084bf6cefb3882a66e2c95905e7f518e"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "13:438",
+    "name": "buyer-cart",
+    "size": "390x942",
+    "textCount": 12,
+    "sampleTexts": [
+      "មុខទំនិញកម្ម៉ង់ (1 មុខ)",
+      "ត្រកួនធម្មជាតិ",
+      "Morning Glory",
+      "50kg × $0.80",
+      "$40.00",
+      "តម្លៃទំនិញសរុប (Subtotal)",
+      "$40.00",
+      "ថ្លៃដឹកជញ្ជូន (Delivery Fee)",
+      "$5.00",
+      "ការទូទាត់សរុប (Total)",
+      "$45.00",
+      "បន្តការទូទាត់ (Proceed to Checkout)"
+    ],
+    "imagesCount": 1,
+    "sampleImages": [
+      {
+        "name": "Rectangle",
+        "hash": "e93225041f2527c520021536152b95ce1c97c430"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "13:540",
+    "name": "buyer-checkout",
+    "size": "390x960",
+    "textCount": 29,
+    "sampleTexts": [
+      "ព័ត៌មានដឹកជញ្ជូន (Delivery)",
+      "Green Garden Restaurant",
+      "អ្នកទទួល: Sokha Meas • 012 345 678",
+      "១២៣ មហាវិថីព្រះសីហនុ, រាជធានីភ្នំពេញ",
+      "កាលវិភាគបញ្ជូនទំនិញ (Schedule)",
+      "ថ្ងៃស្អែក (Tomorrow)",
+      "២៩ កញ្ញា ២០២៦",
+      "ពេលវេលា (Window)",
+      "6:00 AM - 8:00 AM",
+      "វិធីសាស្ត្រទូទាត់ (Payment)",
+      "KHQR",
+      "ទូទាត់រហ័សតាម Bakong KHQR",
+      "ស្កេនទូទាត់ងាយស្រួលតាមកម្មវិធីធនាគារ",
+      "កំណត់សម្គាល់បន្ថែម (Order Notes)",
+      "Please pack herbs separately."
+    ],
+    "imagesCount": 2,
+    "sampleImages": [
+      {
+        "name": "ChatGPT Image Sep 28, 2026, 06_15_35 PM- (1) 2",
+        "hash": "9e2ac8a44b53111bc21bebdbaccd2d2d0285c18b"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "454433d2634fce978a2d0f6a6d9f62b1a22f52fd"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "13:633",
+    "name": "buyer-order-submitted",
+    "size": "390x891",
+    "textCount": 20,
+    "sampleTexts": [
+      "បានបញ្ជូនសំណើទិញជោគជ័យ!",
+      "Your order request has been submitted successfully",
+      "លេខបញ្ជាទិញ (Order ID)",
+      "#ORD-046",
+      "កាលបរិច្ឆេទ",
+      "២៨ កញ្ញា ២០២៦",
+      "សរុបការទូទាត់",
+      "$111.00",
+      "ស្ថានភាពបញ្ជាទិញ",
+      "រង់ចាំការបញ្ជាក់ (Pending)",
+      "សហករណ៍នឹងពិនិត្យមើលបរិមាណស្តុក ជាក់ស្តែងរួចទាក់ទងបញ្ជាក់ជូនលោកអ្នកក្នុងពេលឆាប់ៗ។",
+      "មើលការបញ្ជាទិញ (View Order)",
+      "ត្រលប់ទៅទំព័រដើម (Return Home)",
+      "ផ្ទាំងដើម",
+      "រកមើល"
+    ],
+    "imagesCount": 2,
+    "sampleImages": [
+      {
+        "name": "ChatGPT Image Sep 28, 2026, 06_15_35 PM- (1) 2",
+        "hash": "9e2ac8a44b53111bc21bebdbaccd2d2d0285c18b"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "454433d2634fce978a2d0f6a6d9f62b1a22f52fd"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "13:712",
+    "name": "buyer-order-details",
+    "size": "390x943",
+    "textCount": 37,
+    "sampleTexts": [
+      "លេខបញ្ជាទិញ (Order ID)",
+      "#ORD-046",
+      "ទទួលយក (Accepted)",
+      "បញ្ជីកសិផលដែលបានទិញ",
+      "មុខទំនិញ (Item)",
+      "ចំនួន (Qty)",
+      "តម្លៃសរុប (Total)",
+      "ត្រកួនធម្មជាតិ",
+      "Morning Glory",
+      "50 kg",
+      "$40.00",
+      "ត្រសក់ស្រែ",
+      "Cucumbers",
+      "30 kg",
+      "$36.00"
+    ],
+    "imagesCount": 2,
+    "sampleImages": [
+      {
+        "name": "ChatGPT Image Sep 28, 2026, 06_15_35 PM- (1) 2",
+        "hash": "9e2ac8a44b53111bc21bebdbaccd2d2d0285c18b"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "454433d2634fce978a2d0f6a6d9f62b1a22f52fd"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "13:1067",
+    "name": "buyer-track-order",
+    "size": "390x1125",
+    "textCount": 33,
+    "sampleTexts": [
+      "លេខបញ្ជាទិញ / Order ID",
+      "#ORD-046",
+      "កំពុងដឹកជញ្ជូន (Dispatched)",
+      "ពេលវេលាមកដល់ប៉ាន់ស្មាន / Est. Arrival",
+      "២៩ កញ្ញា ២០២៦, ៦:៣០ ព្រឹក (6:30 AM)",
+      "សហករណ៍ និងគោលដៅដឹកជញ្ជូន",
+      "ពី៖ សហករណ៍សរីរាង្គបាត់ដំបង",
+      "ទៅ៖ Green Garden Restaurant",
+      "១២៣ មហាវិថីព្រះសីហនុ, រាជធានីភ្នំពេញ",
+      "ដំណើរការដឹកជញ្ជូន (Delivery Timeline)",
+      "សំណើបញ្ជាទិញត្រូវបានទទួលយក (Order Accepted)",
+      "២៨ កញ្ញា, ២:១៥ រសៀល",
+      "កំពុងរៀបចំ និងវេចខ្ចប់ (Preparing)",
+      "២៨ កញ្ញា, ៤:០០ ល្ងាច",
+      "បានឆ្លងកាត់ការត្រួតពិនិត្យគុណភាព (Quality Checked)"
+    ],
+    "imagesCount": 3,
+    "sampleImages": [
+      {
+        "name": "Rectangle",
+        "hash": "28d2e529b0656ebe52c84bb601b7c7c82341ab53"
+      },
+      {
+        "name": "ChatGPT Image Sep 28, 2026, 06_15_35 PM- (1) 2",
+        "hash": "9e2ac8a44b53111bc21bebdbaccd2d2d0285c18b"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "454433d2634fce978a2d0f6a6d9f62b1a22f52fd"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "13:1204",
+    "name": "buyer-receive-order",
+    "size": "390x1050",
+    "textCount": 31,
+    "sampleTexts": [
+      "បញ្ជាទិញរបស់អ្នកបានមកដល់ហើយ!",
+      "Your order has arrived! 29 Sep 2026, 6:25 AM",
+      "ផ្ទៀងផ្ទាត់ទំនិញទទួលជាក់ស្តែង (Quantity Checklist)",
+      "ត្រកួនធម្មជាតិ",
+      "រំពឹងទុក៖ 50kg (Expected)",
+      "50",
+      "kg",
+      "ត្រសក់ស្រែ",
+      "រំពឹងទុក៖ 30kg (Expected)",
+      "30",
+      "kg",
+      "ស្លឹកគ្រៃធម្មជាតិ",
+      "រំពឹងទុក៖ 20kg (Expected)",
+      "20",
+      "kg"
+    ],
+    "imagesCount": 5,
+    "sampleImages": [
+      {
+        "name": "Rectangle",
+        "hash": "685c8443375eae2c20b978da05bd42de36dfd542"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "bd726b22fd589d39aa69a526db8a0b54709c2439"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "eb4b3053537db9a3852d37563d8913a9361b2551"
+      },
+      {
+        "name": "ChatGPT Image Sep 28, 2026, 06_15_35 PM- (1) 2",
+        "hash": "9e2ac8a44b53111bc21bebdbaccd2d2d0285c18b"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "454433d2634fce978a2d0f6a6d9f62b1a22f52fd"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "13:1323",
+    "name": "buyer-order-complete",
+    "size": "390x895",
+    "textCount": 30,
+    "sampleTexts": [
+      "បញ្ជាទិញបានបញ្ចប់រួចរាល់!",
+      "Order Complete! Thank you.",
+      "លេខបញ្ជាទិញ / Order ID",
+      "#ORD-046",
+      "កាលបរិច្ឆេទ / Completed Date",
+      "២៩ កញ្ញា ២០២៦",
+      "ត្រកួនធម្មជាតិ (50kg)",
+      "$40.00",
+      "ត្រសក់ស្រែ (30kg)",
+      "$36.00",
+      "ស្លឹកគ្រៃធម្មជាតិ (20kg)",
+      "$30.00",
+      "តម្លៃទំនិញសរុប (Subtotal)",
+      "$106.00",
+      "ថ្លៃដឹកជញ្ជូន (Delivery)"
+    ],
+    "imagesCount": 3,
+    "sampleImages": [
+      {
+        "name": "image 8",
+        "hash": "50afff266a57abecad1c03c54b84e2aa75a44981"
+      },
+      {
+        "name": "ChatGPT Image Sep 28, 2026, 06_15_35 PM- (1) 2",
+        "hash": "9e2ac8a44b53111bc21bebdbaccd2d2d0285c18b"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "454433d2634fce978a2d0f6a6d9f62b1a22f52fd"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "13:1431",
+    "name": "buyer-market-prices",
+    "size": "390x956",
+    "textCount": 49,
+    "sampleTexts": [
+      "សន្ទស្សន៍តម្លៃទីផ្សារថ្ងៃនេះ (Today's Prices)",
+      "តម្លៃយោងផ្អែកលើទីផ្សារបោះដុំធំៗក្នុងរាជធានីភ្នំពេញ ធៀបនឹងតម្លៃពិសេសផ្ទាល់ពី HarvestFlow។",
+      "មុខទំនិញ (Vegetable)",
+      "តម្លៃទីផ្សារ",
+      "HarvestFlow",
+      "ត្រកួនធម្មជាតិ",
+      "Morning Glory",
+      "ធូរថ្លៃជាង 11%",
+      "$0.90",
+      "$0.80",
+      "/ គីឡូក្រាម",
+      "ត្រសក់ស្រែ",
+      "Cucumbers",
+      "ធូរថ្លៃជាង 8%",
+      "$1.30"
+    ],
+    "imagesCount": 2,
+    "sampleImages": [
+      {
+        "name": "ChatGPT Image Sep 28, 2026, 06_15_35 PM- (1) 2",
+        "hash": "9e2ac8a44b53111bc21bebdbaccd2d2d0285c18b"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "454433d2634fce978a2d0f6a6d9f62b1a22f52fd"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "13:1568",
+    "name": "buyer-cooperative-profile",
+    "size": "390x997",
+    "textCount": 26,
+    "sampleTexts": [
+      "បាត់ដំបង, កម្ពុជា 🇰🇭",
+      "សហករណ៍សរីរាង្គបាត់ដំបង",
+      "Battambang Organic Co-op • បង្កើតឡើង៖ ២០១៩",
+      "សមាជិក ៤៥ គ្រួសារ",
+      "CamGAP Certified",
+      "អំពីសហករណ៍ (About Co-op)",
+      "សហករណ៍កសិកម្មបន្លែធម្មជាតិបាត់ដំបង ជំនាញក្នុងការដាំដុះបន្លែស្លឹក និងរុក្ខជាតិក្រអូបស្រស់ៗ គ្មានសារធាតុគីមី ផ្គត់ផ្គង់ជូនភោជនីយដ្ឋានលំដាប់ខ្ពស់ក្នុងក្រុងភ្នំពេញចាប់តាំងពីឆ្នាំ២០១៩។",
+      "ផលិតផលដែលមានលក់ (Available Products)",
+      "ត្រកួនធម្មជាតិ",
+      "$0.80/kg",
+      "ខាត់ណាខ្មែរ",
+      "$0.95/kg",
+      "ស្លឹកគ្រៃធម្មជាតិ",
+      "$1.50/kg",
+      "ត្រសក់ស្រែ"
+    ],
+    "imagesCount": 7,
+    "sampleImages": [
+      {
+        "name": "Rectangle",
+        "hash": "d43e193458a19b2bcdddb61358f03412e089931a"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "685c8443375eae2c20b978da05bd42de36dfd542"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "eb4b3053537db9a3852d37563d8913a9361b2551"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "eb4b3053537db9a3852d37563d8913a9361b2551"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "bd726b22fd589d39aa69a526db8a0b54709c2439"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "13:1676",
+    "name": "buyer-profile",
+    "size": "390x844",
+    "textCount": 30,
+    "sampleTexts": [
+      "The Lab by Sokim Heng",
+      "អ្នកគ្រប់គ្រងបញ្ជាទិញ៖ សុខា មាស (Sokha Meas)",
+      "គណនីផ្ទៀងផ្ទាត់រួច (Verified B2B)",
+      "ការបញ្ជាទិញថ្មី",
+      "១២",
+      "កំពុងរៀបចំ",
+      "៨",
+      "ត្រៀមដឹក",
+      "៥",
+      "អាសយដ្ឋានដឹកជញ្ជូន",
+      "123 Preah Sihanouk Blvd (Primary)",
+      "វិធីសាស្ត្រទូទាត់ប្រាក់",
+      "Bakong KHQR Connected",
+      "ការជូនដំណឹងក្នុងកម្មវិធី",
+      "Enabled (សំឡេង និងញ័រ)"
+    ],
+    "imagesCount": 2,
+    "sampleImages": [
+      {
+        "name": "Rectangle",
+        "hash": "46c54862643a034bda0846945035bca2a094d698"
+      },
+      {
+        "name": "card_13654154 1",
+        "hash": "627606856cf83d838984afec0a1e0b46ae710690"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "44:9",
+    "name": "shop-search-results",
+    "size": "390x894",
+    "textCount": 43,
+    "sampleTexts": [
+      "Tomato ប៉េងប៉ោះ",
+      "មានហាង ៣ រកឃើញ (3 shops found)",
+      "លទ្ធភាពបន្ថែមប៉េងប៉ោះស្រស់ពីក្រុមកសិករនៅក្នុងតំបន់នេះ",
+      "សហគមន៍កសិកម្ម តាសីសាមគ្គី",
+      "Tasey Samaki AC• ⭐ 4.8 (38 reviews)",
+      "ស៊ើបរក",
+      "Grade A",
+      "ប៉េងប៉ោះ (Tomato)",
+      "$2.50/kg",
+      "សល់ 18kg",
+      "ខេល (Kale)",
+      "$1.80/kg",
+      "សល់ 25kg",
+      "ការ៉ុត (Carrot)",
+      "$1.20/kg"
+    ],
+    "imagesCount": 11,
+    "sampleImages": [
+      {
+        "name": "image 5",
+        "hash": "0f90b3e5dd98e34ce086cb934c5b462488a37846"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "0951fcdbce53edcc2299035cfd71e112f7f9f064"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "9934a8ada268e740f2900fe78bebcddf316ff9ad"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "1f6a232310a8367e0a7ac762a7bcb67a2e14d5a9"
+      },
+      {
+        "name": "image 6",
+        "hash": "8e4562ede330e748705bf5d80db887457cb55533"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "44:416",
+    "name": "shop-based-cart",
+    "size": "390x941",
+    "textCount": 24,
+    "sampleTexts": [
+      "Your Cart កន្ត្រក",
+      "សហគមន៍កសិកម្ម តាសីសាមគ្គី",
+      "ប៉េងប៉ោះ (Tomato)",
+      "5kg × $2.50 = $12.50",
+      "Grade A please",
+      "View Cart",
+      "សហករណ៍ស្រស់បាត់ដំបង",
+      "ប៉េងប៉ោះ (Tomato)",
+      "2kg × $2.30 = $4.60",
+      "ការ៉ុត (Carrot)",
+      "4kg × $1.20 = $4.80",
+      "ត្រសក់ (Cucumber)",
+      "2kg × $1.20 = $2.40",
+      "View Cart",
+      "រកមើលបន្ត (Continue Shopping)"
+    ],
+    "imagesCount": 4,
+    "sampleImages": [
+      {
+        "name": "Rectangle",
+        "hash": "e89c46d6a46e75071cb637706b5cc129d664b284"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "82626bbd15eb48d10ed741051bda9eabe8e0ffc0"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "3b504d13ee092682aff71bc08712be3718ad27f7"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "60a026c56fcd3a4acd4ce439f2fca5c3d0220a27"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "44:557",
+    "name": "shop-specific-checkout - restyled",
+    "size": "390x844",
+    "textCount": 25,
+    "sampleTexts": [
+      "Checkout ទូទាត់",
+      "មុខទំនិញ (Ordered Items)",
+      "ប៉េងប៉ោះ (Tomato)",
+      "5kg • Note: Grade A please",
+      "$12.50",
+      "Drop Down Buttons",
+      "ព័ត៌មានដឹកជញ្ជូន (Delivery)",
+      "Tasey Samaki AC",
+      "អ្នកទទួល: Sokha Meas • 012 345 678",
+      "១២៣ មហាវិថីព្រះសីហនុ, រាជធានីភ្នំពេញ",
+      "កាលវិភាគបញ្ជូន (Schedule)",
+      "ថ្ងៃស្អែក (Tomorrow)",
+      "២៩ កញ្ញា ២០២៦",
+      "ពេលវេលា (Window)",
+      "6:00 AM - 8:00 AM"
+    ],
+    "imagesCount": 0,
+    "sampleImages": []
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "44:674",
+    "name": "orders-list-multi-shop",
+    "size": "390x848",
+    "textCount": 28,
+    "sampleTexts": [
+      "Active Orders",
+      "#HF001",
+      "• 28 Sep 2026",
+      "Preparing កំពុងរៀបចំ",
+      "សហគមន៍កសិកម្ម តាសីសាមគ្គី",
+      "Tomato 5kg",
+      "Tomato 5kg",
+      "តាមដានការដឹកជញ្ជូន (Track Order)",
+      "#HF002",
+      "• 28 Sep 2026",
+      "Accepted ទទួលយក",
+      "សហភាពសហគមន៍កសិកម្ម ដំណាំកម្ពុជា",
+      "Tomato 2kg, Carrot 4kg, Cucumber 2kg",
+      "$14.80",
+      "តាមដានការដឹកជញ្ជូន (Track Order)"
+    ],
+    "imagesCount": 3,
+    "sampleImages": [
+      {
+        "name": "Frame",
+        "hash": "0f90b3e5dd98e34ce086cb934c5b462488a37846"
+      },
+      {
+        "name": "Frame",
+        "hash": "8e4562ede330e748705bf5d80db887457cb55533"
+      },
+      {
+        "name": "Frame",
+        "hash": "07dbe906776c4ab5a6b276acc0a663fd1e50a32b"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "51:95",
+    "name": "buyer-vegetable-details",
+    "size": "390x963",
+    "textCount": 31,
+    "sampleTexts": [
+      "ត្រសក់ស្រែ",
+      "Organic Morning Glory",
+      "Grade A",
+      "តម្លៃលក់ដុំ (B2B Price)",
+      "$1.20",
+      "/ គីឡូក្រាម",
+      "បរិមាណមានលក់",
+      "៣០០ kg",
+      "ប្រភព និងការផលិត (Cooperative & Origin)",
+      "សហករណ៍ផ្គត់ផ្គង់",
+      "សហករណ៍សរីរាង្គបាត់ដំបង",
+      "ទីតាំងដាំដុះ",
+      "ខេត្តបាត់ដំបង, កម្ពុជា",
+      "កាលបរិច្ឆេទប្រមូលផល",
+      "២៨ កញ្ញា ២០២៦ (ម្សិលមិញ)"
+    ],
+    "imagesCount": 2,
+    "sampleImages": [
+      {
+        "name": "Rectangle",
+        "hash": "7a137222873fdcdc4cd49234354437f0dd7e9af5"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "1a079e8c226f1db6164700fa0cc7eb22577f8d05"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "51:222",
+    "name": "buyer-vegetable-details",
+    "size": "390x963",
+    "textCount": 31,
+    "sampleTexts": [
+      "ស្លឹកគ្រៃធម្មជាតិ",
+      "Organic Morning Glory",
+      "Grade A",
+      "តម្លៃលក់ដុំ (B2B Price)",
+      "$1.50",
+      "/ គីឡូក្រាម",
+      "បរិមាណមានលក់",
+      "៣០០ គ.ក្រ ជាក់ស្តែង",
+      "ប្រភព និងការផលិត (Cooperative & Origin)",
+      "សហករណ៍ផ្គត់ផ្គង់",
+      "សហករណ៍សរីរាង្គបាត់ដំបង",
+      "ទីតាំងដាំដុះ",
+      "ខេត្តបាត់ដំបង, កម្ពុជា",
+      "កាលបរិច្ឆេទប្រមូលផល",
+      "២៨ កញ្ញា ២០២៦ (ម្សិលមិញ)"
+    ],
+    "imagesCount": 4,
+    "sampleImages": [
+      {
+        "name": "Rectangle",
+        "hash": "7a137222873fdcdc4cd49234354437f0dd7e9af5"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "1a079e8c226f1db6164700fa0cc7eb22577f8d05"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "eb4b3053537db9a3852d37563d8913a9361b2551"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "32313b8da84823507c09928d7368373efd28a187"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "51:354",
+    "name": "buyer-cart",
+    "size": "390x780",
+    "textCount": 24,
+    "sampleTexts": [
+      "ខ្មែរ",
+      "មុខទំនិញកម្ម៉ង់ (៣ មុខ)",
+      "ត្រកួនធម្មជាតិ",
+      "Morning Glory",
+      "50kg × $0.80",
+      "$40.00",
+      "ត្រសក់ស្រែ",
+      "Cucumbers",
+      "30kg × $1.20",
+      "$36.00",
+      "តម្លៃទំនិញសរុប (Subtotal)",
+      "$76",
+      "ថ្លៃដឹកជញ្ជូន (Delivery Fee)",
+      "$5.00",
+      "ការទូទាត់សរុប (Total)"
+    ],
+    "imagesCount": 4,
+    "sampleImages": [
+      {
+        "name": "ChatGPT Image Sep 28, 2026, 06_15_35 PM- (1) 2",
+        "hash": "9e2ac8a44b53111bc21bebdbaccd2d2d0285c18b"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "454433d2634fce978a2d0f6a6d9f62b1a22f52fd"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "e93225041f2527c520021536152b95ce1c97c430"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "aaf13a7b80ef5de39b04faa149bb8d2119f1f43a"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "51:459",
+    "name": "buyer-cart",
+    "size": "390x883",
+    "textCount": 28,
+    "sampleTexts": [
+      "ខ្មែរ",
+      "មុខទំនិញកម្ម៉ង់ (៣ មុខ)",
+      "ត្រកួនធម្មជាតិ",
+      "Morning Glory",
+      "50kg × $0.80",
+      "$40.00",
+      "ត្រសក់ស្រែ",
+      "Cucumbers",
+      "30kg × $1.20",
+      "$36.00",
+      "ស្លឹកគ្រៃធម្មជាតិ",
+      "Lemongrass",
+      "20kg × $1.50",
+      "$30.00",
+      "តម្លៃទំនិញសរុប (Subtotal)"
+    ],
+    "imagesCount": 5,
+    "sampleImages": [
+      {
+        "name": "ChatGPT Image Sep 28, 2026, 06_15_35 PM- (1) 2",
+        "hash": "9e2ac8a44b53111bc21bebdbaccd2d2d0285c18b"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "454433d2634fce978a2d0f6a6d9f62b1a22f52fd"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "e93225041f2527c520021536152b95ce1c97c430"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "aaf13a7b80ef5de39b04faa149bb8d2119f1f43a"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "32313b8da84823507c09928d7368373efd28a187"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "57:718",
+    "name": "shop-profile-page",
+    "size": "390x868",
+    "textCount": 37,
+    "sampleTexts": [
+      "សហករណ៍បៃតងបាត់ដំបង",
+      "សហគមន៍កសិកម្ម តាសីសាមគ្គី",
+      "📍 ក្រុងបាត់ដំបង, ខេត្តបាត់ដំបង, កម្ពុជា",
+      "ឆ្នាំបង្កើត (Est.)",
+      "2020",
+      "សមាជិក (Members)",
+      "38 គ្រួសារ",
+      "ស្តង់ដារ (Certificates)",
+      "Organic",
+      "CamGAP",
+      "លទ្ធផលស្វែងរក: ប៉េងប៉ោះ (You searched: Tomato)",
+      "បន្លែដែលមានលក់ (Available Vegetables)",
+      "Grade A",
+      "ប៉េងប៉ោះ (Tomato)",
+      "$2.50/kg"
+    ],
+    "imagesCount": 5,
+    "sampleImages": [
+      {
+        "name": "Rectangle",
+        "hash": "2c0fdb6e098c995a9205a758d71fa311acf516d7"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "2af0a204ad89576969b99525ef20b28ddb7ada7d"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "4bc5e9c127ed10f6d7cfa8855b2ae7bf563b4817"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "400ff2edc05ede01eadc76c6afcac32b04981ed1"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "fe7a58a9084bf6cefb3882a66e2c95905e7f518e"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "57:857",
+    "name": "vegetable-details-with-note",
+    "size": "390x844",
+    "textCount": 23,
+    "sampleTexts": [
+      "ព័ត៌មានផលិតផល",
+      "ប៉េងប៉ោះ (Tomato)",
+      "Grade A",
+      "តម្លៃលក់ (Price)",
+      "$2.50",
+      "/ គីឡូក្រាម",
+      "បរិមាណមានលក់",
+      "18 kg",
+      "សហករណ៍ផ្គត់ផ្គង់",
+      "សហគមន៍កសិកម្ម តាសីសាមគ្គី",
+      "ទីតាំងដាំដុះ (Origin)",
+      "បាត់ដំបង, កម្ពុជា",
+      "កាលបរិច្ឆេទប្រមូលផល",
+      "២៧ កញ្ញា ២០២៦",
+      "ការបញ្ជាទិញអប្បបរមា"
+    ],
+    "imagesCount": 1,
+    "sampleImages": [
+      {
+        "name": "Rectangle",
+        "hash": "95f7412769dc9800fbc87e887801ac356482d2c7"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "57:967",
+    "name": "vegetable-details-with-note",
+    "size": "390x844",
+    "textCount": 24,
+    "sampleTexts": [
+      "ព័ត៌មានផលិតផល",
+      "ប៉េងប៉ោះ (Tomato)",
+      "Grade A",
+      "តម្លៃលក់ (Price)",
+      "$2.50",
+      "/ គីឡូក្រាម",
+      "បរិមាណមានលក់",
+      "18 kg",
+      "សហករណ៍ផ្គត់ផ្គង់",
+      "សហគមន៍កសិកម្ម តាសីសាមគ្គី",
+      "ទីតាំងដាំដុះ (Origin)",
+      "បាត់ដំបង, កម្ពុជា",
+      "កាលបរិច្ឆេទប្រមូលផល",
+      "២៧ កញ្ញា ២០២៦",
+      "ការបញ្ជាទិញអប្បបរមា"
+    ],
+    "imagesCount": 1,
+    "sampleImages": [
+      {
+        "name": "Rectangle",
+        "hash": "95f7412769dc9800fbc87e887801ac356482d2c7"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "57:1248",
+    "name": "buyer-checkout",
+    "size": "390x977",
+    "textCount": 27,
+    "sampleTexts": [
+      "សហគមន៍កសិកម្ម តាសីសាមគ្គី",
+      "ព័ត៌មានដឹកជញ្ជូន (Delivery)",
+      "The Lab by Sokim Heng",
+      "អ្នកទទួល: Sokha Meas • 012 345 678",
+      "១២៣ មហាវិថីព្រះសីហនុ, រាជធានីភ្នំពេញ",
+      "កាលវិភាគបញ្ជូនទំនិញ (Schedule)",
+      "ថ្ងៃស្អែក (Tomorrow)",
+      "២៩ កញ្ញា ២០២៦",
+      "ពេលវេលា (Window)",
+      "6:00 AM - 8:00 AM",
+      "វិធីសាស្ត្រទូទាត់ (Payment Method)",
+      "KHQR",
+      "ទូទាត់រហ័សតាម Bakong KHQR",
+      "ស្កេនទូទាត់ងាយស្រួលតាមកម្មវិធីធនាគារ",
+      "កំណត់សម្គាល់បន្ថែម (Order Notes)"
+    ],
+    "imagesCount": 1,
+    "sampleImages": [
+      {
+        "name": "Rectangle",
+        "hash": "e93225041f2527c520021536152b95ce1c97c430"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "63:85",
+    "name": "buyer-order-details when the order accepted",
+    "size": "390x855",
+    "textCount": 26,
+    "sampleTexts": [
+      "លេខបញ្ជាទិញ (Order ID)",
+      "#ORD-046",
+      "ទទួលយក (Accepted)",
+      "បញ្ជីកសិផលដែលបានទិញ",
+      "មុខទំនិញ (Item)",
+      "ចំនួន (Qty)",
+      "តម្លៃសរុប (Total)",
+      "ត្រកួនធម្មជាតិ",
+      "Morning Glory",
+      "50 kg",
+      "$40.00",
+      "ការទូទាត់សរុប (Total Cost)",
+      "$45.00",
+      "ស្ថានភាពដឹកជញ្ជូន (Tracking)",
+      "បានបញ្ជូនសំណើ (Request Submitted)"
+    ],
+    "imagesCount": 0,
+    "sampleImages": []
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "63:212",
+    "name": "buyer-track-order this when the order is being deliver on the way",
+    "size": "390x988",
+    "textCount": 26,
+    "sampleTexts": [
+      "លេខបញ្ជាទិញ / Order ID",
+      "#ORD-046",
+      "កំពុងដឹកជញ្ជូន (Dispatched)",
+      "ពេលវេលាមកដល់ប៉ាន់ស្មាន / Est. Arrival",
+      "២៩ កញ្ញា ២០២៦, ៦:៣០ ព្រឹក (6:30 AM)",
+      "សហករណ៍ និងគោលដៅដឹកជញ្ជូន",
+      "ពី៖ សហករណ៍សរីរាង្គបាត់ដំបង",
+      "ទៅ៖ Green Garden Restaurant",
+      "១២៣ មហាវិថីព្រះសីហនុ, រាជធានីភ្នំពេញ",
+      "ដំណើរការដឹកជញ្ជូន (Delivery Timeline)",
+      "សំណើបញ្ជាទិញត្រូវបានទទួលយក (Order Accepted)",
+      "២៨ កញ្ញា, ២:១៥ រសៀល",
+      "កំពុងរៀបចំ និងវេចខ្ចប់ (Preparing)",
+      "២៨ កញ្ញា, ៤:០០ ល្ងាច",
+      "បានឆ្លងកាត់ការត្រួតពិនិត្យគុណភាព (Quality Checked)"
+    ],
+    "imagesCount": 1,
+    "sampleImages": [
+      {
+        "name": "Rectangle",
+        "hash": "28d2e529b0656ebe52c84bb601b7c7c82341ab53"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "63:990",
+    "name": "buyer-receive-order",
+    "size": "390x844",
+    "textCount": 15,
+    "sampleTexts": [
+      "ខ្មែរ",
+      "ផ្ទៀងផ្ទាត់ទំនិញទទួលជាក់ស្តែង (Quantity Checklist)",
+      "ត្រកួនធម្មជាតិ",
+      "រំពឹងទុក៖ 50kg (Expected)",
+      "50",
+      "kg",
+      "តើទំនិញទាំងអស់មានគុណភាពល្អទេ? (Is quality acceptable?)",
+      "បាទ/ចាស (Yes)",
+      "ទេ (No)",
+      "Feedback",
+      "បន្ថែមរូបថតជាក់ស្តែង (Add photos - optional)",
+      "ចុចទីនេះដើម្បីថតរូប ឬបញ្ចូលរូបភាព",
+      "កំណត់សម្គាល់ផ្សេងៗ (Delivery Notes)",
+      "ឧ. ទំនិញស្រស់ល្អ... (Type notes here...)",
+      "រាយការណ៍បញ្ហា"
+    ],
+    "imagesCount": 3,
+    "sampleImages": [
+      {
+        "name": "ChatGPT Image Sep 28, 2026, 06_15_35 PM- (1) 2",
+        "hash": "9e2ac8a44b53111bc21bebdbaccd2d2d0285c18b"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "454433d2634fce978a2d0f6a6d9f62b1a22f52fd"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "685c8443375eae2c20b978da05bd42de36dfd542"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "63:1102",
+    "name": "buyer-order-complete",
+    "size": "390x844",
+    "textCount": 23,
+    "sampleTexts": [
+      "ខ្មែរ",
+      "បញ្ជាទិញបានបញ្ចប់រួចរាល់!",
+      "Order Complete! Thank you.",
+      "លេខបញ្ជាទិញ / Order ID",
+      "#ORD-046",
+      "កាលបរិច្ឆេទ / Completed Date",
+      "២៩ កញ្ញា ២០២៦",
+      "ត្រកួនធម្មជាតិ (50kg)",
+      "$40.00",
+      "ត្រសក់ស្រែ (30kg)",
+      "$36.00",
+      "ស្លឹកគ្រៃធម្មជាតិ (20kg)",
+      "$30.00",
+      "តម្លៃទំនិញសរុប (Subtotal)",
+      "$106.00"
+    ],
+    "imagesCount": 3,
+    "sampleImages": [
+      {
+        "name": "ChatGPT Image Sep 28, 2026, 06_15_35 PM- (1) 2",
+        "hash": "9e2ac8a44b53111bc21bebdbaccd2d2d0285c18b"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "454433d2634fce978a2d0f6a6d9f62b1a22f52fd"
+      },
+      {
+        "name": "image 8",
+        "hash": "50afff266a57abecad1c03c54b84e2aa75a44981"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "63:1213",
+    "name": "buyer-order-submitted",
+    "size": "390x613",
+    "textCount": 11,
+    "sampleTexts": [
+      "បានបញ្ជូនសំណើទិញជោគជ័យ!",
+      "Your order request has been submitted successfully",
+      "លេខបញ្ជាទិញ (Order ID)",
+      "#ORD-047",
+      "កាលបរិច្ឆេទ",
+      "២៨ កញ្ញា ២០២៦",
+      "សរុបការទូទាត់",
+      "$15.90",
+      "សហករណ៍នឹងពិនិត្យមើលបរិមាណស្តុក ជាក់ស្តែងរួចទាក់ទងបញ្ជាក់ជូនលោកអ្នកក្នុងពេលឆាប់ៗ។",
+      "Done",
+      "Icon - View Order"
+    ],
+    "imagesCount": 0,
+    "sampleImages": []
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "63:1295",
+    "name": "buyer-receive-order",
+    "size": "390x865",
+    "textCount": 23,
+    "sampleTexts": [
+      "ខ្មែរ",
+      "បញ្ជាទិញរបស់អ្នកបានមកដល់ហើយ!",
+      "Your order has arrived! 29 Sep 2026, 6:25 AM",
+      "ផ្ទៀងផ្ទាត់ទំនិញទទួលជាក់ស្តែង (Quantity Checklist)",
+      "ប៉េងប៉ោះ",
+      "រំពឹងទុក៖ 50kg (Expected)",
+      "5",
+      "kg",
+      "តើទំនិញទាំងអស់មានគុណភាពល្អទេ? (Is quality acceptable?)",
+      "បាទ/ចាស (Yes)",
+      "ទេ (No)",
+      "បន្ថែមរូបថតជាក់ស្តែង (Add photos - optional)",
+      "ចុចទីនេះដើម្បីថតរូប ឬបញ្ចូលរូបភាព",
+      "កំណត់សម្គាល់ផ្សេងៗ (Delivery Notes)",
+      "ឧ. ទំនិញស្រស់ល្អ... (Type notes here...)"
+    ],
+    "imagesCount": 4,
+    "sampleImages": [
+      {
+        "name": "ChatGPT Image Sep 28, 2026, 06_15_35 PM- (1) 2",
+        "hash": "9e2ac8a44b53111bc21bebdbaccd2d2d0285c18b"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "454433d2634fce978a2d0f6a6d9f62b1a22f52fd"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "685c8443375eae2c20b978da05bd42de36dfd542"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "e89c46d6a46e75071cb637706b5cc129d664b284"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "63:1389",
+    "name": "buyer-order-complete",
+    "size": "390x844",
+    "textCount": 18,
+    "sampleTexts": [
+      "បញ្ជាទិញបានបញ្ចប់រួចរាល់!",
+      "Order Complete! Thank you.",
+      "លេខបញ្ជាទិញ / Order ID",
+      "#ORD-046",
+      "កាលបរិច្ឆេទ / Completed Date",
+      "២៩ កញ្ញា ២០២៦",
+      "ប៉េងប៉ោះ (5kg)",
+      "$12.90",
+      "តម្លៃទំនិញសរុប (Subtotal)",
+      "$12.90",
+      "ថ្លៃដឹកជញ្ជូន (Delivery)",
+      "$3.00",
+      "ការទូទាត់សរុប (Total)",
+      "$15.90",
+      "បង់ប្រាក់រួចតាម / Paid via"
+    ],
+    "imagesCount": 1,
+    "sampleImages": [
+      {
+        "name": "image 8",
+        "hash": "50afff266a57abecad1c03c54b84e2aa75a44981"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "63:1490",
+    "name": "buyer-order-details - remove",
+    "size": "390x893",
+    "textCount": 32,
+    "sampleTexts": [
+      "លេខបញ្ជាទិញ (Order ID)",
+      "#ORD-047",
+      "ទទួលយក (Accepted)",
+      "បញ្ជីកសិផលដែលបានទិញ",
+      "មុខទំនិញ (Item)",
+      "ចំនួន (Qty)",
+      "តម្លៃសរុប (Total)",
+      "ប៉េងប៉ោះ",
+      "Tomato",
+      "5 kg",
+      "$12.90",
+      "ការទូទាត់សរុប (Total Cost)",
+      "$15.90",
+      "ស្ថានភាពដឹកជញ្ជូន (Tracking)",
+      "បានបញ្ជូនសំណើ (Request Submitted)"
+    ],
+    "imagesCount": 0,
+    "sampleImages": []
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "63:1610",
+    "name": "buyer-track-order",
+    "size": "390x1027",
+    "textCount": 32,
+    "sampleTexts": [
+      "លេខបញ្ជាទិញ / Order ID",
+      "#ORD-047",
+      "កំពុងដឹកជញ្ជូន (Dispatched)",
+      "ពេលវេលាមកដល់ប៉ាន់ស្មាន / Est. Arrival",
+      "២៩ កញ្ញា ២០២៦, ៦:៣០ ព្រឹក (6:30 AM)",
+      "សហករណ៍ និងគោលដៅដឹកជញ្ជូន",
+      "ពី៖ Tasey Samaki AC",
+      "ទៅ៖ The Lab",
+      "១២៣ មហាវិថីព្រះសីហនុ, រាជធានីភ្នំពេញ",
+      "ដំណើរការដឹកជញ្ជូន (Delivery Timeline)",
+      "សំណើបញ្ជាទិញត្រូវបានទទួលយក (Order Accepted)",
+      "២៨ កញ្ញា, ២:១៥ រសៀល",
+      "កំពុងរៀបចំ និងវេចខ្ចប់ (Preparing)",
+      "២៨ កញ្ញា, ៤:០០ ល្ងាច",
+      "បានឆ្លងកាត់ការត្រួតពិនិត្យគុណភាព (Quality Checked)"
+    ],
+    "imagesCount": 1,
+    "sampleImages": [
+      {
+        "name": "Rectangle",
+        "hash": "28d2e529b0656ebe52c84bb601b7c7c82341ab53"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "88:166",
+    "name": "orders-list-multi-shop - should be revised",
+    "size": "390x844",
+    "textCount": 23,
+    "sampleTexts": [
+      "History",
+      "#HF001",
+      "• 28 Sep 2026",
+      "Cancelled",
+      "សហគមន៍កសិកម្ម តាសីសាមគ្គី",
+      "Tomato 5kg",
+      "Tomato 5kg",
+      "Rate",
+      "Reorder",
+      "#HF002",
+      "• 28 Sep 2026",
+      "Completed",
+      "សហភាពសហគមន៍កសិកម្ម ដំណាំកម្ពុជា",
+      "Tomato 2kg, Carrot 4kg, Cucumber 2kg",
+      "$14.80"
+    ],
+    "imagesCount": 2,
+    "sampleImages": [
+      {
+        "name": "Frame",
+        "hash": "0f90b3e5dd98e34ce086cb934c5b462488a37846"
+      },
+      {
+        "name": "Frame",
+        "hash": "8e4562ede330e748705bf5d80db887457cb55533"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "137:26",
+    "name": "shop-based-cart-unselected",
+    "size": "390x941",
+    "textCount": 24,
+    "sampleTexts": [
+      "Your Cart កន្ត្រក",
+      "Select All ជ្រើសរើសទាំងអស់",
+      "សហគមន៍កសិកម្ម តាសីសាមគ្គី",
+      "ប៉េងប៉ោះ (Tomato)",
+      "5kg × $2.50 = $12.50",
+      "Grade A please",
+      "View Cart",
+      "សហករណ៍ស្រស់បាត់ដំបង",
+      "ប៉េងប៉ោះ (Tomato)",
+      "2kg × $2.30 = $4.60",
+      "ការ៉ុត (Carrot)",
+      "4kg × $1.20 = $4.80",
+      "ត្រសក់ (Cucumber)",
+      "2kg × $1.20 = $2.40",
+      "View Cart"
+    ],
+    "imagesCount": 4,
+    "sampleImages": [
+      {
+        "name": "Rectangle",
+        "hash": "e89c46d6a46e75071cb637706b5cc129d664b284"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "82626bbd15eb48d10ed741051bda9eabe8e0ffc0"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "3b504d13ee092682aff71bc08712be3718ad27f7"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "60a026c56fcd3a4acd4ce439f2fca5c3d0220a27"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "144:263",
+    "name": "buyer-browse",
+    "size": "390x1065",
+    "textCount": 51,
+    "sampleTexts": [
+      "ត្រកួន (Morning Glory)",
+      "បន្លែស្លឹក",
+      "បន្លែឫស",
+      "រុក្ខជាតិក្រអូប",
+      "បន្លែផ្កា",
+      "ផ្សិត",
+      "បង្ហាញផលដំណាំ ៦ មុខ",
+      "តម្លៃទាបមុន",
+      "Grade A",
+      "ត្រកួនធម្មជាតិ",
+      "Morning Glory",
+      "by Battambang Organic Co-op",
+      "$0.80/kg",
+      "សល់ 300kg",
+      "+"
+    ],
+    "imagesCount": 12,
+    "sampleImages": [
+      {
+        "name": "leafy-green 1",
+        "hash": "c40a00adef31b4c1a8b4fb78f14d4cb789fbbd51"
+      },
+      {
+        "name": "ginger 1",
+        "hash": "e3774efafd27bd157eb5f4cdcc4b81d441ef3488"
+      },
+      {
+        "name": "anise 1",
+        "hash": "e066f67a31792eba975cb5732c44e8d5aa2fc10e"
+      },
+      {
+        "name": "image 3",
+        "hash": "62d27455a909ac4e170f90f158f8eb810c41610e"
+      },
+      {
+        "name": "image 4",
+        "hash": "f72c100dc3ba5756c9eeb6a273957955f9ad8060"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "144:402",
+    "name": "Html → Body",
+    "size": "390x1609",
+    "textCount": 73,
+    "sampleTexts": [
+      "សហគមន៍កសិកម្ម\nបាត់ដំបងមានជ័យ",
+      "បញ្ជីឈ្មោះសមាជិក (៤៨ នាក់)",
+      "Battambang Meanchey\nAgri-Coop Directory",
+      "+ ចុះឈ្មោះថ្មី",
+      "កំពុងជ្រើសរើសសម្រាប់ការថ្លឹងទំនិញ",
+      "លឹម សុខា",
+      "(#BTB-042)",
+      "សកម្ម",
+      "បញ្ជីកសិករសមាជិក (DIRECTORY LIST)",
+      "បង្ហាញ ៥ នៃ ៤៨",
+      "សមាជិកគំរូ ⭐",
+      "លឹម សុខា",
+      "#BTB-042",
+      "012 889 234",
+      "ភូមិបាណន់ ឃុំកន្ទឺ២ ស្រុកបាណន់"
+    ],
+    "imagesCount": 4,
+    "sampleImages": [
+      {
+        "name": "AB6AXuD0AX6X8CvTVz1K03VZO5T1w8PaB0KxMG6EPPivCIFytxkYX3DkpJ9mglOuIvYQnbsWdNi5F4t2FdZ5suT1RBJNqvYp_uzgPo2Ffx_kF2emQTRms8AOrU_Gpu2rVlrLcj7v4IAegf81yua658-__nd4jgEHtOSXH1wB2UVNSbbpK8b2i4vNHcgG0hPLDPQ1xNiUpW5f7Lkr7h8QBmF5K0-yjDxqaWS0VawztwpqNMcP60eFkqyBPJbK",
+        "hash": "0fc5cc0e3d1032637a92b9d43c46b51007d4adf9"
+      },
+      {
+        "name": "AB6AXuApxgg4TwMXRjFQn_ZaNK9c_aR4jyF_Begoct8eGiRSpuxBt75Hk9Q_qJhmxDQimzuOJRJd5KrgdGXp2iMkzXXbacfRyqFu5zqjDmXKJ5h6Xv71Em2FeRnpfY1fT_5Q5k_Quc3O96IiPtNFnldqylFpnu733na428-HTumMnYU1cqrvy6RbZl3g3ZBfJhq4hOkxf16h9GCtMLdZXDWOiPr02YuFJMQ8C0s_HY9qzlvWalIEeMQ9nP1e",
+        "hash": "b61efdadc8eccf04d047d45a9b3895c29816eec4"
+      },
+      {
+        "name": "AB6AXuCxjyEWHYN4rdYQotY_CGKaYxr4bOpPH5uqR5pR0zHau6BrOZudu1sUZUPwG8qEtkiH42jvwNIfYZbYMkpOK81vCLbKV9gGx9kLbKNc28y2hTLQ-_dow2Xp0zctbx5mbU_OMluknQiKUdJP2IfAq57kD8C_FV1e7-DteRlLVhj3DtApb8A4HLXIwUC2antBKHLcz8mNvcz3t_8KFva6S6ov6Yi9o9yZEEf8VjgruOofRLzbDdU9hRsr",
+        "hash": "12746bca96bfe4911a20fc7706f0c424404117e3"
+      },
+      {
+        "name": "AB6AXuAsQawIBYmTkN5IaE_u3CeEGa-bBVC7q4c1taO-eCASKBmZ-LNraOO0frAbCZBZYFxWPZ372S_hEHjRJcfOcoQx5pTKK84O3_itqdGlbMwyNXGyzohZgh2lCOnzR5jdlFFiS5NPJ7BIpY-vzUAgrJkDBCbRLXdItFoZKSvW6jcf9oQAJ50m0_RyED-b0OrKXX_n6VAoEXNDXGWwi-HWLvSzptMIA3xMlTW2t5dpiTUUnASdHB2lrkyR",
+        "hash": "4853d3201a9d6e09b9e66a8986f4813f4d5910ed"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "144:707",
+    "name": "Html → Body",
+    "size": "390x1567",
+    "textCount": 69,
+    "sampleTexts": [
+      "ស្វែងរកបន្លែ ឬកសិករ...",
+      "ស្វែងរកតាម ឈ្មោះបន្លែ, ឈ្មោះកសិករ, ឬឡូត៍ឃ្លាំង (ឧ. សុខា, BIN-A04)",
+      "ទាំងអស់ (៥)",
+      "បន្លែស្លឹក និងផ្លែ",
+      "ស្រស់",
+      "ត្រូវលក់ឆាប់",
+      "ស្តុកជិតអស់",
+      "ធុង-A04",
+      "ប៉េងប៉ោះ",
+      "ថ្នាក់\nA",
+      "ត្រូវលក់\nឆាប់",
+      "១២០ គក",
+      "ដើម៖ ១៥០ គក",
+      "នៅសល់ ៨០% នៃទំហំកញ្ចប់",
+      "⏳ នៅសល់ ២ ថ្ងៃ"
+    ],
+    "imagesCount": 5,
+    "sampleImages": [
+      {
+        "name": "AB6AXuDzOgyY95epJQPk8ZGf6a9gpRiKG1_yWdolAKt4XTOgIH3Tzo0zam6h60ouC-dQT32b0RobRVE4eB-1XDnKlgKShTVy-cNA6oychxl__Ae5B2EZvqFbbZnK_3SR9ReZ4RcyMSG1IzFTY4iRJn9BA6kVYv-mm5k3cQCiOkAkKgbQsFBy7H9Z8QXriocbHZKTPCIg2O3XALGbk4VIwA4BhpVszv3EEsbgoRhmXQ-v9Oc7yUpzouZ2h-1Y",
+        "hash": "92cf1127caf9f73905dbf7dc53304ea6807ba0d1"
+      },
+      {
+        "name": "AB6AXuAwZcWjF-vzfJ09X8Sp9cL2HQ7XyFRRlSE4-0QJPkf5yyvrPaW1R3Gr_eAVogxojdGwGAEZK7pwIrS_1xleKgFbaJz-M4aOlZIQX4JHML5L5zwmAjzyRe6XYmL3XtvGEX2D6jWIlo_rah70-af7FgXL5FboB6gwTTwhZacBsZkWojvKI3hu7MhRi6KdxISAz25a9N89C6PzNyM7D8Wl5za_43rjSJgdvFAr9yg9L9X2aGNBoadWWqiv",
+        "hash": "178b11bd9aa2a8837f8340fce49cafc069439193"
+      },
+      {
+        "name": "AB6AXuD3ejKpPLAmhIcz-LMqdz4fNrPGQuThIew518iFBZC4wdgILx76-0Y5IgDoy_qv_bXpC4Z9liZH3g8JhcWf7dxpLJzKFU8ULESFbe6YyT6m8AYyYK0rmYqZoZqPlYHKZd8t0NXhf5Msao9yvyrNlDN67Heriy3SuZ7QHKbW6rRn5Ac2mwlOJ5U_EFu76QfubqQgXYltCDy6sVIYmxI105RPg80uN75sXW-LUGvsl0GPCYYYWKyP-jry",
+        "hash": "427ef0787591200d55451a4fe5d90435aab53828"
+      },
+      {
+        "name": "AB6AXuCCCaU9kXQJC7qOKFHUmIukDd8_0O8qr_Dr2nro5QVuJyOLaxw-1DMSDfqKCV_ZOplgTVK4SjznQiVzbqSR_jB78TqlgyR40t4vR61Gyb6AKh3O2jx7oS1MFxDO0Mb-3l-A2c9Qxy58Tl0X4cPuxINfSLiCemXETrh-hYH856FJp7Uw5IPQDk4d3DwC-qcpjMwW11mUucE2wNk6kiI0CHSNt7vbZw_xvKbDDICkLCmHs2_szL7kp1xG",
+        "hash": "a82b72feb33b2bd1545250716afb757349f61ccd"
+      },
+      {
+        "name": "AB6AXuCOFfD6wu0YMkIyekzaz0xklglBI8FhG6L0esNmiRzJz3mDuFCYO53HPCtBQVs8IJ3-EqabS5ntTGp_BKuTNI6tJE05jv7Wl63Rok4U9ewFLbD74nCdVtmcNaJyLBb-FkJgS88W2gQmjaFo_euJf8C55bBv4vxa9ME15ZofdX0fCCg1tm3mxd9UMSmNRl8S0U-lGAznml-wDnqRh2zpY9jZGHzBUZ4PiJZW5aBYDYcBoGi6kfGCMSNO",
+        "hash": "86fe51499a51f92837c5183c6b0c9bfd41ae250f"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "144:1022",
+    "name": "HarvestFlow - ដាក់លក់បន្ទាន់ ឬបញ្ចុះតម្លៃ (Price Markdown)",
+    "size": "390x1698",
+    "textCount": 66,
+    "sampleTexts": [
+      "វិធានការសង្គ្រោះកសិផល",
+      "សល់ ១\nថ្ងៃ",
+      "ដាក់លក់បញ្ចុះតម្លៃជាបន្ទាន់ ដើម្បី\nពន្លឿនការបញ្ចេញស្តុក ចៀសវាង\nការខូចខាតបង់ទុនទាំងស្រុង។",
+      "៧៥ គក",
+      "ថ្នាក់ A",
+      "BIN-A01",
+      "ការ៉ុតសរីរាង្គបាត់ដំបង",
+      "ការ៉ុតសរីរាង្គស្រស់ · លេខកូដ: #LOT-២០២៤-C៧៥",
+      "ម្ចាស់កសិដ្ឋាន: សុភា (#BTB-088)",
+      "ស្តុកដែលអាច\nលក់",
+      "៧៥.០ គក",
+      "តម្លៃដើម",
+      "៣,៥០០ ៛",
+      "ការស្តុកទុក",
+      "បន្ទប់\nត្រជាក់"
+    ],
+    "imagesCount": 1,
+    "sampleImages": [
+      {
+        "name": "AB6AXuAPZs7im5bwLqXK6lTOy7epIUcHG42ODWrV2Cnlxo82wQZPpr0V42TwauYtiIAACkEkggMeBZ0ULu4W7qQIIsIyGpywwvkOvu-rLlW6kXE972Jlzjfi2MRcjR-9RCKMVBokZWj9iaknut_1m1W3FuJTG8S2M3L0DArgi7Ik6VzvW9JZnTfW3N_HGlH8d24d7ZBfC2R7Ibp6xmCKGtXpDOfExe5qvt5wH1mp8PmS8hucbLMAFarvwQlW",
+        "hash": "47a8f41d4ae5e58568bcac9ac6cacb5ed1457974"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "144:1286",
+    "name": "HarvestFlow - ផ្សាយលក់បញ្ចុះតម្លៃជោគជ័យ (Flash Sale Success)",
+    "size": "390x1410",
+    "textCount": 39,
+    "sampleTexts": [
+      "ផ្សាយលក់បញ្ចុះតម្លៃជោគជ័យ!",
+      "ផលដំណាំត្រូវបានដាក់លក់លើប្រព័ន្ធ\nនិងផ្ញើដំណឹងជូនអ្នកទិញរួចរាល់",
+      "ថ្ងៃនេះ ម៉ោង 15:48 • មានសុពលភាព: 24 ម៉ោង\n(ដល់ស្អែក 18:00)",
+      "កំពុងផ្សាយលក់ផ្ទាល់",
+      "BIN-A01",
+      "ការ៉ុតសរីរាង្គបាត់ដំបង",
+      "ថ្នាក់ A",
+      "កសិករ: សុភា (#BTB-088)",
+      "២,៩៧៥\n៛",
+      "/\nគក",
+      "៣,៥០០\n៛",
+      "-១៥%\nលក់បន្ទាន់",
+      "បរិមាណលក់បញ្ចុះ\n(១០០%)",
+      "៧៥.០",
+      "គក"
+    ],
+    "imagesCount": 1,
+    "sampleImages": [
+      {
+        "name": "AB6AXuAWjKjOpl8fDy2nBGhyZ-2mV4MeNaKMX4CNcyYBkaiHTLPGYLOCtYttMoDg4acEG0txDa_1doyknnz-g99Z3VAPRoP8LSU-nkuXl5O6vohkTe43rAuNHf7NvxfIG0FtTAozxu-F2qcfsszaH60QgF0BAkB3Tf-T85mJCiwqke13inoTBx2q2-85DsKxRU0PNXZ2DBkJS6TYbxu_TyfhV8OlNe1yZspV-_Yhhbm9uFuH-kofCOVGcZlw",
+        "hash": "35397d3a921a7586708f47b186fca21c1f98e516"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "144:1487",
+    "name": "HarvestFlow - ការបញ្ជាទិញ (Order Management)",
+    "size": "390x1062",
+    "textCount": 51,
+    "sampleTexts": [
+      "ការបញ្ជាទិញ",
+      "គ្រប់គ្រង និងបញ្ជាក់ការបញ្ជាទិញពីអតិថិជន",
+      "ខ្មែរ",
+      "ថ្មី",
+      "១២",
+      "ការបញ្ជាទិញថ្មី",
+      "ដំណើរការ",
+      "៨",
+      "កំពុងរៀបចំ",
+      "ត្រៀមដឹក",
+      "៥",
+      "ត្រូវដឹកជញ្ជូន",
+      "ទាំងអស់ (25)",
+      "ថ្មី (12)",
+      "កំពុងរៀបចំ (8)"
+    ],
+    "imagesCount": 2,
+    "sampleImages": [
+      {
+        "name": "ប៉េងប៉ោះស្រស់",
+        "hash": "6250a983eaac82501b16666e74e5abaa89d7a61e"
+      },
+      {
+        "name": "ស្ពៃក្តោប",
+        "hash": "c3dab9323aec6f0f749de5147bfa0b1166c4f339"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "144:1692",
+    "name": "HarvestFlow - បដិសេធការបញ្ជាទិញ (Decline Order)",
+    "size": "390x1324",
+    "textCount": 31,
+    "sampleTexts": [
+      "បោះបង់ការបញ្ជាទិញ",
+      "បដិសេធការ\nបញ្ជាទិញ",
+      "ភោជនីយដ្ឋាន ហ្គ្រីនហ្គាដិន • ភ្នំពេញ",
+      "ប៉េងប៉ោះធម្មជាតិ",
+      "បរិមាណ: ១២០ គក",
+      "១០២.០០ $",
+      "ទូទាត់បម្រុង",
+      "ការបដិសេធនឹងជូនដំណឹងភ្លាមៗទៅកាន់\nអតិថិជន ហើយប្រព័ន្ធនឹងប្រគល់ប្រាក់\nត្រឡប់ទៅវិញដោយស្វ័យប្រវត្តិ។",
+      "ជ្រើសរើសមូលហេតុនៃការ\nបដិសេធ",
+      "*\nចាំបាច់",
+      "មិនមានស្តុកគ្រប់គ្រាន់",
+      "កសិផលក្នុងឃ្លាំងមិនគ្រប់តាមចំនួន 120 kg\nដែលបានកុម្ម៉ង់ជាក់ស្តែង",
+      "កសិផលខូចគុណភាព ឬមិនទាន់ដល់ពេល",
+      "ដំណាំជួបបញ្ហាអាកាសធាតុ មិនត្រូវតាម\nស្តង់ដារ Grade A ដែលបានសន្យា",
+      "មិនអាចដឹកជញ្ជូនតាមកាលកំណត់"
+    ],
+    "imagesCount": 1,
+    "sampleImages": [
+      {
+        "name": "AB6AXuBntNbYMnjKS18CQQwiNPff4A3_aaDzAi9voOlcKrSFRZrTPSGS6nP_L8m9Y5uenNvuO_Vne0pKgTshr_lA9EnfZcwWcQiJ8s5uevbr9WSKYgBZNLcFcD68peqPr_IsSFIplcknKeY3-CzHhQB3VbWRACrRuGnkdAwK5KxtpewcDKlXGc89cdsSzN-dUWdglu5a3_VCvp0ieU09R4nvq30Dxc_K9NOSNOS0QOubos6iRlTn53tYp4jH",
+        "hash": "375a78dab5c4038c97d9b091aa2580ee01fe1355"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "144:1844",
+    "name": "Html → Body → UNIFIED MOBILE FRAME (390px - 430px wide)",
+    "size": "390x884",
+    "textCount": 50,
+    "sampleTexts": [
+      "ការបញ្ជាទិញ",
+      "ចម្ការបៃតង - បាត់ដំបង",
+      "ថ្មី (12)",
+      "កំពុងរៀបចំ (4)",
+      "រួចរាល់ (7)",
+      "បានប្រគល់",
+      "#HF-1024",
+      "ថ្មី",
+      "Green Garden Restaurant",
+      "ប៉េងប៉ោះស្រស់ 120 kg • $102.00",
+      "#HF-1025",
+      "ថ្មី",
+      "Sunrise Organic Market",
+      "ស្ពៃក្តោបសរីរាង្គ 80 kg • $76.00",
+      "#HF-1023"
+    ],
+    "imagesCount": 1,
+    "sampleImages": [
+      {
+        "name": "ប៉េងប៉ោះ",
+        "hash": "0337808e571471ea893db245f887dd6dc1949d6b"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "156:2035",
+    "name": "Buyer Home - Fresh Deals Spotlight",
+    "size": "390x1390",
+    "textCount": 78,
+    "sampleTexts": [
+      "ACTIVE BANQUETING SPEC",
+      "Oct 3, 2024",
+      "French-Khmer Autumn Gala",
+      "Malis Phnom Penh • 80 Covers Service",
+      "6",
+      "items left",
+      "Menu Needs: 6 items unallocated",
+      "Prep Plan",
+      "Search vegetables, herbs, Battambang co-ops...",
+      "OVERNIGHT COLD-CHAIN",
+      "Departs 10:00 PM Battambang → 05:30 AM",
+      "NH5 Route",
+      "Limited Batches & Surplus",
+      "View all (14)",
+      "Fresh Deals"
+    ],
+    "imagesCount": 3,
+    "sampleImages": [
+      {
+        "name": "AB6AXuCM-ihKQkgVa9MhM_c9nQgC3i4O60GsVGN857SfUzuBNXRz7ARvI96XfBvMDZL9HInBlLUGqWxcSJwigMRaL7PT2sShoZkIuZs85QFNlvhQy2PzgGkFYV8a9-z9vnsRAL9OpZgYChPx0FM1mWuPr6iEl8BNbkpM_g0_kbxtAYPFLB-YvrwVIe5_3TelAL-DVgDLgwkGb9RcRZ93_qWdqYy4iYi9iwwkBXgoeKEozYT9hGx6ELkuAWH2qQ",
+        "hash": "22d3cf5ec9423534a5586fe83a66ff70fc01d3ed"
+      },
+      {
+        "name": "AB6AXuCU9FB8F5mVxcmpdp2IOs0EKCMGF15iI9ucHN0cqgslyjqaLIJtMXsIaT0WEQTEF_cMy0WOole17SZ02CEuTvvmsn1LJSqdLJOpdeQIK-g5-hnkPA0BmpjDquBcMOkfL0nDXdzxm-k47BtSkFvr6FEjpstT3aSAGO6YaFbuhOZEN5mC-mXn0w6RlfCfcRDf-_iI1KEwNHgLrduHSk9HclTunqqPiQU6Wid0oNSffmjJbhgXT_xSQzBuhw",
+        "hash": "ec02cfbb7dca1a5abe7b9fd0067a4ac97761a984"
+      },
+      {
+        "name": "AB6AXuBlm_idr0GkgRO-N-TzAZClLn4MEirv5B_Nk12I3nNXnlSRq1pUXD96ibD8m3q7dtFuRnG6-lXXwtzqWmQksT4w_bNhSgYrAVkPv46uIaeafJpR0zBQsEA8HOPt5wpwI5FYYiuXJlGbkYs1ZjBh2JcvzuA_DvU9mmdKZiHDo0JlSRXwWFxSaYPIg-zJkkhUCIRsStMDIExVTVw8O8Qo_MrDEUCTO5sNyp8kejJ9Djkl4Sn-Qs9EGvqa7Q",
+        "hash": "6c0abc342df9644f0ce3691e5b4844437ef97e0c"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "156:2380",
+    "name": "Product Detail - Freshness Transparency",
+    "size": "390x1747",
+    "textCount": 49,
+    "sampleTexts": [
+      "Crate Quantity:",
+      "-",
+      "4",
+      "KG",
+      "+",
+      "Subtotal (USD)",
+      "$3.84",
+      "Assign to Menu",
+      "Add to Order · $3.84",
+      "20% OFF",
+      "Co-op Direct",
+      "Refrigerated Transit (4°C)",
+      "Batch #BB-8924",
+      "Bok Choy (Baby\nWhite Stem)",
+      "Battambang Agriculture Cooperative · Moung Ruessei"
+    ],
+    "imagesCount": 1,
+    "sampleImages": [
+      {
+        "name": "AB6AXuBeLiv5J27m5M5hyf8oWAxcN8UUILrIiW8xR64w22vl9WpJyw2-hltCZQKMpIuWMxlXjLXBC5uCe8oX3FZ_ol3SaSNJA-deRxC72WswpoQbSBKiWp1zIplxprsYwnBD0NnF8oZmsKDkFZJmxsvrgjEMwHM6o_6vV4sKxqOebvgSbdVvk73Da4kVabf-hNhZlYO1jQUOC6uB7UxsosR4O5Xn8tIrG5gFtsoaloqvAvPBy0SUJyti9XvVwg",
+        "hash": "1a6c686bb2db3f9329b4f6e2a261bef6de6a8e29"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "156:2606",
+    "name": "Fresh Deals & Discount Produce Hub",
+    "size": "390x2160",
+    "textCount": 80,
+    "sampleTexts": [
+      "Fresh Deals",
+      "Explore discounted produce and check\nfreshness before ordering.",
+      "FLASH BATCHES",
+      "Transparent Freshness Guarantee",
+      "All produce is inspected by Battambang\nAgricultural Cooperatives. Use-by dates are\ncooperative estimates to prevent commercial\nkitchen waste.",
+      "All Deals",
+      "14",
+      "Use Soon",
+      "Surplus Harvest",
+      "Harvested Today/Yesterday",
+      "Leafy Greens",
+      "Grade: A & B",
+      "> 20% Off",
+      "Showing 4 of 14 rescue batches",
+      "Shortest Shelf Life"
+    ],
+    "imagesCount": 4,
+    "sampleImages": [
+      {
+        "name": "AB6AXuDxtaHpK6-2_vInncQAJk5V-0ThL9_CVWH5xuLucVNTlMwz_OqsThhJkYsFqOjP0Tqg7TC7dVN32tfa2JqAUZvTvv6fUbjLlgtHFDWSzm0bq0SRmMF-ypmFKOhZH9zUae-HyU7Vdu_O64FqR1xqf7xAup-jRuZdsF5VC4aOpiMyYVSzy2XNaAyqAsiFVY_V8-GVnmGZjpWkQ0BJvnIKe_drM6ZFXrgZrEuk5fSPuqo1KvzawKOkFvM5xA",
+        "hash": "28fe71bc4d4edeea2814c1dcfdc8ab21afbd3870"
+      },
+      {
+        "name": "AB6AXuBpKuv48rkH3l02H4I3fwZ71ATmrmgOADawWQa7wm96wgarnwZ_0ElnR012_Xin9dXBVbWyYkTgew0o8rgHxqBayjIJJoN5-baDE3gC-8sZ6pjtsvPfg-qk8OZMZMoke81VstsCoRagC51i3qtPFWa7tBbW3N5qjCRLTx6uYcGH_jqiLCwf2_TL9VTB3XUJAkT4HnIA4SP4__VmLKeuZwj5Iof0GtK-ZZA5ALn5GhShoNO4R7-U7tRYAg",
+        "hash": "efda9d7a5732230d0d4d0d1d5538025d58a0526f"
+      },
+      {
+        "name": "AB6AXuBx22HBNhtRvB55w1QxW8dSOzFX6EzcqA7_gvXWosmTcGSjps3MBXIC8O65WA8cTu_7zDIZ0BbaOL1VEqsFl7wEtkyPHujdj3oTJik0s6CsedxkXWPUOqckVc3tcGY6qd3ebXwCBMAKZH0QefK6xNN7ysj5_N4Gd1x7UUs-N_pWq99zdG3keRpmMZJ6PhZYOFJnfBLE4vt8JMJA9Y084xF0ud_RYCB576rcyVw3-eUdHnRq5Fkzd9HvaA",
+        "hash": "e1e6147732a834c616e498f3213e92462d0bd7da"
+      },
+      {
+        "name": "AB6AXuCyPQsyRmI4s9Ufw2efI3W_rv_Gh3-Urp5AewU8KJqIrsMq1bukuFFeEDH1DDKsno7CJueU_o3lxS6omIZ5InXKLFDiBENzsaNhDl7C-YiGDQjtgN3Kc6xHPRDIbEaN-icybj28YyBmtXhFUOEsjloK4QPzAqNHeayvSwqmIjz6e3Vo7qKt-Tc20wNk1kwxKV4xpwQeZS-SqzskqlW8M2f0EYcLPCr94SHmcoBOmXiJMsoDWNWvmLqHEA",
+        "hash": "88081cdd4be39d54f73b1f83c4e0478bc5fbe360"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "156:2933",
+    "name": "Procurement Cart - Discount & Event Breakdown",
+    "size": "390x1395",
+    "textCount": 61,
+    "sampleTexts": [
+      "REFRIGERATED\nOVERNIGHT RUN",
+      "Batch BTB-\n0902",
+      "Malis Fine Dining",
+      "Norodom Blvd, Phnom Penh",
+      "Oct 1 · 06:00 AM",
+      "Departs Battambang 10:00\nPM",
+      "Kitchen Drop 06:00\nAM",
+      "Procurement Cart",
+      "3 Items",
+      "16.0 KG Total",
+      "-20%",
+      "Use Soon (By Sept 30)",
+      "Prep: French-Khmer Autumn Gala",
+      "Bok Choy (Baby White Stem)",
+      "Battambang Agriculture Cooperative"
+    ],
+    "imagesCount": 3,
+    "sampleImages": [
+      {
+        "name": "AB6AXuADGbXzT6uzfSqt4SiRdyWrLpPWlprnKbNDiRb_lWDuDHcmyLHEIv9tFXyKahnjSKvAT5QeP-TWiv0DEidMmL3f0UgCrg0JwD2G_wlDKf3aITg6E87XAFhCWBEaSqcrN87tEISA0wYI9JXc7vhuZi_JuGverGQheuvuTlzKZWfO_G1VZ5IdTVs-6dc_OGcGTVVo39t5azgwYXD_my0xnLmZysuV0PDqVUAYqdJisN6FOc25gRRYWpUTiw",
+        "hash": "b37d32fc2d76def9f7756b580769e426186f5919"
+      },
+      {
+        "name": "AB6AXuCPWsUgxaYHQVO5KXhQzvo5iguMa1WTRfgLbcQGVqNYgDLIUCA5uQog0AM1L8QMy07IHewEcOkOyUZAm5cEXb_Y3E1llmnbYJY6T-m6tbKIC8PItM9lBnuAN-R-93zZ3qmAVTh6h-IOp57W-hmHKyfk3B3svfu3btlSiRpVP7pUNbbv5h4XsBMzNM7y68xgbpECDL92Y6Rl7_JMbZCNH2AbciIwGkmjVPMtkRwoBhCDc7yQwQPGD2SkpQ",
+        "hash": "9ec9155a1f238d91a172758c0fc5f2cef3d9007b"
+      },
+      {
+        "name": "AB6AXuCLG-cKbHbE6U-Nz38JrjRRC0NQ6Be2JqjM6ezES8I9SGXbcw-x5Dg93VGMCbNs4ujN4lyz1GcdUP93-Ix2wEhflWtp2W7yYt6VwMk8VQ0vPKa2guGO6wL7HKezYJ4nPjkesGabjVU8vqjjk9nosP-WrTIMtYU-_x17uYoFHO_ZeKyPp9TpTsd5PDfy5GM4mZQY1p0ZQz1yd5fS1MZ9n5Q0s3niv44LbgftUP4fI0vunzFMxvloJX-P4A",
+        "hash": "d446f298ecdeccef1c307a2f58c18e7cb54bbbff"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "170:972",
+    "name": "Opening",
+    "size": "402x874",
+    "textCount": 1,
+    "sampleTexts": [
+      "HarvestFlow"
+    ],
+    "imagesCount": 0,
+    "sampleImages": []
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "174:1336",
+    "name": "shop-based-cart",
+    "size": "390x941",
+    "textCount": 24,
+    "sampleTexts": [
+      "Your Cart កន្ត្រក",
+      "Select All ជ្រើសរើសទាំងអស់",
+      "សហគមន៍កសិកម្ម តាសីសាមគ្គី",
+      "ប៉េងប៉ោះ (Tomato)",
+      "5kg × $2.50 = $12.50",
+      "Grade A please",
+      "View Cart",
+      "សហករណ៍ស្រស់បាត់ដំបង",
+      "ប៉េងប៉ោះ (Tomato)",
+      "2kg × $2.30 = $4.60",
+      "ការ៉ុត (Carrot)",
+      "4kg × $1.20 = $4.80",
+      "ត្រសក់ (Cucumber)",
+      "2kg × $1.20 = $2.40",
+      "View Cart"
+    ],
+    "imagesCount": 4,
+    "sampleImages": [
+      {
+        "name": "Rectangle",
+        "hash": "e89c46d6a46e75071cb637706b5cc129d664b284"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "82626bbd15eb48d10ed741051bda9eabe8e0ffc0"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "3b504d13ee092682aff71bc08712be3718ad27f7"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "60a026c56fcd3a4acd4ce439f2fca5c3d0220a27"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "174:1449",
+    "name": "shop-specific-checkout - restyled",
+    "size": "390x844",
+    "textCount": 25,
+    "sampleTexts": [
+      "Checkout ទូទាត់",
+      "មុខទំនិញ (Ordered Items)",
+      "ប៉េងប៉ោះ (Tomato)",
+      "5kg • Note: Grade A please",
+      "$12.50",
+      "Drop Down Buttons",
+      "ព័ត៌មានដឹកជញ្ជូន (Delivery)",
+      "Tasey Samaki AC",
+      "អ្នកទទួល: Sokha Meas • 012 345 678",
+      "១២៣ មហាវិថីព្រះសីហនុ, រាជធានីភ្នំពេញ",
+      "កាលវិភាគបញ្ជូន (Schedule)",
+      "ថ្ងៃស្អែក (Tomorrow)",
+      "២៩ កញ្ញា ២០២៦",
+      "ពេលវេលា (Window)",
+      "6:00 AM - 8:00 AM"
+    ],
+    "imagesCount": 0,
+    "sampleImages": []
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "174:1507",
+    "name": "shop-based-cart-unselected",
+    "size": "390x941",
+    "textCount": 24,
+    "sampleTexts": [
+      "Your Cart កន្ត្រក",
+      "Select All ជ្រើសរើសទាំងអស់",
+      "សហគមន៍កសិកម្ម តាសីសាមគ្គី",
+      "ប៉េងប៉ោះ (Tomato)",
+      "5kg × $2.50 = $12.50",
+      "Grade A please",
+      "View Cart",
+      "សហករណ៍ស្រស់បាត់ដំបង",
+      "ប៉េងប៉ោះ (Tomato)",
+      "2kg × $2.30 = $4.60",
+      "ការ៉ុត (Carrot)",
+      "4kg × $1.20 = $4.80",
+      "ត្រសក់ (Cucumber)",
+      "2kg × $1.20 = $2.40",
+      "View Cart"
+    ],
+    "imagesCount": 4,
+    "sampleImages": [
+      {
+        "name": "Rectangle",
+        "hash": "e89c46d6a46e75071cb637706b5cc129d664b284"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "82626bbd15eb48d10ed741051bda9eabe8e0ffc0"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "3b504d13ee092682aff71bc08712be3718ad27f7"
+      },
+      {
+        "name": "Rectangle",
+        "hash": "60a026c56fcd3a4acd4ce439f2fca5c3d0220a27"
+      }
+    ]
+  },
+  {
+    "canvas": "Buyer ",
+    "id": "174:1645",
+    "name": "buyer-order-submitted",
+    "size": "390x613",
+    "textCount": 11,
+    "sampleTexts": [
+      "បានបញ្ជូនសំណើទិញជោគជ័យ!",
+      "Your order request has been submitted successfully",
+      "លេខបញ្ជាទិញ (Order ID)",
+      "#ORD-047",
+      "កាលបរិច្ឆេទ",
+      "២៨ កញ្ញា ២០២៦",
+      "សរុបការទូទាត់",
+      "$45.00",
+      "Icon - View Order",
+      "សហករណ៍នឹងពិនិត្យមើលបរិមាណស្តុក ជាក់ស្តែងរួចទាក់ទងបញ្ជាក់ជូនលោកអ្នកក្នុងពេលឆាប់ៗ។",
+      "Done"
+    ],
+    "imagesCount": 0,
+    "sampleImages": []
+  },
+  {
+    "canvas": "Page 3",
+    "id": "100:2543",
+    "name": "Html → Body",
+    "size": "390x1567",
+    "textCount": 69,
+    "sampleTexts": [
+      "ស្វែងរកបន្លែ ឬកសិករ...",
+      "ស្វែងរកតាម ឈ្មោះបន្លែ, ឈ្មោះកសិករ, ឬឡូត៍ឃ្លាំង (ឧ. សុខា, BIN-A04)",
+      "ទាំងអស់ (៥)",
+      "បន្លែស្លឹក និងផ្លែ",
+      "ស្រស់",
+      "ត្រូវលក់ឆាប់",
+      "ស្តុកជិតអស់",
+      "ធុង-A04",
+      "ប៉េងប៉ោះ",
+      "ថ្នាក់\nA",
+      "ត្រូវលក់\nឆាប់",
+      "១២០ គក",
+      "ដើម៖ ១៥០ គក",
+      "នៅសល់ ៨០% នៃទំហំកញ្ចប់",
+      "⏳ នៅសល់ ២ ថ្ងៃ"
+    ],
+    "imagesCount": 5,
+    "sampleImages": [
+      {
+        "name": "AB6AXuDzOgyY95epJQPk8ZGf6a9gpRiKG1_yWdolAKt4XTOgIH3Tzo0zam6h60ouC-dQT32b0RobRVE4eB-1XDnKlgKShTVy-cNA6oychxl__Ae5B2EZvqFbbZnK_3SR9ReZ4RcyMSG1IzFTY4iRJn9BA6kVYv-mm5k3cQCiOkAkKgbQsFBy7H9Z8QXriocbHZKTPCIg2O3XALGbk4VIwA4BhpVszv3EEsbgoRhmXQ-v9Oc7yUpzouZ2h-1Y",
+        "hash": "92cf1127caf9f73905dbf7dc53304ea6807ba0d1"
+      },
+      {
+        "name": "AB6AXuAwZcWjF-vzfJ09X8Sp9cL2HQ7XyFRRlSE4-0QJPkf5yyvrPaW1R3Gr_eAVogxojdGwGAEZK7pwIrS_1xleKgFbaJz-M4aOlZIQX4JHML5L5zwmAjzyRe6XYmL3XtvGEX2D6jWIlo_rah70-af7FgXL5FboB6gwTTwhZacBsZkWojvKI3hu7MhRi6KdxISAz25a9N89C6PzNyM7D8Wl5za_43rjSJgdvFAr9yg9L9X2aGNBoadWWqiv",
+        "hash": "178b11bd9aa2a8837f8340fce49cafc069439193"
+      },
+      {
+        "name": "AB6AXuD3ejKpPLAmhIcz-LMqdz4fNrPGQuThIew518iFBZC4wdgILx76-0Y5IgDoy_qv_bXpC4Z9liZH3g8JhcWf7dxpLJzKFU8ULESFbe6YyT6m8AYyYK0rmYqZoZqPlYHKZd8t0NXhf5Msao9yvyrNlDN67Heriy3SuZ7QHKbW6rRn5Ac2mwlOJ5U_EFu76QfubqQgXYltCDy6sVIYmxI105RPg80uN75sXW-LUGvsl0GPCYYYWKyP-jry",
+        "hash": "427ef0787591200d55451a4fe5d90435aab53828"
+      },
+      {
+        "name": "AB6AXuCCCaU9kXQJC7qOKFHUmIukDd8_0O8qr_Dr2nro5QVuJyOLaxw-1DMSDfqKCV_ZOplgTVK4SjznQiVzbqSR_jB78TqlgyR40t4vR61Gyb6AKh3O2jx7oS1MFxDO0Mb-3l-A2c9Qxy58Tl0X4cPuxINfSLiCemXETrh-hYH856FJp7Uw5IPQDk4d3DwC-qcpjMwW11mUucE2wNk6kiI0CHSNt7vbZw_xvKbDDICkLCmHs2_szL7kp1xG",
+        "hash": "a82b72feb33b2bd1545250716afb757349f61ccd"
+      },
+      {
+        "name": "AB6AXuCOFfD6wu0YMkIyekzaz0xklglBI8FhG6L0esNmiRzJz3mDuFCYO53HPCtBQVs8IJ3-EqabS5ntTGp_BKuTNI6tJE05jv7Wl63Rok4U9ewFLbD74nCdVtmcNaJyLBb-FkJgS88W2gQmjaFo_euJf8C55bBv4vxa9ME15ZofdX0fCCg1tm3mxd9UMSmNRl8S0U-lGAznml-wDnqRh2zpY9jZGHzBUZ4PiJZW5aBYDYcBoGi6kfGCMSNO",
+        "hash": "86fe51499a51f92837c5183c6b0c9bfd41ae250f"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 3",
+    "id": "102:2",
+    "name": "HarvestFlow - ដាក់លក់បន្ទាន់ ឬបញ្ចុះតម្លៃ (Price Markdown)",
+    "size": "390x1698",
+    "textCount": 66,
+    "sampleTexts": [
+      "បញ្ជាក់ និងផ្សាយដាក់លក់បញ្ចុះតម្លៃ",
+      "បោះបង់",
+      "រក្សាទុកជាព្រាង",
+      "វិធានការសង្គ្រោះកសិផល",
+      "សល់ ១\nថ្ងៃ",
+      "ដាក់លក់បញ្ចុះតម្លៃជាបន្ទាន់ ដើម្បី\nពន្លឿនការបញ្ចេញស្តុក ចៀសវាង\nការខូចខាតបង់ទុនទាំងស្រុង។",
+      "៧៥ គក",
+      "ថ្នាក់ A",
+      "BIN-A01",
+      "ការ៉ុតសរីរាង្គបាត់ដំបង",
+      "ការ៉ុតសរីរាង្គស្រស់ · លេខកូដ: #LOT-២០២៤-C៧៥",
+      "ម្ចាស់កសិដ្ឋាន: សុភា (#BTB-088)",
+      "ស្តុកដែលអាច\nលក់",
+      "៧៥.០ គក",
+      "តម្លៃដើម"
+    ],
+    "imagesCount": 1,
+    "sampleImages": [
+      {
+        "name": "AB6AXuAPZs7im5bwLqXK6lTOy7epIUcHG42ODWrV2Cnlxo82wQZPpr0V42TwauYtiIAACkEkggMeBZ0ULu4W7qQIIsIyGpywwvkOvu-rLlW6kXE972Jlzjfi2MRcjR-9RCKMVBokZWj9iaknut_1m1W3FuJTG8S2M3L0DArgi7Ik6VzvW9JZnTfW3N_HGlH8d24d7ZBfC2R7Ibp6xmCKGtXpDOfExe5qvt5wH1mp8PmS8hucbLMAFarvwQlW",
+        "hash": "47a8f41d4ae5e58568bcac9ac6cacb5ed1457974"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 3",
+    "id": "102:266",
+    "name": "HarvestFlow - ផ្សាយលក់បញ្ចុះតម្លៃជោគជ័យ (Flash Sale Success)",
+    "size": "390x1410",
+    "textCount": 39,
+    "sampleTexts": [
+      "ផ្សាយលក់បញ្ចុះតម្លៃជោគជ័យ!",
+      "ផលដំណាំត្រូវបានដាក់លក់លើប្រព័ន្ធ\nនិងផ្ញើដំណឹងជូនអ្នកទិញរួចរាល់",
+      "ថ្ងៃនេះ ម៉ោង 15:48 • មានសុពលភាព: 24 ម៉ោង\n(ដល់ស្អែក 18:00)",
+      "កំពុងផ្សាយលក់ផ្ទាល់",
+      "BIN-A01",
+      "ការ៉ុតសរីរាង្គបាត់ដំបង",
+      "ថ្នាក់ A",
+      "កសិករ: សុភា (#BTB-088)",
+      "២,៩៧៥\n៛",
+      "/\nគក",
+      "៣,៥០០\n៛",
+      "-១៥%\nលក់បន្ទាន់",
+      "បរិមាណលក់បញ្ចុះ\n(១០០%)",
+      "៧៥.០",
+      "គក"
+    ],
+    "imagesCount": 1,
+    "sampleImages": [
+      {
+        "name": "AB6AXuAWjKjOpl8fDy2nBGhyZ-2mV4MeNaKMX4CNcyYBkaiHTLPGYLOCtYttMoDg4acEG0txDa_1doyknnz-g99Z3VAPRoP8LSU-nkuXl5O6vohkTe43rAuNHf7NvxfIG0FtTAozxu-F2qcfsszaH60QgF0BAkB3Tf-T85mJCiwqke13inoTBx2q2-85DsKxRU0PNXZ2DBkJS6TYbxu_TyfhV8OlNe1yZspV-_Yhhbm9uFuH-kofCOVGcZlw",
+        "hash": "35397d3a921a7586708f47b186fca21c1f98e516"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 3",
+    "id": "112:3696",
+    "name": "HarvestFlow - បដិសេធការបញ្ជាទិញ (Decline Order)",
+    "size": "502x1324",
+    "textCount": 31,
+    "sampleTexts": [
+      "បោះបង់ការបញ្ជាទិញ",
+      "បដិសេធការ\nបញ្ជាទិញ",
+      "ភោជនីយដ្ឋាន ហ្គ្រីនហ្គាដិន • ភ្នំពេញ",
+      "ប៉េងប៉ោះធម្មជាតិ",
+      "បរិមាណ: ១២០ គក",
+      "១០២.០០ $",
+      "ទូទាត់បម្រុង",
+      "ការបដិសេធនឹងជូនដំណឹងភ្លាមៗទៅកាន់\nអតិថិជន ហើយប្រព័ន្ធនឹងប្រគល់ប្រាក់\nត្រឡប់ទៅវិញដោយស្វ័យប្រវត្តិ។",
+      "ជ្រើសរើសមូលហេតុនៃការ\nបដិសេធ",
+      "*\nចាំបាច់",
+      "មិនមានស្តុកគ្រប់គ្រាន់",
+      "កសិផលក្នុងឃ្លាំងមិនគ្រប់តាមចំនួន 120 kg\nដែលបានកុម្ម៉ង់ជាក់ស្តែង",
+      "កសិផលខូចគុណភាព ឬមិនទាន់ដល់ពេល",
+      "ដំណាំជួបបញ្ហាអាកាសធាតុ មិនត្រូវតាម\nស្តង់ដារ Grade A ដែលបានសន្យា",
+      "មិនអាចដឹកជញ្ជូនតាមកាលកំណត់"
+    ],
+    "imagesCount": 1,
+    "sampleImages": [
+      {
+        "name": "AB6AXuBntNbYMnjKS18CQQwiNPff4A3_aaDzAi9voOlcKrSFRZrTPSGS6nP_L8m9Y5uenNvuO_Vne0pKgTshr_lA9EnfZcwWcQiJ8s5uevbr9WSKYgBZNLcFcD68peqPr_IsSFIplcknKeY3-CzHhQB3VbWRACrRuGnkdAwK5KxtpewcDKlXGc89cdsSzN-dUWdglu5a3_VCvp0ieU09R4nvq30Dxc_K9NOSNOS0QOubos6iRlTn53tYp4jH",
+        "hash": "375a78dab5c4038c97d9b091aa2580ee01fe1355"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 3",
+    "id": "173:2797",
+    "name": "Frame 4",
+    "size": "5882x5198",
+    "textCount": 593,
+    "sampleTexts": [
+      "ថ្មី",
+      "១២",
+      "ការបញ្ជាទិញថ្មី",
+      "ដំណើរការ",
+      "៨",
+      "កំពុងរៀបចំ",
+      "ត្រៀមដឹក",
+      "៥",
+      "ត្រូវដឹកជញ្ជូន",
+      "ទាំងអស់",
+      "25",
+      "ថ្មី",
+      "12",
+      "កំពុងរៀបចំ",
+      "8"
+    ],
+    "imagesCount": 34,
+    "sampleImages": [
+      {
+        "name": "AB6AXuBpS-t8nwUJGVFPoRrj7_zbCH8RMOzzKaw6KsGjeTs5hzD1nEyXc01Ejn0aXd70sgE4jIshTiA3VZMp8s93V3hoSILGW7XId0P3ziBUYhNjqARRKtD0GDX6JwdWL-wF_PXA_8UsSIaKubKHXROrgxxdBDrCbygoJFmxhr1RZqtV_HT7VxPXB14O6yQLO2yDJOfc75ZEHxIxUDQ7a8j4dLtDB6JB9YH7IYj3dfeRD1wvfZZFBIXNMLq_",
+        "hash": "99b545a045de1ce2eeb240af3688abf80e43ff60"
+      },
+      {
+        "name": "AB6AXuAVlvy_kAJ_1fbfdSQUVH67v_U-CLPTv5q2nsR53SRSwtvdacfMRSfeqaVoFv2-dTMH0cF78mNfSgBZHpSiyUJuhfrnQu4KeQhdNhUYYsQj7Rm8_J3qKrgbr84rG6BEntjEAAU_mkDaZZqqREUR_zRiBnkXpEcr-YEIQ6SGkYi051cPyVobc0msPplhQ0PYiNdESIfIF3317PxSrvIt0LH_5PJdIRWtYb5W5Db5uClYEWXQQ7TuJmJY",
+        "hash": "54a8de15b7b515efb285709abf9f89d4cb7bd285"
+      },
+      {
+        "name": "AB6AXuCDQ_KAO2DQPq7oaD3viaOxtu0XqhmsspiZNsUjVWH11IxcYfgTuHO81Ex1kHABOIXSjSYMUJAuIASvqhwMsXwqsHZ7Cddss4EOrR3PZ_aG-uDeQ-kcgUH2a5a9NKrCiw0TurV2FtHSM8Uq_naB9bQMKNrIpgN0lxAl41MW10BIteFrGDQ2OPl323X0lak0WdCEh_idmA0f3dXLQtyr8sc6fQIdPPAmSjeAkI-BJ5MqNl6H5uJ_6Vqn",
+        "hash": "e4b7ee3062f3323331a43271e122d240b92eb5a1"
+      },
+      {
+        "name": "AB6AXuBfv8pl2Lnm3u8w_v3X8euIYtj2dW9iRjp2wmOJy3pWn5iQSnX63yi3QUNQ1YQLnjnIjfiQX8w1xun_c4FNmVwGtzsx32Oq8Fc88npn5IoBk5nYxC2B-9jq_miVLmgJvbrvEnx0ZmkiWHnkgXWnIKAjvxyVFB1jN5WRmN62pccxdjGNtmWwmZE5eveEiyxlBRm_KoZIMllJOqJmlRp65BsIj6GyjSHCmP5WGIUfdVz_BO4tu4qB_v_n",
+        "hash": "3f40086f3406019b29e61600f2f89d2b2db2976d"
+      },
+      {
+        "name": "AB6AXuC2NQGDL3uqVezB7EASwW4ZjmG1XXJOZfVgDMdtEvh7QaW4Mr-bm2bQP7d5ZgkUy4OXVSHBT0wvA2bCUIFjuHunmApvKlEEK_wHLUQLsbqMnI0FbSiDJUZse6vFE-wW8v5pCK7LeN4nCEWFUbgfx4Szf6irz5IrDlIuj1jzTAN4HDuQAMeF_Q7_1ae_OMAopr5Sw0q_Gnjr0gWch9F_-iBkF3MUl3p6ZTLRZ6CoDQgE1a5YDPN8sKrC",
+        "hash": "ed53d3f9544cb3624b9f5be166e0b9cc281ec0f3"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 3",
+    "id": "176:3198",
+    "name": "Html → Body → UNIFIED MOBILE FRAME (390px - 430px wide)",
+    "size": "390x884",
+    "textCount": 50,
+    "sampleTexts": [
+      "ការបញ្ជាទិញ",
+      "ចម្ការបៃតង - បាត់ដំបង",
+      "ថ្មី (12)",
+      "កំពុងរៀបចំ (4)",
+      "រួចរាល់ (7)",
+      "បានប្រគល់",
+      "#HF-1024",
+      "ថ្មី",
+      "Green Garden Restaurant",
+      "ប៉េងប៉ោះស្រស់ 120 kg • $102.00",
+      "#HF-1025",
+      "ថ្មី",
+      "Sunrise Organic Market",
+      "ស្ពៃក្តោបសរីរាង្គ 80 kg • $76.00",
+      "#HF-1023"
+    ],
+    "imagesCount": 1,
+    "sampleImages": [
+      {
+        "name": "ប៉េងប៉ោះ",
+        "hash": "0337808e571471ea893db245f887dd6dc1949d6b"
+      }
+    ]
+  },
+  {
+    "canvas": "Page 3",
+    "id": "180:6",
+    "name": "Html → Body",
+    "size": "390x1364",
+    "textCount": 51,
+    "sampleTexts": [
+      "#HF-\n១០២៤",
+      "រួចរាល់",
+      "កូដបញ្ជាទិញថ្ងៃ\nនេះ",
+      "ការបញ្ជាទិញរួចរាល់",
+      "ភោជនីយដ្ឋាន ហ្គ្រីនហ្គាដិន • ភ្នំពេញ",
+      "ដំណាក់កាលដំណើរការ",
+      "ជំហានទី ៤ នៃ ៦ (៦៧%)",
+      "បញ្ជាទិញ",
+      "ទទួល",
+      "រៀបចំ",
+      "ត្រៀមរួច",
+      "៥",
+      "ដឹកជញ្ជូន",
+      "៦",
+      "បញ្ចប់"
+    ],
+    "imagesCount": 2,
+    "sampleImages": [
+      {
+        "name": "AB6AXuCb_PfXBqrNCq4qOS6mhFtXutrTEK5O1ER2lotNKDHlZdwMdqPb0n5E1_MJFunY4LaUI4UXBxZwCH3BYrxKrGtS0Mmr2qlt7AOqydH0ba_lxQ6M4aGNEkqL_RTcguaKb3FRYUoCk6RP7WcdFahjs6InJugLx31rL_SABq4PVInif8w9litQnFJwTXM7K-79qEV8hU6rQOJcUh-ZuP53uQe0_k7KwAM-RmzeqWbfNnIt_LFHkFpDj9tn",
+        "hash": "4c07fce7f44e796213d92ed5fb00c837fdd04055"
+      },
+      {
+        "name": "AB6AXuAK3iS0x-MMYBcgNGDza_oz-q4sUbxg2R8oB0Ofn69XvXfU-Yj-u2LzHOt6LBCO4PgRc8GNuhIHzZZEIxmL04cVULP-ja_PahqRFg_pEtRO1riW5QDZ7x9WVjfHByzo5ROWCDKXcK2NcPRKG6wdmsMjmG6SPkEDw14zJidxqfS8jFmoQ3Q1emR4VA3C5S9RvNomsVbijzdAjee7nqtbi8OlGl098xd2Q3CtpKGHVgckTknMJ736jUuG",
+        "hash": "00e8d81a157ed4b4e74496a760f377067888e072"
+      }
+    ]
+  }
+]

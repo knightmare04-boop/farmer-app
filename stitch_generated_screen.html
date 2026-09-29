@@ -1,0 +1,1018 @@
+<!DOCTYPE html>
+
+<html class="light" lang="km"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>HarvestFlow Cambodia - Agricultural Cooperative Platform</title>
+<!-- Google Fonts: Plus Jakarta Sans & Noto Sans Khmer -->
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Khmer:wght@400;500;600;700&amp;family=Plus+Jakarta+Sans:wght@400;500;600;700;800&amp;family=JetBrains+Mono:wght@500;700&amp;display=swap" rel="stylesheet"/>
+<!-- Material Symbols Outlined -->
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<!-- Tailwind CSS with Forms and Container Queries -->
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+    tailwind.config = {
+      darkMode: "class",
+      theme: {
+        extend: {
+          "colors": {
+            "background": "#f7fbf0",
+            "spoilage-red": "#BA1A1A",
+            "on-primary": "#ffffff",
+            "clean-canvas": "#F8FAF8",
+            "surface-container-highest": "#e0e4da",
+            "soft-sage": "#D1F2D1",
+            "inverse-primary": "#88d982",
+            "surface-container-high": "#e5eadf",
+            "card-background": "#F2F4F2",
+            "bakong-blue": "#005A9C",
+            "outline": "#707a6c",
+            "surface": "#f7fbf0",
+            "secondary-fixed": "#9ff79f",
+            "mint-surface": "#E8F5E9",
+            "midnight": "#121D26",
+            "on-primary-fixed-variant": "#005312",
+            "on-error-container": "#93000a",
+            "surface-container": "#ebefe5",
+            "border-gray": "#ECEEEC",
+            "outline-variant": "#bfcaba",
+            "vibrant-leaf": "#19722B",
+            "on-background": "#181d17",
+            "error-container": "#ffdad6",
+            "on-error": "#ffffff",
+            "surface-variant": "#e0e4da",
+            "on-primary-container": "#8bdd86",
+            "tertiary-fixed": "#ffd9e2",
+            "tertiary-container": "#923258",
+            "primary-fixed": "#a3f69c",
+            "tertiary": "#741a41",
+            "surface-dim": "#d7dbd2",
+            "surface-bright": "#f7fbf0",
+            "warning-amber": "#D97706",
+            "on-secondary-fixed-variant": "#005318",
+            "error": "#ba1a1a",
+            "primary-container": "#0d631b",
+            "on-secondary": "#ffffff",
+            "on-secondary-container": "#19722a",
+            "secondary-container": "#9cf49c",
+            "surface-container-lowest": "#ffffff",
+            "deep-olive-slate": "#40493D",
+            "on-tertiary": "#ffffff",
+            "on-primary-fixed": "#002203",
+            "on-surface": "#181d17",
+            "inverse-on-surface": "#eef2e8",
+            "on-surface-variant": "#40493d",
+            "primary": "#00490e",
+            "on-tertiary-fixed": "#3e001d",
+            "inverse-surface": "#2d322b",
+            "primary-fixed-dim": "#88d982",
+            "cooperative-dark-green": "#005F22",
+            "on-tertiary-fixed-variant": "#7f2349",
+            "surface-tint": "#1b6d24",
+            "on-secondary-fixed": "#002105",
+            "on-tertiary-container": "#ffb6cc",
+            "surface-container-low": "#f1f5eb",
+            "secondary": "#126d26",
+            "tertiary-fixed-dim": "#ffb1c8",
+            "charcoal": "#191C1B",
+            "secondary-fixed-dim": "#83da85"
+          },
+          "borderRadius": {
+            "DEFAULT": "0.25rem",
+            "lg": "0.5rem",
+            "xl": "0.75rem",
+            "full": "9999px"
+          },
+          "spacing": {
+            "space-xl": "2.5rem",
+            "space-md": "1rem",
+            "space-sm": "0.5rem",
+            "space-xs": "0.25rem",
+            "space-lg": "1.5rem",
+            "margin": "1.5rem",
+            "gutter": "1.25rem"
+          },
+          "fontFamily": {
+            "title-md": ["'Plus Jakarta Sans'", "'Noto Sans Khmer'", "sans-serif"],
+            "body-lg": ["'Plus Jakarta Sans'", "'Noto Sans Khmer'", "sans-serif"],
+            "headline-md": ["'Plus Jakarta Sans'", "'Noto Sans Khmer'", "sans-serif"],
+            "headline-lg": ["'Plus Jakarta Sans'", "'Noto Sans Khmer'", "sans-serif"],
+            "body-sm": ["'Plus Jakarta Sans'", "'Noto Sans Khmer'", "sans-serif"],
+            "headline-sm": ["'Plus Jakarta Sans'", "'Noto Sans Khmer'", "sans-serif"],
+            "headline-lg-mobile": ["'Plus Jakarta Sans'", "'Noto Sans Khmer'", "sans-serif"],
+            "label-md": ["'Plus Jakarta Sans'", "'Noto Sans Khmer'", "sans-serif"],
+            "label-sm": ["'Plus Jakarta Sans'", "'Noto Sans Khmer'", "sans-serif"],
+            "mono-data": ["'JetBrains Mono'", "'SF Mono'", "monospace"],
+            "body-md": ["'Plus Jakarta Sans'", "'Noto Sans Khmer'", "sans-serif"]
+          },
+          "fontSize": {
+            "title-md": ["16px", { "lineHeight": "24px", "fontWeight": "600" }],
+            "body-lg": ["16px", { "lineHeight": "24px", "fontWeight": "400" }],
+            "headline-md": ["24px", { "lineHeight": "32px", "fontWeight": "600" }],
+            "headline-lg": ["32px", { "lineHeight": "40px", "fontWeight": "700" }],
+            "body-sm": ["12px", { "lineHeight": "16px", "fontWeight": "400" }],
+            "headline-sm": ["20px", { "lineHeight": "28px", "fontWeight": "600" }],
+            "headline-lg-mobile": ["24px", { "lineHeight": "32px", "fontWeight": "700" }],
+            "label-md": ["14px", { "lineHeight": "20px", "fontWeight": "500" }],
+            "label-sm": ["12px", { "lineHeight": "16px", "fontWeight": "500" }],
+            "mono-data": ["14px", { "lineHeight": "20px", "fontWeight": "500" }],
+            "body-md": ["14px", { "lineHeight": "20px", "fontWeight": "400" }]
+          }
+        }
+      }
+    }
+  </script>
+<style>
+    .material-symbols-outlined {
+      font-family: 'Material Symbols Outlined';
+      font-weight: normal;
+      font-style: normal;
+      font-size: 20px;
+      line-height: 1;
+      letter-spacing: normal;
+      text-transform: none;
+      display: inline-block;
+      white-space: nowrap;
+      word-wrap: normal;
+      direction: ltr;
+      -webkit-font-smoothing: antialiased;
+    }
+    @keyframes pulse-subtle {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.6; }
+    }
+    .animate-pulse-subtle {
+      animation: pulse-subtle 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+    }
+  </style>
+</head>
+<body class="bg-background text-on-background font-body-md text-body-md antialiased min-h-screen flex flex-col selection:bg-soft-sage selection:text-primary">
+<!-- ========================================================================= -->
+<!-- SHARED COMPONENT 1: TopNavBar (Web Header) -->
+<!-- Conforms to Shared Components JSON: HarvestFlow Cambodia                   -->
+<!-- ========================================================================= -->
+<header class="sticky top-0 z-50 flex items-center justify-between w-full px-space-lg py-space-sm bg-clean-canvas dark:bg-charcoal border-b border-border-gray dark:border-deep-olive-slate">
+<!-- Brand & Left Cluster -->
+<div class="flex items-center gap-space-lg">
+<div class="flex items-center gap-space-sm">
+<div class="w-9 h-9 rounded-lg bg-primary flex items-center justify-center text-on-primary">
+<span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 1;">eco</span>
+</div>
+<div class="flex flex-col">
+<span class="text-headline-sm font-headline-sm font-bold text-cooperative-dark-green dark:text-inverse-primary tracking-tight">HarvestFlow Cambodia</span>
+<span class="text-body-sm font-body-sm text-deep-olive-slate -mt-1 font-medium">ហាវេសហ្វ្លូ • វេទិកាសហករណ៍កសិកម្ម</span>
+</div>
+</div>
+<!-- Quick Search Bar (search_bar: on_left) -->
+<div class="relative hidden xl:block w-72">
+<span class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none text-deep-olive-slate">
+<span class="material-symbols-outlined">search</span>
+</span></div>
+<input class="w-full pl-9 pr-3 py-1.5 text-body-md font-body-md bg-card-background border border-border-gray rounded-lg focus:outline-none focus:ring-1 focus:ring-primary focus:border-primary text-on-background placeholder:text-deep-olive-slate/60 transition-colors" placeholder="ស្វែងរកកសិករ លេខកញ្ចប់ ឬកសិផល..." type="text"/>
+</div>
+<!-- Navigation Links from Shared Components JSON -->
+<!-- Active Intent: Live Scale Station Intake screen maps to "Scale Intake" -->
+<nav class="hidden lg:flex items-center gap-space-md ml-2">
+<a class="text-deep-olive-slate dark:text-surface-container-highest hover:text-primary dark:hover:text-inverse-primary font-body-md text-body-md px-1 transition-colors" href="#inventory">Inventory Ledger</a>
+<a class="text-primary dark:text-inverse-primary border-b-2 border-primary dark:border-inverse-primary font-title-md text-title-md pb-1 px-1" href="#scale-station">Scale Intake</a>
+<a class="text-deep-olive-slate dark:text-surface-container-highest hover:text-primary dark:hover:text-inverse-primary font-body-md text-body-md px-1 transition-colors" href="#payouts">Bakong Payouts</a>
+<a class="text-deep-olive-slate dark:text-surface-container-highest hover:text-primary dark:hover:text-inverse-primary font-body-md text-body-md px-1 transition-colors" href="#cold-storage">Cold Storage</a>
+</nav>
+<!-- Center/Right Status Indicators & Role Toggles -->
+<div class="flex items-center gap-space-md">
+<!-- Role Switcher Toggle Pill -->
+<div class="hidden md:flex items-center p-0.5 bg-card-background border border-border-gray rounded-full">
+<button class="flex items-center gap-1.5 px-3 py-1 text-label-sm font-label-sm rounded-full bg-cooperative-dark-green text-on-primary">
+<span class="material-symbols-outlined text-[16px]">check_circle</span>
+<span>សហករណ៍ (Cooperative Seller)</span>
+</button>
+<button class="flex items-center gap-1.5 px-3 py-1 text-label-sm font-label-sm rounded-full text-deep-olive-slate hover:text-on-background transition-colors">
+<span class="material-symbols-outlined text-[16px]">shopping_cart</span>
+<span>អ្នកទិញបោះដុំ (Wholesale Buyer)</span>
+</button>
+</div>
+<!-- Cold Storage Live Sensor Badge -->
+<div class="hidden 2xl:flex items-center gap-2 px-3 py-1 bg-mint-surface border border-soft-sage rounded-full text-label-sm font-label-sm text-cooperative-dark-green">
+<span class="material-symbols-outlined text-[16px] text-vibrant-leaf" style="font-variation-settings: 'FILL' 1;">ac_unit</span>
+<span>Cold Storage #2: <strong class="font-mono-data text-mono-data">4.2°C</strong> • 88% Humidity • Normal</span>
+</div>
+<!-- NBC Bakong API Connectivity Status -->
+<div class="hidden sm:flex items-center gap-1.5 px-2.5 py-1 bg-surface-container-low border border-border-gray rounded-full text-label-sm font-label-sm text-bakong-blue">
+<span class="w-2 h-2 rounded-full bg-vibrant-leaf animate-pulse"></span>
+<span class="font-medium">Bakong API Connected</span>
+</div>
+<!-- Action Buttons from Shared Components JSON -->
+<div class="flex items-center gap-space-sm">
+<button class="hidden lg:flex items-center gap-1.5 px-3 py-1.5 bg-spoilage-red text-on-primary rounded-lg text-label-md font-label-md hover:bg-spoilage-red/90 active:scale-95 transition-all">
+<span class="material-symbols-outlined text-[18px]">bolt</span>
+<span>Emergency Flash Sale</span>
+</button>
+<button class="hidden xl:flex items-center gap-1 px-3 py-1.5 bg-soft-sage text-cooperative-dark-green rounded-lg text-label-md font-label-md hover:bg-soft-sage/80 active:scale-95 transition-all">
+<span class="material-symbols-outlined text-[18px]">storefront</span>
+<span>Cooperative Seller</span>
+</button>
+</div>
+<!-- Trailing Icon Actions from Shared Components JSON -->
+<div class="flex items-center gap-1 text-deep-olive-slate">
+<button class="w-8 h-8 rounded-lg flex items-center justify-center hover:bg-soft-sage hover:text-cooperative-dark-green transition-colors active:scale-95" title="IoT Sensors">
+<span class="material-symbols-outlined">sensors</span>
+</button>
+<button class="w-8 h-8 rounded-lg flex items-center justify-center hover:bg-soft-sage hover:text-cooperative-dark-green transition-colors active:scale-95" title="Change Language">
+<span class="material-symbols-outlined">language</span>
+</button>
+<button class="w-8 h-8 rounded-lg relative flex items-center justify-center hover:bg-soft-sage hover:text-cooperative-dark-green transition-colors active:scale-95" title="Notifications">
+<span class="material-symbols-outlined">notifications</span>
+<span class="absolute top-1.5 right-1.5 w-2 h-2 bg-spoilage-red rounded-full"></span>
+</button>
+</div>
+<!-- Verified Cooperative Manager Profile Avatar -->
+<div class="flex items-center gap-space-sm pl-2 border-l border-border-gray">
+<img class="w-9 h-9 rounded-full object-cover border border-border-gray ring-1 ring-primary/20" data-alt="A dignified Cambodian cooperative warehouse operations manager in high-visibility agricultural polo shirt smiling in a modern bright agro-logistics warehouse setting in Battambang under warm daytime natural light with soft background depth" src="https://lh3.googleusercontent.com/aida-public/AB6AXuC2vfCKelT3i6pgHlCBm4mqBDu8jWSHpq4j0BmW4gdqinSRLRHwOXSIjyDpUnkRsrwH485qR_ap77fODLZoKoLwUa_a70u1yD5opQTBzCL0vB_2RsZsvkTFpV-A3aRIKuosy3kuuTn58xclO8uF3gphYLcfGERi6PDrPlpgwUVQ8hxarpeWtgY4TySAIGuI363bgPyj5Oc3oIYYOd73jh0fdsU-L66sxI7FYvE9WTKSY5hWPM50jqAwGV3k46xm0TlriQwhUmIjZ4Y"/>
+<div class="hidden xl:flex flex-col text-left">
+<span class="text-label-md font-label-md text-on-surface leading-tight">សេង សុភា (Seng Sophea)</span>
+<span class="text-body-sm font-body-sm text-deep-olive-slate">ប្រធានឃ្លាំងបាត់ដំបង</span>
+</div>
+</div>
+</div>
+</header>
+<!-- ========================================================================= -->
+<!-- MAIN WORKSPACE LAYOUT (WITH SHARED COMPONENT 2: SideNavBar)                 -->
+<!-- ========================================================================= -->
+<div class="flex-1 flex overflow-hidden">
+<!-- SHARED COMPONENT 2: SideNavBar (Modular Workspace Drawer) -->
+<!-- Positioned docked left under the header, w-64 -->
+<aside class="w-64 shrink-0 hidden lg:flex flex-col justify-between p-space-md bg-card-background dark:bg-midnight border-r border-border-gray dark:border-deep-olive-slate">
+<!-- Drawer Header with Agricultural Cooperative Seal -->
+<div class="flex flex-col gap-space-md">
+<div class="flex items-center gap-space-sm pb-space-sm border-b border-border-gray">
+<div class="w-10 h-10 rounded-lg bg-cooperative-dark-green text-on-primary flex items-center justify-center">
+<span class="material-symbols-outlined text-2xl" style="font-variation-settings: 'FILL' 1;">agriculture</span>
+</div>
+<div class="flex flex-col">
+<span class="text-title-md font-title-md font-bold text-primary dark:text-inverse-primary leading-tight">Battambang Central Hub</span>
+<span class="text-label-sm font-label-sm text-vibrant-leaf font-mono-data">AC-KH-0891 • Online</span>
+</div>
+</div>
+<!-- Primary Drawer CTA from Shared Components JSON -->
+<button class="w-full flex items-center justify-center gap-2 py-2.5 px-space-md bg-primary hover:bg-cooperative-dark-green text-on-primary rounded-lg text-label-md font-label-md transition-colors shadow-sm active:scale-[0.98]">
+<span class="material-symbols-outlined text-[18px]">add_circle</span>
+<span>New Scale Batch Intake</span>
+</button>
+<!-- 6 Navigation Tabs from Shared Components JSON -->
+<nav class="flex flex-col gap-1 mt-1">
+<!-- Active Tab: Live Scale Station -->
+<a class="flex items-center gap-space-sm bg-soft-sage dark:bg-cooperative-dark-green text-cooperative-dark-green dark:text-on-primary rounded-lg px-space-md py-space-sm font-title-md text-title-md transition-colors active:scale-[0.98]" href="#scale-station">
+<span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 1;">scale</span>
+<span>Live Scale Station</span>
+</a>
+<!-- Inactive Tabs -->
+<a class="flex items-center gap-space-sm text-deep-olive-slate dark:text-surface-container-highest hover:bg-surface-container-high dark:hover:bg-deep-olive-slate hover:text-cooperative-dark-green rounded-lg px-space-md py-space-sm font-body-md text-body-md transition-colors active:scale-[0.98]" href="#inventory">
+<span class="material-symbols-outlined">inventory_2</span>
+<span>Produce Inventory</span>
+</a>
+<a class="flex items-center gap-space-sm text-deep-olive-slate dark:text-surface-container-highest hover:bg-surface-container-high dark:hover:bg-deep-olive-slate hover:text-cooperative-dark-green rounded-lg px-space-md py-space-sm font-body-md text-body-md transition-colors active:scale-[0.98]" href="#settlements">
+<span class="material-symbols-outlined">qr_code_scanner</span>
+<span>Bakong Settlements</span>
+</a>
+<a class="flex items-center gap-space-sm text-deep-olive-slate dark:text-surface-container-highest hover:bg-surface-container-high dark:hover:bg-deep-olive-slate hover:text-cooperative-dark-green rounded-lg px-space-md py-space-sm font-body-md text-body-md transition-colors active:scale-[0.98]" href="#cold-chain">
+<span class="material-symbols-outlined">ac_unit</span>
+<span>Cold Chain Monitoring</span>
+</a>
+<a class="flex items-center gap-space-sm text-deep-olive-slate dark:text-surface-container-highest hover:bg-surface-container-high dark:hover:bg-deep-olive-slate hover:text-cooperative-dark-green rounded-lg px-space-md py-space-sm font-body-md text-body-md transition-colors active:scale-[0.98]" href="#members">
+<span class="material-symbols-outlined">groups</span>
+<span>Cooperative Members</span>
+</a>
+<a class="flex items-center gap-space-sm text-deep-olive-slate dark:text-surface-container-highest hover:bg-surface-container-high dark:hover:bg-deep-olive-slate hover:text-cooperative-dark-green rounded-lg px-space-md py-space-sm font-body-md text-body-md transition-colors active:scale-[0.98]" href="#compliance">
+<span class="material-symbols-outlined">verified</span>
+<span>Compliance &amp; Quality</span>
+</a>
+</nav>
+</div>
+<!-- Drawer Footer from Shared Components JSON -->
+<div class="pt-space-md border-t border-border-gray dark:border-deep-olive-slate flex flex-col gap-1">
+<a class="flex items-center gap-space-sm text-deep-olive-slate hover:text-primary rounded-lg px-space-md py-space-sm font-body-md text-body-md transition-colors" href="#language">
+<span class="material-symbols-outlined">translate</span>
+<span>Language: ខ្មែរ / EN</span>
+</a>
+<a class="flex items-center gap-space-sm text-deep-olive-slate hover:text-primary rounded-lg px-space-md py-space-sm font-body-md text-body-md transition-colors" href="#settings">
+<span class="material-symbols-outlined">settings</span>
+<span>System Settings</span>
+</a>
+</div>
+</aside>
+<!-- ========================================================================= -->
+<!-- MAIN CONTENT CANVAS: Fluid Grid & Operational Hub                          -->
+<!-- ========================================================================= -->
+<main class="flex-1 overflow-y-auto px-4 md:px-6 lg:px-8 py-6 space-y-6">
+<!-- BANNER: Flash Sale Spoilage Elimination Notification -->
+<section class="bg-gradient-to-r from-spoilage-red to-[#8F1313] text-on-primary rounded-xl p-4 md:p-5 flex flex-col md:flex-row items-start md:items-center justify-between gap-4 border border-spoilage-red shadow-sm">
+<div class="flex items-start md:items-center gap-3.5">
+<div class="w-11 h-11 rounded-lg bg-on-primary/20 backdrop-blur-sm flex items-center justify-center shrink-0">
+<span class="material-symbols-outlined text-2xl text-on-primary">warning</span>
+</div>
+<div>
+<div class="flex flex-wrap items-center gap-2">
+<span class="text-title-md font-title-md text-on-primary font-bold">ប្រព័ន្ធលក់បញ្ចុះតម្លៃការពារការខូចខាត (Urgent Spoilage Risk Alert)</span>
+<span class="px-2 py-0.5 rounded-full bg-on-primary text-spoilage-red text-label-sm font-label-sm font-bold animate-pulse">8 ម៉ោងទៀតផុតកំណត់</span>
+</div>
+<p class="text-body-md font-body-md text-on-primary/90 mt-0.5">
+              Organic Bok Choy (Kandal Farm Lot #BOK-091) 180kg នៅសល់អាយុកាល 8 ម៉ោង។ បានប្រកាសបញ្ចុះតម្លៃ <strong>-35% ($0.85/kg)</strong> ទៅកាន់ <strong>48 ភោជនីយដ្ឋាន &amp; ផ្សារទំនើបភ្នំពេញ</strong>។
+            </p>
+</div>
+</div>
+<div class="flex items-center gap-2 w-full md:w-auto shrink-0">
+<button class="flex-1 md:flex-none px-4 py-2 bg-on-primary text-spoilage-red hover:bg-clean-canvas font-title-md text-title-md rounded-lg transition-colors active:scale-95 shadow-sm">
+            ផ្សាយលក់បញ្ចុះតម្លៃបន្ទាន់ (Broadcast Sale)
+          </button>
+<button class="px-3 py-2 bg-spoilage-red/50 hover:bg-spoilage-red text-on-primary font-title-md text-title-md rounded-lg border border-on-primary/30 transition-colors">
+            ពិនិត្យស្តុក
+          </button>
+</div>
+</section>
+<!-- TOP METRIC KPI CARDS (Bilingual 4-Column Grid) -->
+<section class="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-4 gap-4">
+<!-- Metric 1: Today's Intake -->
+<div class="bg-card-background border border-border-gray rounded-xl p-4 flex flex-col justify-between hover:border-soft-sage transition-all">
+<div class="flex items-center justify-between">
+<span class="text-label-md font-label-md text-deep-olive-slate font-medium">ទំងន់ប្រមូលផលថ្ងៃនេះ (Today's Intake)</span>
+<span class="w-8 h-8 rounded-lg bg-soft-sage text-cooperative-dark-green flex items-center justify-center">
+<span class="material-symbols-outlined text-[18px]">scale</span>
+</span>
+</div>
+<div class="mt-3">
+<div class="flex items-baseline gap-2">
+<span class="text-headline-lg font-headline-lg font-bold text-on-background font-mono-data tracking-tight">3,420</span>
+<span class="text-title-md font-title-md text-deep-olive-slate font-medium">kg</span>
+</div>
+<div class="flex items-center gap-1.5 mt-1 text-vibrant-leaf text-label-sm font-label-sm">
+<span class="material-symbols-outlined text-[16px]">trending_up</span>
+<span>+18% ធៀបម្សិលមិញ (vs yesterday)</span>
+</div>
+</div>
+</div>
+<!-- Metric 2: Fresh Inventory Value -->
+<div class="bg-card-background border border-border-gray rounded-xl p-4 flex flex-col justify-between hover:border-soft-sage transition-all">
+<div class="flex items-center justify-between">
+<span class="text-label-md font-label-md text-deep-olive-slate font-medium">ទំនិញស្រស់ក្នុងស្តុក (Fresh Inventory)</span>
+<span class="w-8 h-8 rounded-lg bg-mint-surface text-vibrant-leaf flex items-center justify-center">
+<span class="material-symbols-outlined text-[18px]" style="font-variation-settings: 'FILL' 1;">inventory</span>
+</span>
+</div>
+<div class="mt-3">
+<div class="flex items-baseline gap-2">
+<span class="text-headline-lg font-headline-lg font-bold text-on-background font-mono-data tracking-tight">$14,850</span>
+<span class="text-label-md font-label-md text-deep-olive-slate">USD</span>
+</div>
+<div class="text-body-sm font-body-sm text-deep-olive-slate mt-1 font-mono-data">
+              សមមូល ៛60,885,000 KHR • 18 ប្រភេទបន្លែផ្លែឈើ
+            </div>
+</div>
+</div>
+<!-- Metric 3: Expiring Soon / Flash Sale -->
+<div class="bg-card-background border border-spoilage-red/30 rounded-xl p-4 flex flex-col justify-between relative overflow-hidden">
+<div class="absolute -right-3 -top-3 w-16 h-16 bg-spoilage-red/10 rounded-full pointer-events-none"></div>
+<div class="flex items-center justify-between">
+<span class="text-label-md font-label-md text-spoilage-red font-semibold">ជិតផុតកំណត់បន្ទាន់ (Expiring Soon)</span>
+<span class="w-8 h-8 rounded-lg bg-error-container text-spoilage-red flex items-center justify-center">
+<span class="material-symbols-outlined text-[18px]">alarm</span>
+</span>
+</div>
+<div class="mt-3">
+<div class="flex items-baseline gap-2">
+<span class="text-headline-lg font-headline-lg font-bold text-spoilage-red font-mono-data tracking-tight">3 Lots</span>
+<span class="text-title-md font-title-md text-deep-olive-slate">(420 kg)</span>
+</div>
+<div class="flex items-center gap-1.5 mt-1 text-spoilage-red text-label-sm font-label-sm font-medium">
+<span class="material-symbols-outlined text-[16px]">priority_high</span>
+<span>ត្រូវការបញ្ចុះតម្លៃលក់ចេញក្នុង 12 ម៉ោង</span>
+</div>
+</div>
+</div>
+<!-- Metric 4: Bakong KHQR Payouts Today -->
+<div class="bg-card-background border border-border-gray rounded-xl p-4 flex flex-col justify-between hover:border-bakong-blue/40 transition-all">
+<div class="flex items-center justify-between">
+<span class="text-label-md font-label-md text-bakong-blue font-semibold">ទូទាត់បាគងថ្ងៃនេះ (Bakong Payouts)</span>
+<span class="w-8 h-8 rounded-lg bg-[#E0EBF5] text-bakong-blue flex items-center justify-center">
+<span class="material-symbols-outlined text-[18px]" style="font-variation-settings: 'FILL' 1;">account_balance</span>
+</span>
+</div>
+<div class="mt-3">
+<div class="flex items-baseline gap-2">
+<span class="text-headline-lg font-headline-lg font-bold text-bakong-blue font-mono-data tracking-tight">$4,280</span>
+<span class="text-label-md font-label-md text-deep-olive-slate">USD Settled</span>
+</div>
+<div class="flex items-center gap-1.5 mt-1 text-vibrant-leaf text-label-sm font-label-sm">
+<span class="material-symbols-outlined text-[16px]">verified</span>
+<span>24 កសិករទទួលបានប្រាក់ភ្លាមៗ 100%</span>
+</div>
+</div>
+</div>
+</section>
+<!-- ========================================================================= -->
+<!-- CORE INTERACTIVE WORKSPACE: DIGITAL SCALE INTAKE & BAKONG SETTLEMENT       -->
+<!-- Bento Grid: 8-column Scale Console + 4-column KHQR Instant Payout Card     -->
+<!-- ========================================================================= -->
+<section class="grid grid-cols-1 lg:grid-cols-12 gap-6" id="scale-station">
+<!-- LEFT/CENTER: Digital Scale Intake & Smart Tagging (8 cols) -->
+<div class="lg:col-span-8 bg-card-background border border-border-gray rounded-xl p-5 md:p-6 space-y-5">
+<!-- Station Header & Bluetooth Scale Connectivity Bar -->
+<div class="flex flex-col sm:flex-row sm:items-center justify-between pb-4 border-b border-border-gray gap-3">
+<div>
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-cooperative-dark-green text-2xl">scale</span>
+<h2 class="text-headline-sm font-headline-sm font-bold text-on-background">
+                  ស្ថានីយថ្លឹងឌីជីថល &amp; ចេញប័ណ្ណស្តុក (Digital Scale Intake)
+                </h2>
+</div>
+<p class="text-body-sm font-body-sm text-deep-olive-slate mt-0.5">
+                ការទទួលកសិផលផ្ទាល់ពីកសិករសមាជិក ពិនិត្យសំណើម កំណត់ចំណាត់ថ្នាក់ និងទូទាត់ភ្លាមៗ
+              </p>
+</div>
+<!-- Digital Scale Bluetooth Connect Bar Indicator -->
+<div class="flex items-center gap-2.5 px-3 py-1.5 bg-clean-canvas border border-border-gray rounded-lg shadow-sm">
+<span class="w-2.5 h-2.5 rounded-full bg-vibrant-leaf animate-pulse"></span>
+<div class="flex flex-col text-left">
+<span class="text-label-sm font-label-sm font-bold text-cooperative-dark-green">CAS CI-2001A Scale</span>
+<span class="text-body-sm font-body-sm text-deep-olive-slate font-mono-data text-[11px]">Bluetooth 5.2 • 0.00kg Calibrated</span>
+</div>
+<span class="material-symbols-outlined text-deep-olive-slate text-sm ml-1">bluetooth_connected</span>
+</div>
+</div>
+<!-- Digital LED Weight Console & Tare Readout -->
+<div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+<!-- Active Large LED Monospace Readout -->
+<div class="md:col-span-2 bg-midnight text-on-primary rounded-xl p-5 flex flex-col justify-between border-2 border-primary shadow-inner">
+<div class="flex items-center justify-between text-body-sm font-body-sm text-inverse-primary font-mono-data">
+<span class="flex items-center gap-1.5">
+<span class="w-2 h-2 rounded-full bg-vibrant-leaf"></span>
+                  LIVE STABILIZED WEIGHT
+                </span>
+<span class="px-2 py-0.5 rounded bg-cooperative-dark-green/60 text-[11px]">STATUS: STABLE</span>
+</div>
+<div class="my-4 text-center">
+<span class="text-6xl md:text-7xl font-bold font-mono-data tracking-tight text-white drop-shadow">
+                  148.50
+                </span>
+<span class="text-2xl font-mono-data text-soft-sage ml-2">kg</span>
+</div>
+<div class="grid grid-cols-2 gap-3 pt-3 border-t border-deep-olive-slate/60 text-center font-mono-data text-sm">
+<div class="bg-charcoal/80 rounded py-1 px-2 border border-deep-olive-slate/40">
+<span class="text-deep-olive-slate block text-[11px]">TARE (កន្ត្រកជ័រ)</span>
+<span class="text-spoilage-red font-bold text-body-md">-3.20 kg</span>
+</div>
+<div class="bg-charcoal/80 rounded py-1 px-2 border border-deep-olive-slate/40">
+<span class="text-soft-sage block text-[11px]">NET WEIGHT (ទំងន់សុទ្ធ)</span>
+<span class="text-inverse-primary font-bold text-title-md">145.30 kg</span>
+</div>
+</div>
+</div>
+<!-- Tare & Zero Controls -->
+<div class="bg-clean-canvas border border-border-gray rounded-xl p-4 flex flex-col justify-between space-y-3">
+<span class="text-label-md font-label-md font-semibold text-deep-olive-slate">Scale Calibrations</span>
+<div class="space-y-2">
+<button class="w-full py-2 px-3 bg-surface-container hover:bg-surface-container-high rounded-lg text-label-md font-label-md text-on-background flex items-center justify-between transition-colors">
+<span>កាត់ទំងន់កន្ត្រក (Tare Crate)</span>
+<span class="font-mono-data text-body-sm font-semibold">-3.20 kg</span>
+</button>
+<button class="w-full py-2 px-3 bg-surface-container hover:bg-surface-container-high rounded-lg text-label-md font-label-md text-on-background flex items-center justify-between transition-colors">
+<span>សូន្យមាត្រដ្ឋាន (Zero Reset)</span>
+<span class="font-mono-data text-body-sm">0.00 kg</span>
+</button>
+<div class="p-2.5 rounded-lg bg-mint-surface border border-soft-sage">
+<div class="flex items-center justify-between text-body-sm font-body-sm">
+<span class="text-cooperative-dark-green font-medium">សំណើម (Moisture):</span>
+<strong class="font-mono-data text-cooperative-dark-green">14.2%</strong>
+</div>
+<div class="w-full bg-border-gray h-2 rounded-full mt-1.5 overflow-hidden">
+<div class="bg-vibrant-leaf h-full rounded-full" style="width: 72%;"></div>
+</div>
+<span class="text-[11px] text-deep-olive-slate block mt-1">កម្រិតស្តង់ដារល្អ (Optimal range 13-15%)</span>
+</div>
+</div>
+<span class="text-[11px] text-deep-olive-slate text-center block">Last synced: 2 seconds ago</span>
+</div>
+</div>
+<!-- Form Fields: Farmer Selection, Produce Type & Grade Assignment -->
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
+<!-- Member Farmer Lookup -->
+<div class="space-y-1.5">
+<label class="text-label-md font-label-md font-medium text-deep-olive-slate flex items-center justify-between">
+<span>កសិករសមាជិក (Member Farmer)</span>
+<span class="text-vibrant-leaf text-body-sm font-mono-data">#BTM-0429</span>
+</label>
+<div class="relative">
+<div class="flex items-center gap-2 p-2.5 bg-clean-canvas border border-border-gray rounded-lg focus-within:border-primary">
+<div class="w-8 h-8 rounded-full bg-soft-sage text-cooperative-dark-green flex items-center justify-center font-bold text-body-sm">
+                    MC
+                  </div>
+<div class="flex-1 min-w-0">
+<div class="font-title-md text-title-md text-on-background truncate">ម៉ៅ ចាន់ដារ៉ា (Mao Chandara)</div>
+<div class="text-body-sm font-body-sm text-deep-olive-slate truncate">កសិដ្ឋានសរីរាង្គ សំឡូត • ខេត្តបាត់ដំបង</div>
+</div>
+<button class="text-primary hover:text-cooperative-dark-green">
+<span class="material-symbols-outlined text-[20px]">swap_horiz</span>
+</button>
+</div>
+</div>
+</div>
+<!-- Produce Selection -->
+<div class="space-y-1.5">
+<label class="text-label-md font-label-md font-medium text-deep-olive-slate">
+                ប្រភេទកសិផល (Produce Item)
+              </label>
+<select class="w-full p-2.5 bg-clean-canvas border border-border-gray rounded-lg text-title-md font-title-md text-on-background focus:ring-1 focus:ring-primary focus:border-primary">
+<option selected="">ស្វាយកែវរមៀតបាត់ដំបង (Keo Romeat Mango) - $1.20/kg</option>
+<option>ស្ពៃក្តោបសរីរាង្គតាកែវ (Takeo Cabbage) - $0.95/kg</option>
+<option>ស្រូវផ្ការំដួលសម្រូង (Phka Rumduol Paddy) - $0.38/kg</option>
+<option>ម្ទេសអាចម៍សត្វកណ្តាល (Bird's Eye Chili) - $2.80/kg</option>
+</select>
+</div>
+</div>
+<!-- Quality Grade Selector -->
+<div class="space-y-2">
+<label class="text-label-md font-label-md font-medium text-deep-olive-slate block">
+              ចំណាត់ថ្នាក់គុណភាព (Assigned Quality Grade)
+            </label>
+<div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
+<label class="relative flex items-center justify-between p-3 rounded-lg border-2 border-primary bg-mint-surface cursor-pointer">
+<div class="flex items-center gap-2">
+<input checked="" class="text-primary focus:ring-primary" name="grade" type="radio"/>
+<div>
+<span class="font-bold text-title-md text-cooperative-dark-green block">Grade A (នាំចេញ)</span>
+<span class="text-body-sm font-body-sm text-deep-olive-slate">Export Quality • $1.20/kg</span>
+</div>
+</div>
+<span class="px-2 py-0.5 bg-primary text-on-primary rounded text-label-sm font-label-sm">High</span>
+</label>
+<label class="relative flex items-center justify-between p-3 rounded-lg border border-border-gray bg-clean-canvas hover:bg-surface-container cursor-pointer">
+<div class="flex items-center gap-2">
+<input class="text-primary focus:ring-primary" name="grade" type="radio"/>
+<div>
+<span class="font-bold text-title-md text-on-background block">Grade B (ក្នុងស្រុក)</span>
+<span class="text-body-sm font-body-sm text-deep-olive-slate">Domestic Market • $0.90/kg</span>
+</div>
+</div>
+</label>
+<label class="relative flex items-center justify-between p-3 rounded-lg border border-border-gray bg-clean-canvas hover:bg-surface-container cursor-pointer">
+<div class="flex items-center gap-2">
+<input class="text-primary focus:ring-primary" name="grade" type="radio"/>
+<div>
+<span class="font-bold text-title-md text-on-background block">Grade C (កែច្នៃ)</span>
+<span class="text-body-sm font-body-sm text-deep-olive-slate">Processing / Juice • $0.55/kg</span>
+</div>
+</div>
+</label>
+</div>
+</div>
+<!-- Action Buttons for Station -->
+<div class="pt-3 border-t border-border-gray flex flex-col sm:flex-row items-center justify-end gap-3">
+<button class="w-full sm:w-auto px-5 py-2.5 bg-clean-canvas border border-border-gray hover:bg-surface-container text-deep-olive-slate font-title-md text-title-md rounded-lg flex items-center justify-center gap-2 transition-colors active:scale-95">
+<span class="material-symbols-outlined text-[18px]">print</span>
+<span>បោះពុម្ពស្លាក QR ស្តុក (Print QR Lot Tag)</span>
+</button>
+<button class="w-full sm:w-auto px-6 py-2.5 bg-primary hover:bg-cooperative-dark-green text-on-primary font-title-md text-title-md rounded-lg flex items-center justify-center gap-2 shadow-sm transition-colors active:scale-95">
+<span class="material-symbols-outlined text-[20px]" style="font-variation-settings: 'FILL' 1;">qr_code_scanner</span>
+<span>បង្កើតប័ណ្ណទូទាត់បាគងភ្លាមៗ (Generate Instant Bakong Payout)</span>
+</button>
+</div>
+</div>
+<!-- RIGHT COLUMN: Bakong KHQR Farmer Settlement Module (4 cols) -->
+<div class="lg:col-span-4 bg-card-background border border-border-gray rounded-xl p-5 md:p-6 flex flex-col justify-between space-y-5" id="payouts">
+<div>
+<!-- Header with Official Bakong Accent -->
+<div class="flex items-center justify-between pb-3 border-b border-border-gray">
+<div class="flex items-center gap-2">
+<div class="w-7 h-7 rounded bg-bakong-blue text-on-primary flex items-center justify-center font-bold text-xs tracking-wider">
+                  KHQR
+                </div>
+<h3 class="text-title-md font-title-md font-bold text-on-background">ការទូទាត់រហ័សបាគង (Bakong Payout)</h3>
+</div>
+<span class="text-[11px] font-mono-data text-bakong-blue bg-[#E0EBF5] px-2 py-0.5 rounded-full font-bold">NBC Verified</span>
+</div>
+<!-- Genuine KHQR Settlement Card Mockup -->
+<div class="mt-4 bg-clean-canvas border-2 border-bakong-blue/30 rounded-xl p-4 shadow-sm text-center relative overflow-hidden">
+<!-- KHQR Header Banner -->
+<div class="bg-spoilage-red text-on-primary py-1 px-3 -mx-4 -mt-4 mb-3 font-mono-data text-xs font-bold tracking-widest uppercase flex items-center justify-between">
+<span>BAKONG KHQR</span>
+<span class="text-[10px] opacity-80">INDIVIDUAL RECIPIENT</span>
+</div>
+<!-- Recipient & Lot Ref -->
+<div class="text-left mb-3">
+<span class="text-body-sm font-body-sm text-deep-olive-slate block">អ្នកទទួលប្រាក់ (Farmer Beneficiary):</span>
+<span class="text-title-md font-title-md font-bold text-on-background block">MAO CHANDARA</span>
+<div class="flex items-center justify-between text-body-sm font-body-sm font-mono-data text-deep-olive-slate mt-0.5">
+<span>KHQR ID: mao_c@aclb</span>
+<span class="text-vibrant-leaf font-bold">#LOT-BTM-0518</span>
+</div>
+</div>
+<!-- KHQR Matrix Code Display -->
+<div class="relative w-48 h-48 mx-auto bg-white p-2 rounded-lg border border-border-gray shadow-inner flex items-center justify-center">
+<!-- SVG Vector QR Code representation with center logo -->
+<svg class="w-full h-full text-midnight" viewbox="0 0 100 100">
+<!-- Corner Finders -->
+<rect fill="currentColor" height="26" rx="3" width="26" x="5" y="5"></rect>
+<rect fill="white" height="18" rx="1" width="18" x="9" y="9"></rect>
+<rect fill="currentColor" height="10" rx="1" width="10" x="13" y="13"></rect>
+<rect fill="currentColor" height="26" rx="3" width="26" x="69" y="5"></rect>
+<rect fill="white" height="18" rx="1" width="18" x="73" y="9"></rect>
+<rect fill="currentColor" height="10" rx="1" width="10" x="77" y="13"></rect>
+<rect fill="currentColor" height="26" rx="3" width="26" x="5" y="69"></rect>
+<rect fill="white" height="18" rx="1" width="18" x="9" y="73"></rect>
+<rect fill="currentColor" height="10" rx="1" width="10" x="13" y="77"></rect>
+<!-- Stylized Data Matrix Dots -->
+<circle cx="42" cy="12" fill="currentColor" r="2.5"></circle>
+<circle cx="52" cy="12" fill="currentColor" r="2.5"></circle>
+<circle cx="42" cy="22" fill="currentColor" r="2.5"></circle>
+<circle cx="58" cy="22" fill="currentColor" r="2.5"></circle>
+<circle cx="12" cy="42" fill="currentColor" r="2.5"></circle>
+<circle cx="22" cy="42" fill="currentColor" r="2.5"></circle>
+<circle cx="22" cy="52" fill="currentColor" r="2.5"></circle>
+<circle cx="12" cy="58" fill="currentColor" r="2.5"></circle>
+<circle cx="80" cy="42" fill="currentColor" r="2.5"></circle>
+<circle cx="70" cy="50" fill="currentColor" r="2.5"></circle>
+<circle cx="88" cy="52" fill="currentColor" r="2.5"></circle>
+<circle cx="40" cy="72" fill="currentColor" r="2.5"></circle>
+<circle cx="50" cy="80" fill="currentColor" r="2.5"></circle>
+<circle cx="60" cy="72" fill="currentColor" r="2.5"></circle>
+<circle cx="72" cy="88" fill="currentColor" r="2.5"></circle>
+<circle cx="82" cy="78" fill="currentColor" r="2.5"></circle>
+<!-- Center Logo Badge -->
+<circle cx="50" cy="50" fill="white" r="11"></circle>
+<circle cx="50" cy="50" fill="#005A9C" r="9"></circle>
+<text fill="white" font-family="sans-serif" font-size="7" font-weight="bold" text-anchor="middle" x="50" y="53">KHQR</text>
+</svg>
+<div class="absolute inset-0 bg-transparent flex items-end justify-center pb-1">
+<span class="bg-clean-canvas/90 text-[10px] font-mono-data px-1.5 py-0.5 rounded text-deep-olive-slate border border-border-gray">
+                    Expires in 04:59
+                  </span>
+</div>
+</div>
+<!-- Payout Amount Calculation -->
+<div class="mt-3 pt-3 border-t border-border-gray">
+<span class="text-body-sm font-body-sm text-deep-olive-slate block">ទឹកប្រាក់សរុប (145.30 kg × $1.20):</span>
+<div class="text-2xl font-bold font-mono-data text-cooperative-dark-green">
+                  $174.36 <span class="text-body-sm font-medium text-deep-olive-slate">USD</span>
+</div>
+<div class="text-title-md font-mono-data text-deep-olive-slate font-semibold">
+                  ៛714,800 KHR
+                </div>
+</div>
+<!-- Instant Settlement indicator -->
+<div class="mt-3 p-2 bg-soft-sage rounded-lg flex items-center justify-center gap-2 text-label-sm font-label-sm text-cooperative-dark-green font-medium">
+<span class="material-symbols-outlined text-[16px]">sync</span>
+<span>ស្កេនទូទាត់ដោយស្វ័យប្រវត្ត (Auto-settle)</span>
+</div>
+</div>
+</div>
+<!-- Recent Payout Ledger Mini List -->
+<div>
+<div class="flex items-center justify-between text-body-sm font-body-sm mb-2">
+<span class="font-semibold text-deep-olive-slate">ការទូទាត់ថ្មីៗ (Recent Settled Payouts)</span>
+<a class="text-primary hover:underline text-body-sm font-body-sm" href="#all-payouts">មើលទាំងអស់</a>
+</div>
+<div class="space-y-2">
+<div class="flex items-center justify-between p-2 rounded-lg bg-clean-canvas border border-border-gray text-body-sm font-body-sm">
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-vibrant-leaf text-[18px]">verified</span>
+<div>
+<span class="font-medium text-on-background block">គង់ វណ្ណា (Kong Vanna)</span>
+<span class="text-[11px] text-deep-olive-slate font-mono-data">ស្ពៃក្តោប • 210 kg</span>
+</div>
+</div>
+<div class="text-right font-mono-data">
+<span class="font-bold text-on-background block">$199.50</span>
+<span class="text-[11px] text-vibrant-leaf">14:12 • Success</span>
+</div>
+</div>
+<div class="flex items-center justify-between p-2 rounded-lg bg-clean-canvas border border-border-gray text-body-sm font-body-sm">
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-vibrant-leaf text-[18px]">verified</span>
+<div>
+<span class="font-medium text-on-background block">សុខ ផល្លា (Sok Phalla)</span>
+<span class="text-[11px] text-deep-olive-slate font-mono-data">ម្ទេសអាចម៍សត្វ • 45 kg</span>
+</div>
+</div>
+<div class="text-right font-mono-data">
+<span class="font-bold text-on-background block">$126.00</span>
+<span class="text-[11px] text-vibrant-leaf">13:48 • Success</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- ========================================================================= -->
+<!-- FRESH PRODUCE INVENTORY & SHELF-LIFE LEDGER TRACKER                        -->
+<!-- Interactive Table with Filtering Tabs and Spoilage Flash-Sale Triggers    -->
+<!-- ========================================================================= -->
+<section class="bg-card-background border border-border-gray rounded-xl p-5 md:p-6 space-y-4" id="inventory">
+<!-- Section Header & Filter Tabs -->
+<div class="flex flex-col md:flex-row md:items-center justify-between pb-2 border-b border-border-gray gap-4">
+<div>
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-cooperative-dark-green">inventory_2</span>
+<h2 class="text-headline-sm font-headline-sm font-bold text-on-background">
+                តារាងស្តុកកសិផល &amp; អាយុកាលរក្សាទុក (Fresh Produce Inventory &amp; Shelf-life Tracker)
+              </h2>
+</div>
+<p class="text-body-sm font-body-sm text-deep-olive-slate mt-0.5">
+              ការតាមដានកម្រិតស្រស់ អាយុកាលរក្សាទុក និងប្រព័ន្ធស្វ័យប្រវត្តបញ្ចុះតម្លៃលក់ចេញបន្ទាន់
+            </p>
+</div>
+<!-- Produce Classification Tabs -->
+<div class="flex items-center gap-1.5 overflow-x-auto pb-1">
+<button class="px-3.5 py-1.5 rounded-lg bg-primary text-on-primary font-title-md text-title-md shadow-sm shrink-0">
+              ទាំងអស់ (All Produce)
+            </button>
+<button class="px-3.5 py-1.5 rounded-lg bg-clean-canvas hover:bg-surface-container text-deep-olive-slate font-title-md text-title-md border border-border-gray shrink-0 transition-colors">
+              បន្លែស្លឹក (Leafy Greens)
+            </button>
+<button class="px-3.5 py-1.5 rounded-lg bg-clean-canvas hover:bg-surface-container text-deep-olive-slate font-title-md text-title-md border border-border-gray shrink-0 transition-colors">
+              ផ្លែឈើ (Fruits)
+            </button>
+<button class="px-3.5 py-1.5 rounded-lg bg-clean-canvas hover:bg-surface-container text-deep-olive-slate font-title-md text-title-md border border-border-gray shrink-0 transition-colors">
+              ស្រូវអង្ករ (Rice/Grains)
+            </button>
+<button class="px-3.5 py-1.5 rounded-lg bg-error-container text-spoilage-red font-title-md text-title-md border border-spoilage-red/30 shrink-0 flex items-center gap-1">
+<span class="material-symbols-outlined text-[16px]">bolt</span>
+<span>ជិតផុតកំណត់បន្ទាន់ (Flash Sale)</span>
+</button>
+</div>
+</div>
+<!-- High Density Scannable Data Table -->
+<div class="overflow-x-auto">
+<table class="w-full text-left border-collapse">
+<thead>
+<tr class="border-b border-border-gray text-deep-olive-slate text-label-md font-label-md bg-clean-canvas">
+<th class="py-3 px-4">កសិផល &amp; ប្រភពដាំដុះ (Produce &amp; Origin)</th>
+<th class="py-3 px-3">លេខកូដកញ្ចប់ (Lot ID)</th>
+<th class="py-3 px-3">កាលបរិច្ឆេទថ្លឹង (Intake)</th>
+<th class="py-3 px-4">កម្រិតស្រស់ &amp; អាយុកាល (Freshness &amp; Shelf-Life)</th>
+<th class="py-3 px-3">ស្តុកដែលនៅសល់ (Stock Qty)</th>
+<th class="py-3 px-3">តម្លៃដុំ (Wholesale Price)</th>
+<th class="py-3 px-4 text-right">សកម្មភាពបន្ទាន់ (Triggers &amp; Actions)</th>
+</tr>
+</thead>
+<tbody class="divide-y divide-border-gray font-body-md text-body-md">
+<!-- Row 1: High Freshness Keo Romeat Mango -->
+<tr class="hover:bg-clean-canvas/80 transition-colors">
+<td class="py-3.5 px-4">
+<div class="flex items-center gap-3">
+<div class="w-10 h-10 rounded-lg bg-soft-sage text-cooperative-dark-green flex items-center justify-center font-bold text-sm shrink-0">
+                      🥭
+                    </div>
+<div>
+<span class="font-bold text-title-md text-on-background block">ស្វាយកែវរមៀតបាត់ដំបង</span>
+<span class="text-body-sm font-body-sm text-deep-olive-slate">សំឡូត • កសិដ្ឋាន ម៉ៅ ចាន់ដារ៉ា</span>
+</div>
+</div>
+</td>
+<td class="py-3.5 px-3 font-mono-data text-body-sm font-semibold text-deep-olive-slate">
+                  #LOT-BTM-0518
+                </td>
+<td class="py-3.5 px-3 text-body-sm font-body-sm text-deep-olive-slate font-mono-data">
+                  Today, 14:35
+                </td>
+<td class="py-3.5 px-4 min-w-[200px]">
+<div class="flex items-center justify-between text-body-sm font-body-sm mb-1">
+<span class="text-vibrant-leaf font-semibold">94% ស្រស់ខ្លាំង (Grade A)</span>
+<span class="text-deep-olive-slate font-mono-data">5 ថ្ងៃទៀត</span>
+</div>
+<div class="w-full bg-border-gray h-2 rounded-full overflow-hidden">
+<div class="bg-vibrant-leaf h-full rounded-full" style="width: 94%;"></div>
+</div>
+</td>
+<td class="py-3.5 px-3">
+<span class="font-bold text-title-md font-mono-data text-on-background">145.30 kg</span>
+<span class="text-body-sm font-body-sm text-deep-olive-slate block">12 Crates</span>
+</td>
+<td class="py-3.5 px-3 font-mono-data">
+<span class="font-bold text-title-md text-cooperative-dark-green">$1.20</span>
+<span class="text-body-sm text-deep-olive-slate">/kg</span>
+</td>
+<td class="py-3.5 px-4 text-right">
+<div class="flex items-center justify-end gap-2">
+<button class="px-2.5 py-1.5 bg-clean-canvas border border-border-gray hover:bg-surface-container rounded text-label-sm font-label-sm text-deep-olive-slate transition-colors" title="Reserve Stock">
+                      កក់ទុក (Reserve)
+                    </button>
+<button class="px-2.5 py-1.5 bg-clean-canvas border border-border-gray hover:bg-surface-container rounded text-label-sm font-label-sm text-deep-olive-slate flex items-center gap-1 transition-colors" title="Traceability QR">
+<span class="material-symbols-outlined text-[16px]">qr_code</span>
+<span>លម្អិត</span>
+</button>
+</div>
+</td>
+</tr>
+<!-- Row 2: Medium Shelf-life Organic Takeo Cabbage (Warning Amber) -->
+<tr class="hover:bg-clean-canvas/80 transition-colors">
+<td class="py-3.5 px-4">
+<div class="flex items-center gap-3">
+<div class="w-10 h-10 rounded-lg bg-surface-container-high text-cooperative-dark-green flex items-center justify-center font-bold text-sm shrink-0">
+                      🥬
+                    </div>
+<div>
+<span class="font-bold text-title-md text-on-background block">ស្ពៃក្តោបសរីរាង្គតាកែវ</span>
+<span class="text-body-sm font-body-sm text-deep-olive-slate">ត្រាំកក់ • សហករណ៍កសិកម្មតាកែវ</span>
+</div>
+</div>
+</td>
+<td class="py-3.5 px-3 font-mono-data text-body-sm font-semibold text-deep-olive-slate">
+                  #LOT-TKO-0882
+                </td>
+<td class="py-3.5 px-3 text-body-sm font-body-sm text-deep-olive-slate font-mono-data">
+                  Yesterday, 09:15
+                </td>
+<td class="py-3.5 px-4 min-w-[200px]">
+<div class="flex items-center justify-between text-body-sm font-body-sm mb-1">
+<span class="text-warning-amber font-semibold">48% មធ្យម (Normal)</span>
+<span class="text-warning-amber font-mono-data font-bold">24 ម៉ោងទៀត</span>
+</div>
+<div class="w-full bg-border-gray h-2 rounded-full overflow-hidden">
+<div class="bg-warning-amber h-full rounded-full" style="width: 48%;"></div>
+</div>
+</td>
+<td class="py-3.5 px-3">
+<span class="font-bold text-title-md font-mono-data text-on-background">380.00 kg</span>
+<span class="text-body-sm font-body-sm text-deep-olive-slate block">25 Crates</span>
+</td>
+<td class="py-3.5 px-3 font-mono-data">
+<span class="font-bold text-title-md text-on-background">$0.95</span>
+<span class="text-body-sm text-deep-olive-slate">/kg</span>
+</td>
+<td class="py-3.5 px-4 text-right">
+<div class="flex items-center justify-end gap-2">
+<button class="px-2.5 py-1.5 bg-clean-canvas border border-warning-amber/40 text-warning-amber hover:bg-warning-amber/10 rounded text-label-sm font-label-sm font-medium transition-colors">
+                      បញ្ចុះតម្លៃ -15%
+                    </button>
+<button class="px-2.5 py-1.5 bg-clean-canvas border border-border-gray hover:bg-surface-container rounded text-label-sm font-label-sm text-deep-olive-slate flex items-center gap-1 transition-colors">
+<span class="material-symbols-outlined text-[16px]">qr_code</span>
+<span>លម្អិត</span>
+</button>
+</div>
+</td>
+</tr>
+<!-- Row 3: Spoilage Alert Flash Sale Kandal Bok Choy -->
+<tr class="bg-error-container/20 hover:bg-error-container/30 transition-colors">
+<td class="py-3.5 px-4">
+<div class="flex items-center gap-3">
+<div class="w-10 h-10 rounded-lg bg-error-container text-spoilage-red flex items-center justify-center font-bold text-sm shrink-0">
+                      🥗
+                    </div>
+<div>
+<div class="flex items-center gap-2">
+<span class="font-bold text-title-md text-spoilage-red block">ស្ពៃតឿកណ្តាល (Organic Bok Choy)</span>
+<span class="px-1.5 py-0.2 bg-spoilage-red text-on-primary text-[10px] rounded uppercase font-bold tracking-wide">Risk</span>
+</div>
+<span class="text-body-sm font-body-sm text-deep-olive-slate">ស្អាង • សហគមន៍បន្លែសុវត្ថិភាព</span>
+</div>
+</div>
+</td>
+<td class="py-3.5 px-3 font-mono-data text-body-sm font-semibold text-spoilage-red">
+                  #LOT-KDL-0194
+                </td>
+<td class="py-3.5 px-3 text-body-sm font-body-sm text-deep-olive-slate font-mono-data">
+                  May 17, 07:00
+                </td>
+<td class="py-3.5 px-4 min-w-[200px]">
+<div class="flex items-center justify-between text-body-sm font-body-sm mb-1">
+<span class="text-spoilage-red font-bold animate-pulse">12% ប្រឈមខូច (Critical)</span>
+<span class="text-spoilage-red font-mono-data font-bold">8 ម៉ោងទៀត</span>
+</div>
+<div class="w-full bg-border-gray h-2 rounded-full overflow-hidden">
+<div class="bg-spoilage-red h-full rounded-full" style="width: 12%;"></div>
+</div>
+</td>
+<td class="py-3.5 px-3">
+<span class="font-bold text-title-md font-mono-data text-spoilage-red">180.00 kg</span>
+<span class="text-body-sm font-body-sm text-deep-olive-slate block">15 Crates</span>
+</td>
+<td class="py-3.5 px-3 font-mono-data">
+<div class="line-through text-deep-olive-slate text-body-sm">$1.30</div>
+<span class="font-bold text-title-md text-spoilage-red">$0.85</span>
+<span class="text-body-sm text-deep-olive-slate">/kg (-35%)</span>
+</td>
+<td class="py-3.5 px-4 text-right">
+<button class="px-3 py-1.5 bg-spoilage-red text-on-primary hover:bg-spoilage-red/90 rounded-lg text-label-sm font-label-sm font-bold shadow-sm flex items-center gap-1 ml-auto active:scale-95 transition-all">
+<span class="material-symbols-outlined text-[16px]">campaign</span>
+<span>ផ្សាយលក់បញ្ចុះ -35% (Broadcast)</span>
+</button>
+</td>
+</tr>
+<!-- Row 4: Phka Rumduol Premium Rice Paddy -->
+<tr class="hover:bg-clean-canvas/80 transition-colors">
+<td class="py-3.5 px-4">
+<div class="flex items-center gap-3">
+<div class="w-10 h-10 rounded-lg bg-surface-container-high text-cooperative-dark-green flex items-center justify-center font-bold text-sm shrink-0">
+                      🌾
+                    </div>
+<div>
+<span class="font-bold text-title-md text-on-background block">ស្រូវផ្ការំដួលសម្រូង (Somroung Paddy)</span>
+<span class="text-body-sm font-body-sm text-deep-olive-slate">សម្រូង • សហករណ៍កសិកម្មសុវត្ថិភាព</span>
+</div>
+</div>
+</td>
+<td class="py-3.5 px-3 font-mono-data text-body-sm font-semibold text-deep-olive-slate">
+                  #LOT-SMR-0321
+                </td>
+<td class="py-3.5 px-3 text-body-sm font-body-sm text-deep-olive-slate font-mono-data">
+                  May 16, 16:40
+                </td>
+<td class="py-3.5 px-4 min-w-[200px]">
+<div class="flex items-center justify-between text-body-sm font-body-sm mb-1">
+<span class="text-vibrant-leaf font-semibold">98% ស្ងួតល្អ (Moisture 13.5%)</span>
+<span class="text-deep-olive-slate font-mono-data">180 ថ្ងៃ</span>
+</div>
+<div class="w-full bg-border-gray h-2 rounded-full overflow-hidden">
+<div class="bg-vibrant-leaf h-full rounded-full" style="width: 98%;"></div>
+</div>
+</td>
+<td class="py-3.5 px-3">
+<span class="font-bold text-title-md font-mono-data text-on-background">2,450.00 kg</span>
+<span class="text-body-sm font-body-sm text-deep-olive-slate block">49 បាវធំ</span>
+</td>
+<td class="py-3.5 px-3 font-mono-data">
+<span class="font-bold text-title-md text-cooperative-dark-green">$0.38</span>
+<span class="text-body-sm text-deep-olive-slate">/kg</span>
+</td>
+<td class="py-3.5 px-4 text-right">
+<div class="flex items-center justify-end gap-2">
+<button class="px-2.5 py-1.5 bg-clean-canvas border border-border-gray hover:bg-surface-container rounded text-label-sm font-label-sm text-deep-olive-slate transition-colors">
+                      កក់ទុក (Reserve)
+                    </button>
+<button class="px-2.5 py-1.5 bg-clean-canvas border border-border-gray hover:bg-surface-container rounded text-label-sm font-label-sm text-deep-olive-slate flex items-center gap-1 transition-colors">
+<span class="material-symbols-outlined text-[16px]">qr_code</span>
+<span>លម្អិត</span>
+</button>
+</div>
+</td>
+</tr>
+<!-- Row 5: Fresh Bird's Eye Chili (Kandal) -->
+<tr class="hover:bg-clean-canvas/80 transition-colors">
+<td class="py-3.5 px-4">
+<div class="flex items-center gap-3">
+<div class="w-10 h-10 rounded-lg bg-soft-sage text-cooperative-dark-green flex items-center justify-center font-bold text-sm shrink-0">
+                      🌶️
+                    </div>
+<div>
+<span class="font-bold text-title-md text-on-background block">ម្ទេសអាចម៍សត្វកណ្តាល (Chili Grade A)</span>
+<span class="text-body-sm font-body-sm text-deep-olive-slate">កោះធំ • កសិករ សុខ ផល្លា</span>
+</div>
+</div>
+</td>
+<td class="py-3.5 px-3 font-mono-data text-body-sm font-semibold text-deep-olive-slate">
+                  #LOT-KTH-0744
+                </td>
+<td class="py-3.5 px-3 text-body-sm font-body-sm text-deep-olive-slate font-mono-data">
+                  Today, 11:20
+                </td>
+<td class="py-3.5 px-4 min-w-[200px]">
+<div class="flex items-center justify-between text-body-sm font-body-sm mb-1">
+<span class="text-vibrant-leaf font-semibold">88% ស្រស់ខ្លាំង</span>
+<span class="text-deep-olive-slate font-mono-data">4 ថ្ងៃទៀត</span>
+</div>
+<div class="w-full bg-border-gray h-2 rounded-full overflow-hidden">
+<div class="bg-vibrant-leaf h-full rounded-full" style="width: 88%;"></div>
+</div>
+</td>
+<td class="py-3.5 px-3">
+<span class="font-bold text-title-md font-mono-data text-on-background">95.00 kg</span>
+<span class="text-body-sm font-body-sm text-deep-olive-slate block">8 Crates</span>
+</td>
+<td class="py-3.5 px-3 font-mono-data">
+<span class="font-bold text-title-md text-cooperative-dark-green">$2.80</span>
+<span class="text-body-sm text-deep-olive-slate">/kg</span>
+</td>
+<td class="py-3.5 px-4 text-right">
+<div class="flex items-center justify-end gap-2">
+<button class="px-2.5 py-1.5 bg-clean-canvas border border-border-gray hover:bg-surface-container rounded text-label-sm font-label-sm text-deep-olive-slate transition-colors">
+                      កក់ទុក (Reserve)
+                    </button>
+<button class="px-2.5 py-1.5 bg-clean-canvas border border-border-gray hover:bg-surface-container rounded text-label-sm font-label-sm text-deep-olive-slate flex items-center gap-1 transition-colors">
+<span class="material-symbols-outlined text-[16px]">qr_code</span>
+<span>លម្អិត</span>
+</button>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- Ledger Footer & Batch Summary -->
+<div class="pt-3 border-t border-border-gray flex flex-col sm:flex-row items-center justify-between text-body-sm font-body-sm text-deep-olive-slate gap-3">
+<div class="flex items-center gap-2">
+<span>បង្ហាញ 5 ក្នុងចំណោម 34 កញ្ចប់កសិផលសកម្ម</span>
+<span class="w-1.5 h-1.5 rounded-full bg-border-gray"></span>
+<span class="font-mono-data">សរុបស្តុក: 3,250.30 kg</span>
+</div>
+<div class="flex items-center gap-2">
+<button class="px-3 py-1 bg-clean-canvas border border-border-gray rounded text-body-sm font-body-sm hover:bg-surface-container transition-colors disabled:opacity-50" disabled="">មុន</button>
+<span class="px-2 font-mono-data font-semibold text-on-background">1 / 7</span>
+<button class="px-3 py-1 bg-clean-canvas border border-border-gray rounded text-body-sm font-body-sm hover:bg-surface-container transition-colors">បន្ទាប់</button>
+</div>
+</div>
+</section>
+</main>
+</div>
+</body></html>

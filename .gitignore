@@ -1,0 +1,4 @@
+node_modules/
+extracted_assets/
+*.log
+design_md_b64.txt
